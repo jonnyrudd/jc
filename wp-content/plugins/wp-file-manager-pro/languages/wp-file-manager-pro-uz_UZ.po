@@ -1,0 +1,294 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WP File Manager\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-09-06 09:29+0000\n"
+"PO-Revision-Date: 2017-09-27 17:34+0530\n"
+"Last-Translator: admin <munishthedeveloper48@gmail.com>\n"
+"Language-Team: Uzbek\n"
+"Language: uz_UZ\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.4\n"
+
+#. Admin - file - folders
+msgid "Admin can restrict actions of any user. Also hide files and folders and can set different - different folders paths for different users."
+msgstr ""
+"Administrator har qanday userrole ishini cheklashi mumkin. Bundan tashqari, fayllar va papkalarni yashirish va turli xil foydalanuvchilar rollari uchun turli xil papka "
+"yo'llarini o'rnatishingiz mumkin."
+
+#. Name of the plugin
+msgid "WP File Manager"
+msgstr "WP Fayl menejeri"
+
+#. Description of the plugin
+msgid "Manage your WP files."
+msgstr "WP fayllarini boshqaring."
+
+#. Settings
+msgid "Settings"
+msgstr "Sozlamalar"
+
+#. System Properties
+msgid "System Properties"
+msgstr "Tizim xususiyatlari"
+
+#. Shortcode - PRO
+msgid "Shortcode - PRO"
+msgstr "Qisqa kod - PRO"
+
+#. Extensions
+msgid "Extensions"
+msgstr "Kengaytmalar"
+
+#. Donate
+msgid "Donate"
+msgstr "Bag'ishlang"
+
+#. Note
+msgid "Note: This is just a demo screenshot. To get settings please buy our pro version."
+msgstr "Eslatma: Bu faqat bitta demo ekran tasviridir. Sozlashni olish uchun pro versiyasini sotib oling."
+
+#. Buy PRO
+msgid "Buy PRO"
+msgstr "PROni sotib oling"
+
+#. Settings - General
+msgid "Settings - General"
+msgstr "Sozlamalar - Umumiy"
+
+#. admin
+msgid "Here admin can give access to user roles to use filemanager. Admin can set Default Access Folder and also control upload size of filemanager."
+msgstr ""
+"Bu erda administrator fayl boshqaruvchisidan foydalanish uchun foydalanuvchi rollariga ruxsat berishi mumkin. Administrator standart kirish papkasini o'rnatishi va filemanager "
+"fayllarini yuklash hajmini boshqarishi mumkin."
+
+#. Settings - Code-editor
+msgid "Settings - Code-editor"
+msgstr "Sozlamalar - kod muharriri"
+
+#. code editor
+msgid ""
+"File Manager has a code editor with multiple themes. You can select any theme for code editor. It will display when you edit any file. Also you can allow fullscreen mode of "
+"code editor."
+msgstr ""
+"Fayl menejerida bir nechta mavzular bilan kod muharriri mavjud. Kod muharriri uchun har qanday mavzuni tanlashingiz mumkin. Har qanday faylni tahrirlashda ko'rsatiladi. Bundan "
+"tashqari siz to'liq kodli tartibga ruxsat berishingiz mumkin."
+
+#. Code-editor View
+msgid "Code-editor View"
+msgstr "Kod muharriri ko'rinishi"
+
+#. Settings - User Restrictions
+msgid "Settings - User Restrictions"
+msgstr "Sozlamalar - Foydalanuvchi cheklovlari"
+
+#. Settings - User Role Restrictions
+msgid "Settings - User Role Restrictions"
+msgstr "Sozlash - foydalanuvchi roli cheklovlari"
+
+#. PRO Shortcode
+msgid "File Manager PRO - Shortcode"
+msgstr "Fayl menejeri PRO - Shortcode"
+
+#. File Manager - System Properties
+msgid "File Manager - System Properties"
+msgstr "Fayl menejeri - tizim xususiyatlari"
+
+#. PHP version
+msgid "PHP version"
+msgstr "PHP versiyasi"
+
+#. Maximum file upload size (upload_max_filesize)
+msgid "Maximum file upload size (upload_max_filesize)"
+msgstr "Maksimal faylni yuklash hajmi (upload_max_filesize)"
+
+#. Post maximum file upload size (post_max_size)
+msgid "Post maximum file upload size (post_max_size)"
+msgstr "Maksimal faylni yuklash hajmini joylashtiring (post_max_size)"
+
+#. Memory Limit (memory_limit)
+msgid "Memory Limit (memory_limit)"
+msgstr "Xotira cheklovi (memory_limit)"
+
+#. Timeout (max_execution_time)
+msgid "Timeout (max_execution_time)"
+msgstr "Vaqt tugashi (max_execution_time)"
+
+#. Browser and OS (HTTP_USER_AGENT)
+msgid "Browser and OS (HTTP_USER_AGENT)"
+msgstr "Brauzer va OS (HTTP_USER_AGENT)"
+
+#. Contribute
+msgid "Please contribute some donation, to make plugin more stable. You can pay amount of your choice."
+msgstr "Iltimos, plaginni yanada barqaror qilish uchun ba'zi ehsonlar qo'shing. Tanlagan miqdoringizni to'lashingiz mumkin."
+
+#. DB Manager
+msgid "DB Manager"
+msgstr "DB menejeri"
+
+#. WP File Manager PRO
+msgid "WP File Manager PRO"
+msgstr "WP Fayl menejeri PRO"
+
+#. Order Details
+msgid "Order Details"
+msgstr "Buyurtma tafsilotlari"
+
+#. Popup Text
+msgid "Your File Manager PRO Order Details"
+msgstr "Fayl menejeri PRO Buyurtma tafsilotlari"
+
+#. Popup Warning Text
+msgid "Warning: Please don't share these details with anyone."
+msgstr "Ogohlantirish: Iltimos, ushbu ma'lumotlarni hech kimga bermang."
+
+#. Settings - File Manager
+msgid "Settings - File Manager"
+msgstr "Sozlamalar - Fayl menejeri"
+
+#. General
+msgid "General"
+msgstr "Umumiy"
+
+#. Code Editor
+msgid "Code Editor"
+msgstr "Kod muharriri"
+
+#. User Restrictions
+msgid "User Restrictions"
+msgstr "Foydalanuvchi cheklovlari"
+
+#. User Role Restrictions
+msgid "User Role Restrictions"
+msgstr "İstifadəçi Rolu məhdudiyyətləri"
+
+#. Select User Roles to access WP File manager
+msgid "Select User Roles to access WP File manager"
+msgstr "WP Fayl boshqaruvchisiga kirish uchun foydalanuvchi ro'llarini tanlang"
+
+#. Allow user roles to access WP File Manager
+msgid "Allow user roles to access WP File Manager"
+msgstr "Foydalanuvchilar rollarini WP Fayl boshqaruvchisiga kirishga ruxsat berish"
+
+#. Seperate or Private Folder Access
+msgid "Seperate or Private Folder Access"
+msgstr "Alohida yoki alohida papkaga kirish"
+
+#. ROOT
+msgid "File manager will access this folder path. Else, will access root directory. e.g wp-content/plugins. Note: Will Valid for all user roles."
+msgstr "Fayl boshqaruvchisi bu jildning yo'lini ochadi. Else, ildiz katalogiga kiradi. masalan, wp-kontent / plaginlari. Eslatma: Barcha foydalanuvchi rollari uchun amal qiladi."
+
+#. Maximum Upload Size
+msgid "Maximum Upload Size"
+msgstr "Maksimal yuklash hajmi"
+
+#. Allow users to upload file of maximum size
+msgid "Allow users to upload file of maximum size"
+msgstr "Foydalanuvchilarga maksimal hajmdagi faylni yuklash imkonini berish"
+
+#. Send Notifications to admin on file upload ?
+msgid "Send Notifications to admin on file upload ?"
+msgstr "Faylni yuklashda administratorga bildirishnomalar yuborilsinmi?"
+
+#. Check to allow file upload notifications. Mail will sent to admin email.
+msgid "Check to allow file upload notifications. Mail will sent to admin email."
+msgstr "Fayl yuklash bildirishnomalariga ruxsat berish uchun tekshiring. Pochta administrator elektron pochta manziliga yuboriladi."
+
+#. Note: This feature is using wp_mail(), Make sure wp_mail is working or not.
+msgid "Note: This feature is using wp_mail(), Make sure wp_mail is working or not."
+msgstr "Eslatma: Ushbu xususiyat wp_mail () dan foydalanadi, wp_mail ishlayotganini tekshiring."
+
+#. Send Notifications to admin on file download ?
+msgid "Send Notifications to admin on file download ?"
+msgstr "Faylni yuklab olish uchun administratorga bildirishnoma yuborilsinmi?"
+
+#. Check to allow file download notifications. Mail will sent to admin email.
+msgid "Check to allow file download notifications. Mail will sent to admin email"
+msgstr "Faylni yuklab olish haqida bildirishnomalarga ruxsat berish uchun tekshiring. Pochta administrator elektron pochta manziliga yuboriladi"
+
+#. Send Notifications to admin on file edit ?
+msgid "Send Notifications to admin on file edit ?"
+msgstr "Faylni tahrirlash uchun administratorga bildirishnomalar yuborilsinmi?"
+
+#. Check to allow file edit notifications. Mail will sent to admin email.
+msgid "Check to allow file edit notifications. Mail will sent to admin email."
+msgstr "Faylni tahrirlash xabarnomalariga ruxsat berish uchun tekshiring. Pochta administrator elektron pochta manziliga yuboriladi."
+
+#. Select Filemanager Language
+msgid "Select Filemanager Language"
+msgstr "Filemanager tilini tanlang"
+
+#. You can select any language for filemanager.
+msgid "You can select any language for filemanager."
+msgstr "Filemanager uchun har qanday tilni tanlashingiz mumkin."
+
+#. Code editor allow fullscreen?
+msgid "Code editor allow fullscreen?"
+msgstr "Kod muharriri to'liq ekranga ruxsat beradimi?"
+
+#. Check to allow fullscreen code editor
+msgid "Check to allow fullscreen code editor"
+msgstr "To'liq ekran kodi tahrirlovchisiga ruxsat berish uchun tekshiring"
+
+#. Select theme for Code Editor.
+msgid "Select theme for Code Editor."
+msgstr "Kod muharriri uchun mavzuni tanlang."
+
+#. fullscreen text
+msgid "Check to allow fullscreen code editor. For more information please visit"
+msgstr "To'liq ekran kodi tahrirlovchisiga ruxsat berish uchun tekshiring. Qo'shimcha ma'lumot uchun tashrif buyuring"
+
+#. Disable or Ban WP File Manager Operations to Users
+msgid "Disable or Ban WP File Manager Operations to Users"
+msgstr "Foydalanuvchilarga WP Fayl boshqaruvchi operatsiyalarini o'chirish yoki taqiqlash"
+
+#. Select users and disable operation.
+msgid "Select users and disable operation."
+msgstr "Foydalanuvchilarni tanlang va amalni o'chirib qo'ying."
+
+#. Click to Add Rules
+msgid "Click to Add Rules"
+msgstr "Qoidalar qo'shish uchun shu yerni bosing"
+
+#. Add rule for Users
+msgid "Add rule for Users"
+msgstr "Foydalanuvchilar uchun qoida qo'shish"
+
+#. If User is
+msgid "If User is"
+msgstr "Agar foydalanuvchi bo'lsa"
+
+#. Then
+msgid "Then"
+msgstr "Keyin"
+
+#. Disable Operations
+msgid "Disable Operations"
+msgstr "Operatsiyalarni o'chirib qo'yish"
+
+#. Seperate or private folder
+msgid "Seperate or private folder access e.g wp-content/themes etc. Note It will overide \"Private Folder Access\" settings."
+msgstr "Alohida va maxsus papkaga kirish, masalan, wp-kontent / mavzular va boshqalar. Eslatma \"\" Xususiy papkaga kirish \\ \"sozlamalari ustun bo'ladi."
+
+#. hide text
+msgid "Enter Folder or Files Paths That You want to Hide e.g wp-content/themes|wp-content/plugins. Note: Multiple separated by Vertical Bar (|)."
+msgstr "Wp-kontentni / mavzularni | wp-content / plaginlarini yashirishni istagan papka yoki fayl yo'llarini kiriting. Eslatma: Bir nechta Portret chiziq (|) bilan ajratiladi."
+
+#. lock files
+msgid "Enter file extensions which you want to Lock. e.g .php|.png|.css etc"
+msgstr "Qulflashni xohlagan fayl kengaytmalariga kiring. masalan .php | .png | .css va boshqalar"
+
+#. Disable or Ban WP File Manager Operations to User Roles
+msgid "Disable or Ban WP File Manager Operations to User Roles"
+msgstr "WP fayl boshqaruvchisi operatsiyalarini foydalanuvchi ro'llariga o'chirib qo'yish yoki taqiqlash"
+
+#. Select user role and disable operation.
+msgid "Select user role and disable operation."
+msgstr "Foydalanuvchining rolini tanlang va ishni o'chirib qo'ying."
+
+#. Add rule for User Roles
+msgid "Add rule for User Roles"
+msgstr "Foydalanuvchi ro'llari uchun qoida qo'shish"

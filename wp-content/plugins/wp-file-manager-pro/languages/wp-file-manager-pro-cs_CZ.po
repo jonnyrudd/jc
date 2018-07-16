@@ -1,0 +1,290 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WP File Manager\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-09-06 09:29+0000\n"
+"PO-Revision-Date: 2017-09-27 10:43+0530\n"
+"Last-Translator: admin <kajal.gill@mysenseinc.in>\n"
+"Language-Team: \n"
+"Language: cs_CZ\n"
+"Plural-Forms: nplurals=3; plural=( n == 1 ) ? 0 : ( n >= 2 && n <= 4 ) ? 1 : 2;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.4\n"
+
+#. Name of the plugin
+msgid "WP File Manager"
+msgstr "WP File Manager"
+
+#. Description of the plugin
+msgid "Manage your WP files."
+msgstr "Spravujte soubory WP."
+
+#. Settings
+msgid "Settings"
+msgstr "Nastavení"
+
+#. System Properties
+msgid "System Properties"
+msgstr "Systémové vlastnosti"
+
+#. Shortcode - PRO
+msgid "Shortcode - PRO"
+msgstr "Shortcode - PRO "
+
+#. Extensions
+msgid "Extensions"
+msgstr "Rozšíření"
+
+#. Donate
+msgid "Donate"
+msgstr "Darovat"
+
+#. Note
+msgid "Note: This is just a demo screenshot. To get settings please buy our pro version."
+msgstr "Poznámka: Toto je jen ukázkový snímek obrazovky. Chcete-li získat nastavení, kupte si naši verzi pro."
+
+#. Buy PRO
+msgid "Buy PRO"
+msgstr "Koupit PRO"
+
+#. Settings - General
+msgid "Settings - General"
+msgstr "Nastavení - Obecné"
+
+#. admin
+msgid "Here admin can give access to user roles to use filemanager. Admin can set Default Access Folder and also control upload size of filemanager."
+msgstr "Zde admin může poskytnout přístup k uživatelským rolám pro použití filemanager. Správce může nastavit výchozí složku pro přístup a také řídit velikost souboru uploadmanager."
+
+#. Settings - Code-editor
+msgid "Settings - Code-editor"
+msgstr "Nastavení - Editor kódů"
+
+#. code editor
+msgid "File Manager has a code editor with multiple themes. You can select any theme for code editor. It will display when you edit any file. Also you can allow fullscreen mode of code editor."
+msgstr "Správce souborů má editor kódů s více motivy. Můžete vybrat libovolné téma pro editor kódu. Zobrazí se při úpravě libovolného souboru. Také můžete povolit režim celoobrazovkového editoru kódu."
+
+#. Code-editor View
+msgid "Code-editor View"
+msgstr "Zobrazení kódu editoru"
+
+#. Settings - User Restrictions
+msgid "Settings - User Restrictions"
+msgstr "Nastavení - Omezení uživatele"
+
+#. Admin - file - folders
+msgid "Admin can restrict actions of any user. Also hide files and folders and can set different - different folders paths for different users."
+msgstr "Správce může omezit akce libovolného uživatele. Také skrýt soubory a složky a nastavit různé - různé cesty adresářů pro různé uživatele."
+
+#. Settings - User Role Restrictions
+msgid "Settings - User Role Restrictions"
+msgstr "Nastavení - Omezení uživatelských rolí"
+
+#. Admin - Restrict
+msgid "Admin can restrict actions of any userrole. Also hide files and folders and can set different - different folders paths for different users roles."
+msgstr "Správce může omezit akce libovolného uživatele. Skrýt také soubory a složky a můžete nastavit různé - různé cesty adresářů pro různé role uživatelů."
+
+#. PRO Shortcode
+msgid "File Manager PRO - Shortcode"
+msgstr "Správce souborů PRO - zkrácený kód"
+
+#. File Manager - System Properties
+msgid "File Manager - System Properties"
+msgstr "Správce souborů - vlastnosti systému"
+
+#. PHP version
+msgid "PHP version"
+msgstr "PHP verze"
+
+#. Maximum file upload size (upload_max_filesize)
+msgid "Maximum file upload size (upload_max_filesize)"
+msgstr "Maximální velikost souboru nahrání (upload_max_filesize)"
+
+#. Post maximum file upload size (post_max_size)
+msgid "Post maximum file upload size (post_max_size)"
+msgstr "Odeslat maximální velikost souboru (post_max_size)"
+
+#. Memory Limit (memory_limit)
+msgid "Memory Limit (memory_limit)"
+msgstr "Limit paměti (memory_limit)"
+
+#. Timeout (max_execution_time)
+msgid "Timeout (max_execution_time)"
+msgstr "Časový limit (max_execution_time)"
+
+#. Browser and OS (HTTP_USER_AGENT)
+msgid "Browser and OS (HTTP_USER_AGENT)"
+msgstr "Prohlížeč a OS (HTTP_USER_AGENT)"
+
+#. Contribute
+msgid "Please contribute some donation, to make plugin more stable. You can pay amount of your choice."
+msgstr "Prosím přispějte nějaký dar, aby se plugin stal stabilnějším. Můžete zaplatit částku podle svého výběru."
+
+#. DB Manager
+msgid "DB Manager"
+msgstr "Správce DB"
+
+#. WP File Manager PRO
+msgid "WP File Manager PRO"
+msgstr "WP Správce souborů PRO"
+
+#. Order Details
+msgid "Order Details"
+msgstr "Podrobnosti objednávky"
+
+#. Popup Text
+msgid "Your File Manager PRO Order Details"
+msgstr "Podrobnosti o objednávce PRO Správce souborů"
+
+#. Popup Warning Text
+msgid "Warning: Please don't share these details with anyone."
+msgstr "Upozornění: Tyto údaje nesdělujte nikomu."
+
+#. Settings - File Manager
+msgid "Settings - File Manager"
+msgstr "Nastavení - Správce souborů"
+
+#. General
+msgid "General"
+msgstr "Všeobecné"
+
+#. Code Editor
+msgid "Code Editor"
+msgstr "Editor kódu"
+
+#. User Restrictions
+msgid "User Restrictions"
+msgstr "Omezení uživatelů"
+
+#. User Role Restrictions
+msgid "User Role Restrictions"
+msgstr "Omezení uživatelských rolí"
+
+#. Select User Roles to access WP File manager
+msgid "Select User Roles to access WP File manager"
+msgstr "Klepnutím na položku Uživatelské role získáte přístup ke správci souborů WP"
+
+#. Allow user roles to access WP File Manager
+msgid "Allow user roles to access WP File Manager"
+msgstr "Povolení uživatelských rolí k přístupu ke Správci souborů WP"
+
+#. Seperate or Private Folder Access
+msgid "Seperate or Private Folder Access"
+msgstr "Samostatný nebo soukromý přístup ke složce"
+
+#. ROOT
+msgid "File manager will access this folder path. Else, will access root directory. e.g wp-content/plugins. Note: Will Valid for all user roles."
+msgstr "Správce souborů bude mít přístup k této cestě složky. Jinak bude mít přístup k kořenovému adresáři. například wp-obsah / pluginy. Poznámka: Platí pro všechny uživatelské role."
+
+#. Maximum Upload Size
+msgid "Maximum Upload Size"
+msgstr "Maximální velikost nahrávání"
+
+#. Allow users to upload file of maximum size
+msgid "Allow users to upload file of maximum size"
+msgstr "Umožnit uživatelům nahrát soubor maximální velikosti"
+
+#. Send Notifications to admin on file upload ?
+msgid "Send Notifications to admin on file upload ?"
+msgstr "Odeslat oznámení správci při nahrávání souborů?"
+
+#. Check to allow file upload notifications. Mail will sent to admin email.
+msgid "Check to allow file upload notifications. Mail will sent to admin email."
+msgstr "Zaškrtněte pro povolení oznámení o nahrání souboru. Pošta bude odeslána na admin email."
+
+#. Note: This feature is using wp_mail(), Make sure wp_mail is working or not.
+msgid "Note: This feature is using wp_mail(), Make sure wp_mail is working or not."
+msgstr "Poznámka: Tato funkce používá wp_mail (), Ujistěte se, že wp_mail funguje nebo ne."
+
+#. Send Notifications to admin on file download ?
+msgid "Send Notifications to admin on file download ?"
+msgstr "Odeslat oznámení ke stažení administrátora?"
+
+#. Check to allow file download notifications. Mail will sent to admin email.
+msgid "Check to allow file download notifications. Mail will sent to admin email"
+msgstr "Odeslat oznámení ke stažení administrátora?"
+
+#. Send Notifications to admin on file edit ?
+msgid "Send Notifications to admin on file edit ?"
+msgstr "Odeslat oznámení správci na soubor edit?"
+
+#. Check to allow file edit notifications. Mail will sent to admin email.
+msgid "Check to allow file edit notifications. Mail will sent to admin email."
+msgstr "Zaškrtnutím povolíte oznámení o úpravách souborů. Pošta bude odeslána na admin email."
+
+#. Select Filemanager Language
+msgid "Select Filemanager Language"
+msgstr "Zvolte jazyk Filemanager"
+
+#. You can select any language for filemanager.
+msgid "You can select any language for filemanager."
+msgstr "Můžete vybrat libovolný jazyk pro souborový manažer."
+
+#. Code editor allow fullscreen?
+msgid "Code editor allow fullscreen?"
+msgstr "Editor kódů umožňuje celou obrazovku?"
+
+#. Check to allow fullscreen code editor
+msgid "Check to allow fullscreen code editor"
+msgstr "Zkontrolujte, zda chcete povolit editor kódů celé obrazovky"
+
+#. Select theme for Code Editor.
+msgid "Select theme for Code Editor."
+msgstr "Vyberte téma pro Editor kódů."
+
+#. fullscreen text
+msgid "Check to allow fullscreen code editor. For more information please visit"
+msgstr "Zkontrolujte, zda chcete povolit editor kódů celé obrazovky. Pro více informací navštivte prosím"
+
+#. Disable or Ban WP File Manager Operations to Users
+msgid "Disable or Ban WP File Manager Operations to Users"
+msgstr "Zakázat nebo zakazovat operace Správce souborů WP pro uživatele"
+
+#. Select users and disable operation.
+msgid "Select users and disable operation."
+msgstr "Vyberte uživatele a deaktivujte operaci."
+
+#. Click to Add Rules
+msgid "Click to Add Rules"
+msgstr "Klikněte na Přidat pravidla"
+
+#. Add rule for Users
+msgid "Add rule for Users"
+msgstr "Přidat pravidlo pro uživatele"
+
+#. If User is
+msgid "If User is"
+msgstr "Pokud je uživatel"
+
+#. Then
+msgid "Then"
+msgstr "Pak"
+
+#. Disable Operations
+msgid "Disable Operations"
+msgstr "Zakázat operace"
+
+#. Seperate or private folder
+msgid "Seperate or private folder access e.g wp-content/themes etc. Note It will overide \"Private Folder Access\" settings."
+msgstr "Samostatný nebo soukromý přístup k adresářům, např. Wp-obsah / motivy apod. Poznámka: Overí nastavení \"Private Folder Access\"."
+
+#. hide text
+msgid "Enter Folder or Files Paths That You want to Hide e.g wp-content/themes|wp-content/plugins. Note: Multiple separated by Vertical Bar (|)."
+msgstr "Zadejte cestu k souborům nebo souborům, které chcete skrýt např. Wp-content / themes | wp-content / plugins. Poznámka: Vícenásobné oddělené vertikální čárou (|)."
+
+#. lock files
+msgid "Enter file extensions which you want to Lock. e.g .php|.png|.css etc"
+msgstr "Zadejte přípony souborů, které chcete uzamknout. např. php | .png | .css atd"
+
+#. Disable or Ban WP File Manager Operations to User Roles
+msgid "Disable or Ban WP File Manager Operations to User Roles"
+msgstr "Zakázat nebo zakazovat operace Správce souborů WP pro uživatelské role"
+
+#. Select user role and disable operation.
+msgid "Select user role and disable operation."
+msgstr "Vyberte roli uživatele a deaktivujte operaci."
+
+#. Add rule for User Roles
+msgid "Add rule for User Roles"
+msgstr "Přidat pravidlo pro uživatelské role"

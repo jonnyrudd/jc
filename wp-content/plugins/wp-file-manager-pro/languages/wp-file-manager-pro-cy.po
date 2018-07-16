@@ -1,0 +1,290 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WP File Manager\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-09-06 09:29+0000\n"
+"PO-Revision-Date: 2017-09-27 10:44+0530\n"
+"Last-Translator: admin <kajal.gill@mysenseinc.in>\n"
+"Language-Team: \n"
+"Language: cy\n"
+"Plural-Forms: nplurals=6; plural=n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n==3 ? 3 : n==6 ? 4 : 5;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.4\n"
+
+#. Name of the plugin
+msgid "WP File Manager"
+msgstr "WP File Manager"
+
+#. Description of the plugin
+msgid "Manage your WP files."
+msgstr "Rheoli eich ffeiliau WP."
+
+#. Settings
+msgid "Settings"
+msgstr "Gosodiadau"
+
+#. System Properties
+msgid "System Properties"
+msgstr "Eiddo System"
+
+#. Shortcode - PRO
+msgid "Shortcode - PRO"
+msgstr "Shortcode - PRO "
+
+#. Extensions
+msgid "Extensions"
+msgstr "Estyniadau"
+
+#. Donate
+msgid "Donate"
+msgstr "Rhowch"
+
+#. Note
+msgid "Note: This is just a demo screenshot. To get settings please buy our pro version."
+msgstr "Sylwer: Dim ond sgrîn demo yw hwn. I gael lleoliadau, prynwch ein fersiwn pro."
+
+#. Buy PRO
+msgid "Buy PRO"
+msgstr "Prynu PRO"
+
+#. Settings - General
+msgid "Settings - General"
+msgstr "Gosodiadau - Cyffredinol"
+
+#. admin
+msgid "Here admin can give access to user roles to use filemanager. Admin can set Default Access Folder and also control upload size of filemanager."
+msgstr "Yma gall gweinyddwyr roi mynediad i rolau defnyddwyr i ddefnyddio filemanager. Gall gweinyddwr osod Ffolder Mynediad Diofyn a hefyd rheoli maint llwythi filemanager."
+
+#. Settings - Code-editor
+msgid "Settings - Code-editor"
+msgstr "Gosodiadau - Côd-olygydd"
+
+#. code editor
+msgid "File Manager has a code editor with multiple themes. You can select any theme for code editor. It will display when you edit any file. Also you can allow fullscreen mode of code editor."
+msgstr "Mae gan y Rheolwr Ffeil golygydd cod gyda themâu lluosog. Gallwch ddewis unrhyw thema ar gyfer golygydd cod. Bydd yn dangos pan fyddwch yn golygu unrhyw ffeil. Hefyd, gallwch ganiatáu modd sgrîn lawn o olygydd cod."
+
+#. Code-editor View
+msgid "Code-editor View"
+msgstr "Golygydd cod-golygydd"
+
+#. Settings - User Restrictions
+msgid "Settings - User Restrictions"
+msgstr "Gosodiadau - Cyfyngiadau Defnyddiwr"
+
+#. Admin - file - folders
+msgid "Admin can restrict actions of any user. Also hide files and folders and can set different - different folders paths for different users."
+msgstr "Gall gweinyddu gyfyngu ar gamau gweithredu unrhyw ddefnyddiwr. Hefyd, cuddio ffeiliau a ffolderi a gallant osod gwahanol linellau ffolderi gwahanol ar gyfer gwahanol ddefnyddwyr."
+
+#. Settings - User Role Restrictions
+msgid "Settings - User Role Restrictions"
+msgstr "Gosodiadau - Cyfyngiadau Rôl Defnyddiwr"
+
+#. Admin - Restrict
+msgid "Admin can restrict actions of any userrole. Also hide files and folders and can set different - different folders paths for different users roles."
+msgstr "Gall gweinyddu gyfyngu ar gamau gweithredu unrhyw ddefnyddiwr. Hefyd, cuddio ffeiliau a ffolderi a gallant osod gwahanol linellau ffolderi gwahanol ar gyfer gwahanol rolau defnyddwyr."
+
+#. PRO Shortcode
+msgid "File Manager PRO - Shortcode"
+msgstr "Rheolwr Ffeil PRO - Cod Byr"
+
+#. File Manager - System Properties
+msgid "File Manager - System Properties"
+msgstr "Rheolwr Ffeil - Eiddo System"
+
+#. PHP version
+msgid "PHP version"
+msgstr "Fersiwn PHP"
+
+#. Maximum file upload size (upload_max_filesize)
+msgid "Maximum file upload size (upload_max_filesize)"
+msgstr "Uchafswm maint llwythi ffeiliau (upload_max_filesize)"
+
+#. Post maximum file upload size (post_max_size)
+msgid "Post maximum file upload size (post_max_size)"
+msgstr "Maint uchafswm y llwyth i fyny ffeiliau post (post_max_size)"
+
+#. Memory Limit (memory_limit)
+msgid "Memory Limit (memory_limit)"
+msgstr "Terfyn Cof (memory_limit)"
+
+#. Timeout (max_execution_time)
+msgid "Timeout (max_execution_time)"
+msgstr "Amserlen (max_execution_time)"
+
+#. Browser and OS (HTTP_USER_AGENT)
+msgid "Browser and OS (HTTP_USER_AGENT)"
+msgstr "Porwr ac OS (HTTP_USER_AGENT)"
+
+#. Contribute
+msgid "Please contribute some donation, to make plugin more stable. You can pay amount of your choice."
+msgstr "Cyfrannwch rywfaint o rodd, i wneud ychwanegyn yn fwy sefydlog. Gallwch dalu faint o'ch dewis chi."
+
+#. DB Manager
+msgid "DB Manager"
+msgstr "Rheolwr DB"
+
+#. WP File Manager PRO
+msgid "WP File Manager PRO"
+msgstr "Rheolwr Ffeil WP PRO"
+
+#. Order Details
+msgid "Order Details"
+msgstr "Manylion y Gorchymyn"
+
+#. Popup Text
+msgid "Your File Manager PRO Order Details"
+msgstr "Manylion archebu eich Rheolwr Rheolwr Ffeil"
+
+#. Popup Warning Text
+msgid "Warning: Please don't share these details with anyone."
+msgstr "Rhybudd: Peidiwch â rhannu'r manylion hyn gydag unrhyw un."
+
+#. Settings - File Manager
+msgid "Settings - File Manager"
+msgstr "Gosodiadau - Rheolwr Ffeil"
+
+#. General
+msgid "General"
+msgstr "Cyffredinol"
+
+#. Code Editor
+msgid "Code Editor"
+msgstr "Golygydd Codau"
+
+#. User Restrictions
+msgid "User Restrictions"
+msgstr "Cyfyngiadau Defnyddiwr"
+
+#. User Role Restrictions
+msgid "User Role Restrictions"
+msgstr "Cyfyngiadau Rôl Defnyddwyr"
+
+#. Select User Roles to access WP File manager
+msgid "Select User Roles to access WP File manager"
+msgstr "Dewiswch Rolau Defnyddiwr i gael mynediad at reolwr ffeiliau WP"
+
+#. Allow user roles to access WP File Manager
+msgid "Allow user roles to access WP File Manager"
+msgstr "Caniatáu i rolau defnyddwyr gael mynediad at Reolwr Ffeil WP"
+
+#. Seperate or Private Folder Access
+msgid "Seperate or Private Folder Access"
+msgstr "Mynediad Folder Ar wahân neu Preifat"
+
+#. ROOT
+msgid "File manager will access this folder path. Else, will access root directory. e.g wp-content/plugins. Note: Will Valid for all user roles."
+msgstr "Bydd rheolwr ffeiliau yn cyrraedd y llwybr ffolderi hwn. Else, bydd mynediad at y cyfeiriadur gwreiddiau. e.e. wp-content / plugins. Nodyn: Bydd yn ddilys ar gyfer yr holl rolau defnyddwyr."
+
+#. Maximum Upload Size
+msgid "Maximum Upload Size"
+msgstr "Maint Uchafswm Llwythi"
+
+#. Allow users to upload file of maximum size
+msgid "Allow users to upload file of maximum size"
+msgstr "Gadewch i ddefnyddwyr lwytho ffeil o'r maint mwyaf"
+
+#. Send Notifications to admin on file upload ?
+msgid "Send Notifications to admin on file upload ?"
+msgstr "Anfon Hysbysiadau i weinyddu ar lanlwytho ffeiliau?"
+
+#. Check to allow file upload notifications. Mail will sent to admin email.
+msgid "Check to allow file upload notifications. Mail will sent to admin email."
+msgstr "Gwiriwch i ganiatáu hysbysiadau llwytho ffeiliau. Anfonir e-bost at e-bost gweinyddol."
+
+#. Note: This feature is using wp_mail(), Make sure wp_mail is working or not.
+msgid "Note: This feature is using wp_mail(), Make sure wp_mail is working or not."
+msgstr "Sylwer: Mae'r nodwedd hon yn defnyddio wp_mail (), Gwnewch yn siŵr fod wp_mail yn gweithio ai peidio."
+
+#. Send Notifications to admin on file download ?
+msgid "Send Notifications to admin on file download ?"
+msgstr "Anfonwch Hysbysiadau i lawrlwytho gweinyddwr ar ffeil?"
+
+#. Check to allow file download notifications. Mail will sent to admin email.
+msgid "Check to allow file download notifications. Mail will sent to admin email"
+msgstr "Gwiriwch i ganiatáu hysbysiadau i lawrlwytho ffeiliau. Anfonir e-bost at e-bost gweinyddol"
+
+#. Send Notifications to admin on file edit ?
+msgid "Send Notifications to admin on file edit ?"
+msgstr "Anfon Hysbysiadau i admin ar olygu'r ffeil?"
+
+#. Check to allow file edit notifications. Mail will sent to admin email.
+msgid "Check to allow file edit notifications. Mail will sent to admin email."
+msgstr "Gwiriwch i ganiatáu hysbysiadau golygu ffeil. Anfonir e-bost at e-bost gweinyddol."
+
+#. Select Filemanager Language
+msgid "Select Filemanager Language"
+msgstr "Dewis Iaith Filemanager"
+
+#. You can select any language for filemanager.
+msgid "You can select any language for filemanager."
+msgstr "Gallwch ddewis unrhyw iaith ar gyfer filemanager."
+
+#. Code editor allow fullscreen?
+msgid "Code editor allow fullscreen?"
+msgstr "Golygydd cod yn caniatáu sgrîn lawn?"
+
+#. Check to allow fullscreen code editor
+msgid "Check to allow fullscreen code editor"
+msgstr "Gwiriwch i ganiatáu golygydd cod sgrîn lawn"
+
+#. Select theme for Code Editor.
+msgid "Select theme for Code Editor."
+msgstr "Dewis thema ar gyfer Golygydd Cod."
+
+#. fullscreen text
+msgid "Check to allow fullscreen code editor. For more information please visit"
+msgstr "Gwiriwch i ganiatáu golygydd cod sgrîn lawn. Am ragor o wybodaeth ewch i"
+
+#. Disable or Ban WP File Manager Operations to Users
+msgid "Disable or Ban WP File Manager Operations to Users"
+msgstr "Analluoga neu Gwahardd Gweithrediadau Rheolwr Ffeil WP i Ddefnyddwyr"
+
+#. Select users and disable operation.
+msgid "Select users and disable operation."
+msgstr "Dewis defnyddwyr a gweithrediad analluoga."
+
+#. Click to Add Rules
+msgid "Click to Add Rules"
+msgstr "Cliciwch i Ychwanegu Rheolau"
+
+#. Add rule for Users
+msgid "Add rule for Users"
+msgstr "Ychwanegu rheol ar gyfer Defnyddwyr"
+
+#. If User is
+msgid "If User is"
+msgstr "Os yw Defnyddiwr yn"
+
+#. Then
+msgid "Then"
+msgstr "Yna"
+
+#. Disable Operations
+msgid "Disable Operations"
+msgstr "Analluogi Gweithrediadau"
+
+#. Seperate or private folder
+msgid "Seperate or private folder access e.g wp-content/themes etc. Note It will overide \"Private Folder Access\" settings."
+msgstr "Mynediad at ffolder ar wahân neu breifat e.g wp-content / themes etc. Nodyn Bydd yn gorwedd ar osodiadau \\ \"Mynediad Folder Preifat \"."
+
+#. hide text
+msgid "Enter Folder or Files Paths That You want to Hide e.g wp-content/themes|wp-content/plugins. Note: Multiple separated by Vertical Bar (|)."
+msgstr "Rhowch Ffeiliau neu Ffeiliau Llwybrau yr Hoffech Chi Guddio ee wp-content / themes | wp-content / plugins. Nodyn: Lluosog wedi'i wahanu gan Bar Fertigol (|)."
+
+#. lock files
+msgid "Enter file extensions which you want to Lock. e.g .php|.png|.css etc"
+msgstr "Rhowch estyniadau ffeil yr ydych am Lock. e.g .php | .png | .css ac ati"
+
+#. Disable or Ban WP File Manager Operations to User Roles
+msgid "Disable or Ban WP File Manager Operations to User Roles"
+msgstr "Analluoga neu Gwahardd Gweithrediadau Rheolwr Ffeil WP i Rolau Defnyddwyr"
+
+#. Select user role and disable operation.
+msgid "Select user role and disable operation."
+msgstr "Dewiswch rôl y defnyddiwr a gweithrediad analluogi."
+
+#. Add rule for User Roles
+msgid "Add rule for User Roles"
+msgstr "Ychwanegu rheol ar gyfer Rolau Defnyddwyr"

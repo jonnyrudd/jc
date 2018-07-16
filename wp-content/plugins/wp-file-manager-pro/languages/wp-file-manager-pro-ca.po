@@ -1,0 +1,290 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WP File Manager\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-09-06 09:29+0000\n"
+"PO-Revision-Date: 2017-09-27 10:42+0530\n"
+"Last-Translator: admin <kajal.gill@mysenseinc.in>\n"
+"Language-Team: \n"
+"Language: ca\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.4\n"
+
+#. Name of the plugin
+msgid "WP File Manager"
+msgstr "WP File Manager"
+
+#. Description of the plugin
+msgid "Manage your WP files."
+msgstr "Gestioneu els vostres fitxers WP."
+
+#. Settings
+msgid "Settings"
+msgstr "Configuració"
+
+#. System Properties
+msgid "System Properties"
+msgstr "Propietats del sistema"
+
+#. Shortcode - PRO
+msgid "Shortcode - PRO"
+msgstr "Shortcode - PRO "
+
+#. Extensions
+msgid "Extensions"
+msgstr "Extensions"
+
+#. Donate
+msgid "Donate"
+msgstr "Donar"
+
+#. Note
+msgid "Note: This is just a demo screenshot. To get settings please buy our pro version."
+msgstr "Nota: Aquesta és només una captura de pantalla de demostració. Per obtenir configuracions, compreu la nostra versió professional."
+
+#. Buy PRO
+msgid "Buy PRO"
+msgstr "Comprar PRO"
+
+#. Settings - General
+msgid "Settings - General"
+msgstr "Configuració: general"
+
+#. admin
+msgid "Here admin can give access to user roles to use filemanager. Admin can set Default Access Folder and also control upload size of filemanager."
+msgstr "Aquí l'administrador pot donar accés a les funcions d'usuari per utilitzar el gestor de fitxers. Admin pot configurar la carpeta d'accés per defecte i també controlar la mida de càrrega del gestor de fitxers."
+
+#. Settings - Code-editor
+msgid "Settings - Code-editor"
+msgstr "Configuració: editor de codi"
+
+#. code editor
+msgid "File Manager has a code editor with multiple themes. You can select any theme for code editor. It will display when you edit any file. Also you can allow fullscreen mode of code editor."
+msgstr "El gestor de fitxers té un editor de codi amb diversos temes. Podeu seleccionar qualsevol tema per a l'editor de codi. Es mostrarà quan editeu un fitxer. També podeu permetre el mode de pantalla completa de l'editor de codi."
+
+#. Code-editor View
+msgid "Code-editor View"
+msgstr "Vista d'editor de codi"
+
+#. Settings - User Restrictions
+msgid "Settings - User Restrictions"
+msgstr "Configuració - Restriccions d'usuari"
+
+#. Admin - file - folders
+msgid "Admin can restrict actions of any user. Also hide files and folders and can set different - different folders paths for different users."
+msgstr "Admin pot restringir les accions de qualsevol usuari. També amaga fitxers i carpetes i pot configurar diferents rutes de carpetes diferents per a diferents usuaris."
+
+#. Settings - User Role Restrictions
+msgid "Settings - User Role Restrictions"
+msgstr "Paràmetres - Restriccions de funcions d'usuari"
+
+#. Admin - Restrict
+msgid "Admin can restrict actions of any userrole. Also hide files and folders and can set different - different folders paths for different users roles."
+msgstr "Admin pot restringir les accions de qualsevol usuari. També amaga fitxers i carpetes i pot configurar diferents rutes diferents de carpetes per a diferents rols d'usuaris."
+
+#. PRO Shortcode
+msgid "File Manager PRO - Shortcode"
+msgstr "Administrador de fitxers PRO - Shortcode"
+
+#. File Manager - System Properties
+msgid "File Manager - System Properties"
+msgstr "Administrador de fitxers - Propietats del sistema"
+
+#. PHP version
+msgid "PHP version"
+msgstr "Versió PHP"
+
+#. Maximum file upload size (upload_max_filesize)
+msgid "Maximum file upload size (upload_max_filesize)"
+msgstr "Mida màxima de càrrega d'arxiu (upload_max_filesize)"
+
+#. Post maximum file upload size (post_max_size)
+msgid "Post maximum file upload size (post_max_size)"
+msgstr "Publica la mida màxima de càrrega d'arxiu (post_max_size)"
+
+#. Memory Limit (memory_limit)
+msgid "Memory Limit (memory_limit)"
+msgstr "Límit de memòria (limit de memòria)"
+
+#. Timeout (max_execution_time)
+msgid "Timeout (max_execution_time)"
+msgstr "Temps d'espera (max_execution_time)"
+
+#. Browser and OS (HTTP_USER_AGENT)
+msgid "Browser and OS (HTTP_USER_AGENT)"
+msgstr "Navegador i SO (HTTP_USER_AGENT)"
+
+#. Contribute
+msgid "Please contribute some donation, to make plugin more stable. You can pay amount of your choice."
+msgstr "Contribueix amb alguna donació, perquè el connector sigui més estable. Podeu pagar l'import que trieu."
+
+#. DB Manager
+msgid "DB Manager"
+msgstr "Director de DB"
+
+#. WP File Manager PRO
+msgid "WP File Manager PRO"
+msgstr "WP File Manager PRO"
+
+#. Order Details
+msgid "Order Details"
+msgstr "Detalls de l'encarrec"
+
+#. Popup Text
+msgid "Your File Manager PRO Order Details"
+msgstr "Els detalls de la comanda del vostre gestor de fitxers PRO"
+
+#. Popup Warning Text
+msgid "Warning: Please don't share these details with anyone."
+msgstr "Advertència: no compartiu aquests detalls amb ningú."
+
+#. Settings - File Manager
+msgid "Settings - File Manager"
+msgstr "Configuració - Administrador de fitxers"
+
+#. General
+msgid "General"
+msgstr "General"
+
+#. Code Editor
+msgid "Code Editor"
+msgstr "Editor de codi"
+
+#. User Restrictions
+msgid "User Restrictions"
+msgstr "Restriccions d'usuari"
+
+#. User Role Restrictions
+msgid "User Role Restrictions"
+msgstr "Restriccions de funcions d'usuari"
+
+#. Select User Roles to access WP File manager
+msgid "Select User Roles to access WP File manager"
+msgstr "Seleccioneu Funcions d'usuari per accedir al gestor de fitxers WP"
+
+#. Allow user roles to access WP File Manager
+msgid "Allow user roles to access WP File Manager"
+msgstr "Permet que les funcions d'usuari accedeixin al gestor de fitxers WP"
+
+#. Seperate or Private Folder Access
+msgid "Seperate or Private Folder Access"
+msgstr "Accés de carpeta privada o privada"
+
+#. ROOT
+msgid "File manager will access this folder path. Else, will access root directory. e.g wp-content/plugins. Note: Will Valid for all user roles."
+msgstr "L'administrador de fitxers accedirà a aquesta ruta de la carpeta. Si no, accedirà al directori arrel. p. ex. wp-content / plugins. Nota: Serà vàlid per a totes les funcions d'usuari."
+
+#. Maximum Upload Size
+msgid "Maximum Upload Size"
+msgstr "Mida màxima de càrrega"
+
+#. Allow users to upload file of maximum size
+msgid "Allow users to upload file of maximum size"
+msgstr "Permet als usuaris penjar fitxers de mida màxima"
+
+#. Send Notifications to admin on file upload ?
+msgid "Send Notifications to admin on file upload ?"
+msgstr "Vols enviar notificacions a l'administrador en carregar fitxers?"
+
+#. Check to allow file upload notifications. Mail will sent to admin email.
+msgid "Check to allow file upload notifications. Mail will sent to admin email."
+msgstr "Marqueu per permetre les notificacions de càrrega de fitxers. El correu s'enviarà al correu electrònic de l'administrador."
+
+#. Note: This feature is using wp_mail(), Make sure wp_mail is working or not.
+msgid "Note: This feature is using wp_mail(), Make sure wp_mail is working or not."
+msgstr "Nota: aquesta característica està utilitzant wp_mail (), assegureu-vos que wp_mail funcioni o no."
+
+#. Send Notifications to admin on file download ?
+msgid "Send Notifications to admin on file download ?"
+msgstr "Envia notificacions a l'administrador en la descàrrega de fitxers?"
+
+#. Check to allow file download notifications. Mail will sent to admin email.
+msgid "Check to allow file download notifications. Mail will sent to admin email"
+msgstr "Marqueu per permetre les notificacions de baixades de fitxers. El correu s'enviarà al correu electrònic de l'administrador"
+
+#. Send Notifications to admin on file edit ?
+msgid "Send Notifications to admin on file edit ?"
+msgstr "Envia notificacions a l'administrador en l'edició de fitxers?"
+
+#. Check to allow file edit notifications. Mail will sent to admin email.
+msgid "Check to allow file edit notifications. Mail will sent to admin email."
+msgstr "Marqueu per permetre notificacions d'edició de fitxers. El correu s'enviarà al correu electrònic de l'administrador."
+
+#. Select Filemanager Language
+msgid "Select Filemanager Language"
+msgstr "Seleccioneu l'idioma del Filemanager"
+
+#. You can select any language for filemanager.
+msgid "You can select any language for filemanager."
+msgstr "Podeu seleccionar qualsevol idioma per al gestor de fitxers."
+
+#. Code editor allow fullscreen?
+msgid "Code editor allow fullscreen?"
+msgstr "L'editor de codi permet la pantalla completa?"
+
+#. Check to allow fullscreen code editor
+msgid "Check to allow fullscreen code editor"
+msgstr "Marqueu per permetre l'editor de codi de pantalla completa"
+
+#. Select theme for Code Editor.
+msgid "Select theme for Code Editor."
+msgstr "Selecciona un tema per a l'Editor de codi."
+
+#. fullscreen text
+msgid "Check to allow fullscreen code editor. For more information please visit"
+msgstr "Marqueu per permetre l'editor de codi de pantalla completa. Per obtenir més informació, visiteu"
+
+#. Disable or Ban WP File Manager Operations to Users
+msgid "Disable or Ban WP File Manager Operations to Users"
+msgstr "Deshabilitar o Prohibir les operacions del gestor de fitxers WP als usuaris"
+
+#. Select users and disable operation.
+msgid "Select users and disable operation."
+msgstr "Seleccioneu usuaris i desactiveu l'operació."
+
+#. Click to Add Rules
+msgid "Click to Add Rules"
+msgstr "Feu clic per afegir regles"
+
+#. Add rule for Users
+msgid "Add rule for Users"
+msgstr "Afegeix una regla per als usuaris"
+
+#. If User is
+msgid "If User is"
+msgstr "Si l'usuari és"
+
+#. Then
+msgid "Then"
+msgstr "Després"
+
+#. Disable Operations
+msgid "Disable Operations"
+msgstr "Desactiva les operacions"
+
+#. Seperate or private folder
+msgid "Seperate or private folder access e.g wp-content/themes etc. Note It will overide \"Private Folder Access\" settings."
+msgstr "Accés a carpetes particulars o privades, per exemple, wp-content / themes, etc. Nota: s'aplicarà la configuració de \\ \"Accés de carpeta privada \"."
+
+#. hide text
+msgid "Enter Folder or Files Paths That You want to Hide e.g wp-content/themes|wp-content/plugins. Note: Multiple separated by Vertical Bar (|)."
+msgstr "Introduïu carpetes o fitxers de rutes que voleu amagar e.g wp-content / themes | wp-content / plugins. Nota: Múltiples separats per la barra vertical (|)."
+
+#. lock files
+msgid "Enter file extensions which you want to Lock. e.g .php|.png|.css etc"
+msgstr "Introduïu les extensions de fitxer que voleu bloquejar. p. ex. .php | .png | .css, etc."
+
+#. Disable or Ban WP File Manager Operations to User Roles
+msgid "Disable or Ban WP File Manager Operations to User Roles"
+msgstr "Deshabiliteu o Proposeu les operacions del gestor de fitxers WP a les funcions de l'usuari"
+
+#. Select user role and disable operation.
+msgid "Select user role and disable operation."
+msgstr "Seleccioneu la funció d'usuari i desactiveu l'operació."
+
+#. Add rule for User Roles
+msgid "Add rule for User Roles"
+msgstr "Afegeix una regla per a les funcions d'usuari"

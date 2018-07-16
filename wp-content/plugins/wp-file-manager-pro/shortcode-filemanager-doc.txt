@@ -1,0 +1,48 @@
+WP File Manager PRO: Shortcode Feature
+
+USE: [wp_file_manager_admin] -> It will show file manager on front end. You can control all settings from file manager settings. It will work same as backend WP File Manager.
+
+USE: [wp_file_manager] -> It will show file manager on front end. But only Administrator can access it and will control from file manager settings.
+
+USE: [wp_file_manager allowed_roles="editor,author" access_folder="wp-content/plugins" write = "true" read = "false" hide_files = "kumar,abc.php" lock_extensions=".php,.css" allowed_operations="upload,download" ban_user_ids="2,3"]
+
+Parameters: 
+
+(1)  allowed_roles = "*" -> It will allow all roles to access file manager on front end or You can simple use for particular user roles as like allowed_roles="editor,author" (seprated by comma(,))
+
+  Note: * for all userroles, default: administrator
+
+(2)  access_folder="test" -> Here "test" is the name of folder which is located on root directory, or you can give path for sub folders as like "wp-content/plugins". If leave blank or empty it will access all folders on root directory. Default: Root directory
+
+(3) write = "true" -> for access to write files permissions, note: true/false, default: false
+
+(4) read = "true" -> for access to read files permission, note: true/false, default: true
+
+(5) hide_files = "wp-content/plugins,wp-config.php"  -> it will hide mentioned here. Note: seprated by comma(,). Default: Null
+
+(6)  lock_extensions=".php,.css"  -> It will lock mentioned in commas. you can lock more as like ".php,.css,.js" etc. Default: Null
+
+(7) allowed_operations="*" -> * for all operations and to allow some operation you can mention operation name as like, allowed_operations="upload,download". Note: seprated by comma(,). Default: *. 
+
+File Operations List: 
+(1) mkdir -> Make directory or folder
+(2) mkfile -> Make file
+(3) rename -> Rename a file or folder
+(4) duplicate -> Duplicate or clone a folder or file
+(5) paste -> Paste a file or folder
+(6) ban -> Ban
+(7) archive -> To make a archive or zip
+(8) extract -> Extract archive or zipped file
+(9) copy -> Copy files or folders
+(10)  cut -> Simple cut a file or folder
+(11) edit -> Edit a file
+(12) rm -> Remove or delete files and folders
+(13)  download -> Download files
+(14) upload -> Upload files
+(15) search -> Search things
+(16) info -> Info of file
+(17) help -> Help
+
+(8) ban_user_ids="2,3" -> It will ban particular users by just putting their ids seprated by commas(,). If user is Ban then they will not able to access wp file manager on front end.
+
+Thanks

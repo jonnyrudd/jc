@@ -1,0 +1,290 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WP File Manager\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-09-06 09:29+0000\n"
+"PO-Revision-Date: 2017-09-27 11:02+0530\n"
+"Last-Translator: admin <kajal.gill@mysenseinc.in>\n"
+"Language-Team: \n"
+"Language: et\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.4\n"
+
+#. Name of the plugin
+msgid "WP File Manager"
+msgstr "WP-failihaldur"
+
+#. Description of the plugin
+msgid "Manage your WP files."
+msgstr "WP-failide haldamine."
+
+#. Settings
+msgid "Settings"
+msgstr "Seaded"
+
+#. System Properties
+msgid "System Properties"
+msgstr "Süsteemi omadused"
+
+#. Shortcode - PRO
+msgid "Shortcode - PRO"
+msgstr "Lühike kood - PRO"
+
+#. Extensions
+msgid "Extensions"
+msgstr "Laiendused"
+
+#. Donate
+msgid "Donate"
+msgstr "Annetada"
+
+#. Note
+msgid "Note: This is just a demo screenshot. To get settings please buy our pro version."
+msgstr "Märkus. See on vaid demo ekraanipilt. Seadete saamiseks palun osta meie pro versioon."
+
+#. Buy PRO
+msgid "Buy PRO"
+msgstr "Osta PRO"
+
+#. Settings - General
+msgid "Settings - General"
+msgstr "Seaded - üldine"
+
+#. admin
+msgid "Here admin can give access to user roles to use filemanager. Admin can set Default Access Folder and also control upload size of filemanager."
+msgstr "Siin saab administraator anda juurdepääsu kasutaja rollidele, et kasutada failihaldurit. Admin saab määrata vaikimisi juurdepääsu kausta ja kontrollida ka failihalduri üleslaadimise suurust."
+
+#. Settings - Code-editor
+msgid "Settings - Code-editor"
+msgstr "Seaded - koodi redaktor"
+
+#. code editor
+msgid "File Manager has a code editor with multiple themes. You can select any theme for code editor. It will display when you edit any file. Also you can allow fullscreen mode of code editor."
+msgstr "Failihaldur sisaldab mitme teemaga koodi redaktorit. Võite valida koodi redaktori mis tahes teema. See kuvatakse siis, kui muudate mis tahes faili. Samuti saate lubada koodi redaktori täisekraanirežiimi."
+
+#. Code-editor View
+msgid "Code-editor View"
+msgstr "Koodiredaktori vaade"
+
+#. Settings - User Restrictions
+msgid "Settings - User Restrictions"
+msgstr "Seaded - kasutaja piirangud"
+
+#. Admin - file - folders
+msgid "Admin can restrict actions of any user. Also hide files and folders and can set different - different folders paths for different users."
+msgstr "Administraator võib piirata mis tahes kasutaja tegevust. Peidake ka faile ja kaustu ning võite erinevatele kasutajatele erinevaid kausturadasid määrata."
+
+#. Settings - User Role Restrictions
+msgid "Settings - User Role Restrictions"
+msgstr "Seaded - kasutaja rolli piirangud"
+
+#. Admin - Restrict
+msgid "Admin can restrict actions of any userrole. Also hide files and folders and can set different - different folders paths for different users roles."
+msgstr "Administraator võib piirata mis tahes kasutaja rolli. Samuti peidab faile ja kaustu ning saab määrata erinevatele kasutaja rollidele erinevad kaustade teekonnad."
+
+#. PRO Shortcode
+msgid "File Manager PRO - Shortcode"
+msgstr "File Manager PRO - Código de acceso"
+
+#. File Manager - System Properties
+msgid "File Manager - System Properties"
+msgstr "Failihaldur - süsteemi omadused"
+
+#. PHP version
+msgid "PHP version"
+msgstr "PHP versioon"
+
+#. Maximum file upload size (upload_max_filesize)
+msgid "Maximum file upload size (upload_max_filesize)"
+msgstr "Maksimaalne failide üleslaadimise maht (upload_max_filesize)"
+
+#. Post maximum file upload size (post_max_size)
+msgid "Post maximum file upload size (post_max_size)"
+msgstr "Maksimaalse failide üleslaadimise suurus (post_max_size)"
+
+#. Memory Limit (memory_limit)
+msgid "Memory Limit (memory_limit)"
+msgstr "Mälu limiit (mälu-piirang)"
+
+#. Timeout (max_execution_time)
+msgid "Timeout (max_execution_time)"
+msgstr "Ajatsoon (max_execution_time)"
+
+#. Browser and OS (HTTP_USER_AGENT)
+msgid "Browser and OS (HTTP_USER_AGENT)"
+msgstr "Brauser ja operatsioonisüsteem (HTTP_USER_AGENT)"
+
+#. Contribute
+msgid "Please contribute some donation, to make plugin more stable. You can pay amount of your choice."
+msgstr "Palun anna mõned annetused, et muuta plugin stabiilsemaks. Saate maksta teie valitud summa."
+
+#. DB Manager
+msgid "DB Manager"
+msgstr "DB-haldur"
+
+#. WP File Manager PRO
+msgid "WP File Manager PRO"
+msgstr "WP failihaldur PRO"
+
+#. Order Details
+msgid "Order Details"
+msgstr "Telli üksikasjad"
+
+#. Popup Text
+msgid "Your File Manager PRO Order Details"
+msgstr "Teie failihaldur PRO Telli andmed"
+
+#. Popup Warning Text
+msgid "Warning: Please don't share these details with anyone."
+msgstr "Hoiatus: palun ärge jagage neid andmeid kellegi teisega."
+
+#. Settings - File Manager
+msgid "Settings - File Manager"
+msgstr "Seaded - failihaldur"
+
+#. General
+msgid "General"
+msgstr "Üldine"
+
+#. Code Editor
+msgid "Code Editor"
+msgstr "Koodi redaktor"
+
+#. User Restrictions
+msgid "User Restrictions"
+msgstr "Kasutaja piirangud"
+
+#. User Role Restrictions
+msgid "User Role Restrictions"
+msgstr "Kasutaja rolli piirangud"
+
+#. Select User Roles to access WP File manager
+msgid "Select User Roles to access WP File manager"
+msgstr "WP-failihaldurile juurdepääsu saamiseks valige User Roles"
+
+#. Allow user roles to access WP File Manager
+msgid "Allow user roles to access WP File Manager"
+msgstr "Luba kasutaja rollidel WP-failihaldurile juurdepääsemiseks"
+
+#. Seperate or Private Folder Access
+msgid "Seperate or Private Folder Access"
+msgstr "Ayrı və ya FərdEraldi või privaatkausta juurdepääs"
+
+#. ROOT
+msgid "File manager will access this folder path. Else, will access root directory. e.g wp-content/plugins. Note: Will Valid for all user roles."
+msgstr "Failihaldur pääseb sellele kausta teele. Muuhulgas saab juurdepääsu juurkataloogile. nt wp-content / pluginad. Märkus: kehtib kõigi kasutaja rollide kohta."
+
+#. Maximum Upload Size
+msgid "Maximum Upload Size"
+msgstr "Maksimaalne üleslaadimise suurus"
+
+#. Allow users to upload file of maximum size
+msgid "Allow users to upload file of maximum size"
+msgstr "Lubage kasutajatel üles laadida maksimaalse suurusega faili"
+
+#. Send Notifications to admin on file upload ?
+msgid "Send Notifications to admin on file upload ?"
+msgstr "Saatke märguandeid administraatorile faili üleslaadimisel?"
+
+#. Check to allow file upload notifications. Mail will sent to admin email.
+msgid "Check to allow file upload notifications. Mail will sent to admin email."
+msgstr "Kontrollige, et lubada failide üleslaadimise märguanded. E-post saadetakse administraatori e-posti aadressile."
+
+#. Note: This feature is using wp_mail(), Make sure wp_mail is working or not.
+msgid "Note: This feature is using wp_mail(), Make sure wp_mail is working or not."
+msgstr "Märkus: see funktsioon kasutab wp_mail (), veenduge, et wp_mail töötab või mitte."
+
+#. Send Notifications to admin on file download ?
+msgid "Send Notifications to admin on file download ?"
+msgstr "Kas soovite failide allalaadimiseks saata märguandeid administraatorile?"
+
+#. Check to allow file download notifications. Mail will sent to admin email.
+msgid "Check to allow file download notifications. Mail will sent to admin email"
+msgstr "Märkige failide allalaadimiste märguannete lubamiseks. E-post saadetakse administraatori e-posti aadressile"
+
+#. Send Notifications to admin on file edit ?
+msgid "Send Notifications to admin on file edit ?"
+msgstr "Kas soovite saata märguandeid administraatori faili muutmiseks?"
+
+#. Check to allow file edit notifications. Mail will sent to admin email.
+msgid "Check to allow file edit notifications. Mail will sent to admin email."
+msgstr "Märkige failide muutmise märguannete lubamiseks. E-post saadetakse administraatori e-posti aadressile."
+
+#. Select Filemanager Language
+msgid "Select Filemanager Language"
+msgstr "Valige faili halduri keel"
+
+#. You can select any language for filemanager.
+msgid "You can select any language for filemanager."
+msgstr "Saate valida failihalduri mis tahes keele."
+
+#. Code editor allow fullscreen?
+msgid "Code editor allow fullscreen?"
+msgstr "Koodiredaktor lubab täisekraani?"
+
+#. Check to allow fullscreen code editor
+msgid "Check to allow fullscreen code editor"
+msgstr "Kontrolli, et lubada täisekraanil olevat koodi redaktorit"
+
+#. Select theme for Code Editor.
+msgid "Select theme for Code Editor."
+msgstr "Koodiredaktori teema valimine."
+
+#. fullscreen text
+msgid "Check to allow fullscreen code editor. For more information please visit"
+msgstr "Kontrolli, et lubada täisekraanil olevat koodi redaktorit. Lisateabe saamiseks külastage palun"
+
+#. Disable or Ban WP File Manager Operations to Users
+msgid "Disable or Ban WP File Manager Operations to Users"
+msgstr "Keelake või keelake WP-failihaldur kasutajatele"
+
+#. Select users and disable operation.
+msgid "Select users and disable operation."
+msgstr "Valige kasutaja ja keelake toiming."
+
+#. Click to Add Rules
+msgid "Click to Add Rules"
+msgstr "Reeglite lisamiseks klõpsake"
+
+#. Add rule for Users
+msgid "Add rule for Users"
+msgstr "Kasutajate jaoks reegli lisamine"
+
+#. If User is
+msgid "If User is"
+msgstr "Kui kasutaja on"
+
+#. Then
+msgid "Then"
+msgstr "Siis"
+
+#. Disable Operations
+msgid "Disable Operations"
+msgstr "Keela toimingud"
+
+#. Seperate or private folder
+msgid "Seperate or private folder access e.g wp-content/themes etc. Note It will overide \"Private Folder Access\" settings."
+msgstr "Eraldiseisev või privaatne kausta juurdepääs, nt wp-content / teemad jne. Märkus. See ületab \\ \"Privaatsete failide juurdepääsu \" seaded."
+
+#. hide text
+msgid "Enter Folder or Files Paths That You want to Hide e.g wp-content/themes|wp-content/plugins. Note: Multiple separated by Vertical Bar (|)."
+msgstr "Sisesta kaustade või failide teed, mida soovite peita näiteks wp-sisu / teemad | wp-content / pluginad. Märkus: mitu eraldati vertikaalribaga (|)."
+
+#. lock files
+msgid "Enter file extensions which you want to Lock. e.g .php|.png|.css etc"
+msgstr "Sisestage faililaiendid, mida soovite lukustada. nt .php | .png | .css jne"
+
+#. Disable or Ban WP File Manager Operations to User Roles
+msgid "Disable or Ban WP File Manager Operations to User Roles"
+msgstr "Keela või keelata WP-failihaldur kasutaja rolli toimingute jaoks"
+
+#. Select user role and disable operation.
+msgid "Select user role and disable operation."
+msgstr "Valige kasutaja roll ja keelake toiming."
+
+#. Add rule for User Roles
+msgid "Add rule for User Roles"
+msgstr "Kasutajate rollide reegli lisamine"

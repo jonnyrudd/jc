@@ -1,0 +1,290 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WP File Manager\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-09-06 09:29+0000\n"
+"PO-Revision-Date: 2017-09-27 11:04+0530\n"
+"Last-Translator: admin <kajal.gill@mysenseinc.in>\n"
+"Language-Team: \n"
+"Language: gl_ES\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.4\n"
+
+#. Name of the plugin
+msgid "WP File Manager"
+msgstr "Xestor de ficheiros WP"
+
+#. Description of the plugin
+msgid "Manage your WP files."
+msgstr "Xestiona os teus ficheiros WP."
+
+#. Settings
+msgid "Settings"
+msgstr "Configuración"
+
+#. System Properties
+msgid "System Properties"
+msgstr "Propiedades do sistema"
+
+#. Shortcode - PRO
+msgid "Shortcode - PRO"
+msgstr "Código breve - PRO"
+
+#. Extensions
+msgid "Extensions"
+msgstr "Extensións"
+
+#. Donate
+msgid "Donate"
+msgstr "Doar"
+
+#. Note
+msgid "Note: This is just a demo screenshot. To get settings please buy our pro version."
+msgstr "Nota: Esta é só unha captura de pantalla de demostración. Para obter axustes, compre a nosa versión profesional."
+
+#. Buy PRO
+msgid "Buy PRO"
+msgstr "Comprar PRO"
+
+#. Settings - General
+msgid "Settings - General"
+msgstr "Configuración - Xeral"
+
+#. admin
+msgid "Here admin can give access to user roles to use filemanager. Admin can set Default Access Folder and also control upload size of filemanager."
+msgstr "Aquí o administrador pode dar acceso a roles de usuario para usar filemanager. Admin pode configurar a carpeta de acceso predeterminada e tamén controlar o tamaño de carga do filemanager."
+
+#. Settings - Code-editor
+msgid "Settings - Code-editor"
+msgstr "Configuración - Editor de código"
+
+#. code editor
+msgid "File Manager has a code editor with multiple themes. You can select any theme for code editor. It will display when you edit any file. Also you can allow fullscreen mode of code editor."
+msgstr "O xestor de ficheiros ten un editor de código con varios temas. Podes seleccionar calquera tema para o editor de código. Amosarase cando edite algún ficheiro. Tamén pode permitir o modo de pantalla completa do editor de código."
+
+#. Code-editor View
+msgid "Code-editor View"
+msgstr "Ver editor de código"
+
+#. Settings - User Restrictions
+msgid "Settings - User Restrictions"
+msgstr "Configuración - Restricións de usuario"
+
+#. Admin - file - folders
+msgid "Admin can restrict actions of any user. Also hide files and folders and can set different - different folders paths for different users."
+msgstr "Admin pode restrinxir as accións de calquera usuario. Tamén ocultar ficheiros e cartafoles e pode configurar diferentes camiños de carpetas diferentes para diferentes usuarios."
+
+#. Settings - User Role Restrictions
+msgid "Settings - User Role Restrictions"
+msgstr "Configuración - Restricións de funcións do usuario"
+
+#. Admin - Restrict
+msgid "Admin can restrict actions of any userrole. Also hide files and folders and can set different - different folders paths for different users roles."
+msgstr "Admin pode restrinxir as accións de calquera usuario. Tamén ocultar ficheiros e cartafoles e pode configurar diferentes camiños de carpetas diferentes para roles de diferentes usuarios."
+
+#. PRO Shortcode
+msgid "File Manager PRO - Shortcode"
+msgstr "Xestor de ficheiros PRO - Shortcode"
+
+#. File Manager - System Properties
+msgid "File Manager - System Properties"
+msgstr "Xestor de ficheiros - Propiedades do sistema"
+
+#. PHP version
+msgid "PHP version"
+msgstr "Versión PHP"
+
+#. Maximum file upload size (upload_max_filesize)
+msgid "Maximum file upload size (upload_max_filesize)"
+msgstr "Tamaño máximo de carga de ficheiro (upload_max_filesize)"
+
+#. Post maximum file upload size (post_max_size)
+msgid "Post maximum file upload size (post_max_size)"
+msgstr "Envía o tamaño máximo de carga do ficheiro (post_max_size)"
+
+#. Memory Limit (memory_limit)
+msgid "Memory Limit (memory_limit)"
+msgstr "Límite de memoria (memoria_limit)"
+
+#. Timeout (max_execution_time)
+msgid "Timeout (max_execution_time)"
+msgstr "Tempo de espera (max_execution_time)"
+
+#. Browser and OS (HTTP_USER_AGENT)
+msgid "Browser and OS (HTTP_USER_AGENT)"
+msgstr "Navegador e SO (HTTP_USER_AGENT)"
+
+#. Contribute
+msgid "Please contribute some donation, to make plugin more stable. You can pay amount of your choice."
+msgstr "Contribúe con algunha doazón, para que o complemento sexa máis estable. Podes pagar cantidade da túa elección."
+
+#. DB Manager
+msgid "DB Manager"
+msgstr "Xestor de DB"
+
+#. WP File Manager PRO
+msgid "WP File Manager PRO"
+msgstr "WP File Manager PRO"
+
+#. Order Details
+msgid "Order Details"
+msgstr "Detalles da orde"
+
+#. Popup Text
+msgid "Your File Manager PRO Order Details"
+msgstr "Os detalles do pedido do seu xestor de ficheiros PRO"
+
+#. Popup Warning Text
+msgid "Warning: Please don't share these details with anyone."
+msgstr "Aviso: Non comparta estes datos con ninguén."
+
+#. Settings - File Manager
+msgid "Settings - File Manager"
+msgstr "Configuración - Xestor de ficheiros"
+
+#. General
+msgid "General"
+msgstr "Xeral"
+
+#. Code Editor
+msgid "Code Editor"
+msgstr "Editor de código"
+
+#. User Restrictions
+msgid "User Restrictions"
+msgstr "Restricións de usuarios"
+
+#. User Role Restrictions
+msgid "User Role Restrictions"
+msgstr "Restricións de funcións do usuario"
+
+#. Select User Roles to access WP File manager
+msgid "Select User Roles to access WP File manager"
+msgstr "Seleccione funcións de usuario para acceder ao xestor de ficheiros WP"
+
+#. Allow user roles to access WP File Manager
+msgid "Allow user roles to access WP File Manager"
+msgstr "Permitir que as funcións de usuario accedan ao Xestor de ficheiros WP"
+
+#. Seperate or Private Folder Access
+msgid "Seperate or Private Folder Access"
+msgstr "Acceso de cartafol privado ou privado"
+
+#. ROOT
+msgid "File manager will access this folder path. Else, will access root directory. e.g wp-content/plugins. Note: Will Valid for all user roles."
+msgstr "O xestor de ficheiros accederá a este camiño do cartafol. Else, accederá ao directorio raíz. por exemplo wp-content / plugins. Nota: Será válido para todos os roles de usuario."
+
+#. Maximum Upload Size
+msgid "Maximum Upload Size"
+msgstr "Tamaño máximo de carga"
+
+#. Allow users to upload file of maximum size
+msgid "Allow users to upload file of maximum size"
+msgstr "Permitir aos usuarios cargar arquivos de tamaño máximo"
+
+#. Send Notifications to admin on file upload ?
+msgid "Send Notifications to admin on file upload ?"
+msgstr "¿Enviar notificacións ao administrador na carga do ficheiro?"
+
+#. Check to allow file upload notifications. Mail will sent to admin email.
+msgid "Check to allow file upload notifications. Mail will sent to admin email."
+msgstr "Comprobe se hai notificacións de carga de ficheiros. O correo enviarase ao correo electrónico de administración."
+
+#. Note: This feature is using wp_mail(), Make sure wp_mail is working or not.
+msgid "Note: This feature is using wp_mail(), Make sure wp_mail is working or not."
+msgstr "Nota: Esta función está a usar wp_mail (), Asegúrese de que wp_mail estea funcionando ou non."
+
+#. Send Notifications to admin on file download ?
+msgid "Send Notifications to admin on file download ?"
+msgstr "¿Enviar notificacións ao administrador na descarga de ficheiros?"
+
+#. Check to allow file download notifications. Mail will sent to admin email.
+msgid "Check to allow file download notifications. Mail will sent to admin email"
+msgstr "Comprobe se hai notificacións de descarga de ficheiros. O correo enviarase ao correo electrónico de administración"
+
+#. Send Notifications to admin on file edit ?
+msgid "Send Notifications to admin on file edit ?"
+msgstr "¿Enviar notificacións ao administrador na edición de ficheiros?"
+
+#. Check to allow file edit notifications. Mail will sent to admin email.
+msgid "Check to allow file edit notifications. Mail will sent to admin email."
+msgstr "Verifique que as notificacións de edición de ficheiro sexan válidas. O correo enviarase ao correo electrónico de administración."
+
+#. Select Filemanager Language
+msgid "Select Filemanager Language"
+msgstr "Seleccionar o idioma do filemanager"
+
+#. You can select any language for filemanager.
+msgid "You can select any language for filemanager."
+msgstr "Pode seleccionar calquera idioma para filemanager."
+
+#. Code editor allow fullscreen?
+msgid "Code editor allow fullscreen?"
+msgstr "¿O editor de código permite a pantalla completa?"
+
+#. Check to allow fullscreen code editor
+msgid "Check to allow fullscreen code editor"
+msgstr "Comprobe que o editor de código de pantalla estea dispoñible"
+
+#. Select theme for Code Editor.
+msgid "Select theme for Code Editor."
+msgstr "Seleccione o tema do editor de código."
+
+#. fullscreen text
+msgid "Check to allow fullscreen code editor. For more information please visit"
+msgstr "Comprobe que o editor de código de pantalla estea dispoñible. Para obter máis información, visite"
+
+#. Disable or Ban WP File Manager Operations to Users
+msgid "Disable or Ban WP File Manager Operations to Users"
+msgstr "Deshabilitar ou probar as operacións do xestor de ficheiros WP aos usuarios"
+
+#. Select users and disable operation.
+msgid "Select users and disable operation."
+msgstr "Selecciona usuarios e desactiva a operación."
+
+#. Click to Add Rules
+msgid "Click to Add Rules"
+msgstr "Fai clic para engadir regras"
+
+#. Add rule for Users
+msgid "Add rule for Users"
+msgstr "Engadir unha regra para os usuarios"
+
+#. If User is
+msgid "If User is"
+msgstr "Se o usuario é"
+
+#. Then
+msgid "Then"
+msgstr "Entón"
+
+#. Disable Operations
+msgid "Disable Operations"
+msgstr "Desactivar as operacións"
+
+#. Seperate or private folder
+msgid "Seperate or private folder access e.g wp-content/themes etc. Note It will overide \"Private Folder Access\" settings."
+msgstr "Acceso separado ou de cartafol privado, por exemplo, wp-content / themes, etc. Nota: examinará a configuración de \\ \"Acceso de cartafol privado \"."
+
+#. hide text
+msgid "Enter Folder or Files Paths That You want to Hide e.g wp-content/themes|wp-content/plugins. Note: Multiple separated by Vertical Bar (|)."
+msgstr "Introduza carpetas ou ficheiros Rutas que quere ocultar. Wp-content / themes | wp-content / plugins. Nota: Múltiples separados por barra vertical (|)."
+
+#. lock files
+msgid "Enter file extensions which you want to Lock. e.g .php|.png|.css etc"
+msgstr "Insira as extensións de ficheiro que desexa bloquear. por exemplo. php | .png | .css, etc."
+
+#. Disable or Ban WP File Manager Operations to User Roles
+msgid "Disable or Ban WP File Manager Operations to User Roles"
+msgstr "Deshabilitar ou Prohibir as operacións do xestor de ficheiros WP ás funcións do usuario"
+
+#. Select user role and disable operation.
+msgid "Select user role and disable operation."
+msgstr "Selecciona a rol de usuario e desactiva a operación."
+
+#. Add rule for User Roles
+msgid "Add rule for User Roles"
+msgstr "Engadir unha regra para roles de usuario"

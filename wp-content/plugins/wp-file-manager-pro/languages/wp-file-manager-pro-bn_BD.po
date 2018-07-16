@@ -1,0 +1,290 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WP File Manager\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-09-06 09:29+0000\n"
+"PO-Revision-Date: 2017-09-27 10:42+0530\n"
+"Last-Translator: admin <kajal.gill@mysenseinc.in>\n"
+"Language-Team: \n"
+"Language: bn_BD\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.4\n"
+
+#. Name of the plugin
+msgid "WP File Manager"
+msgstr "WP ফাইল ম্যানেজার"
+
+#. Description of the plugin
+msgid "Manage your WP files."
+msgstr "আপনার WP ফাইলগুলি পরিচালনা করুন."
+
+#. Settings
+msgid "Settings"
+msgstr "সেটিংস"
+
+#. System Properties
+msgid "System Properties"
+msgstr "পদ্ধতির বৈশিষ্ট্য"
+
+#. Shortcode - PRO
+msgid "Shortcode - PRO"
+msgstr "শর্টকাট - প্রো"
+
+#. Extensions
+msgid "Extensions"
+msgstr "এক্সটেনশানগুলি"
+
+#. Donate
+msgid "Donate"
+msgstr "দান করা"
+
+#. Note
+msgid "Note: This is just a demo screenshot. To get settings please buy our pro version."
+msgstr "দ্রষ্টব্য: এটি শুধু একটি ডেমো স্ক্রিনশট। সেটিংস পেতে আমাদের প্রো সংস্করণ কিনতে দয়া করে।"
+
+#. Buy PRO
+msgid "Buy PRO"
+msgstr "প্রো কিনুন"
+
+#. Settings - General
+msgid "Settings - General"
+msgstr "স্টেইনলেস - সাধারণ"
+
+#. admin
+msgid "Here admin can give access to user roles to use filemanager. Admin can set Default Access Folder and also control upload size of filemanager."
+msgstr "এখানে ফাইল ম্যানেজার ব্যবহার করার জন্য প্রশাসক ব্যবহারকারীর ভূমিকা অ্যাক্সেস করতে পারেন। অ্যাডমিন ডিফল্ট অ্যাক্সেস ফোল্ডার নির্ধারণ করতে পারে এবং ফাইলম্যানডারের আপলোড আকার নিয়ন্ত্রণ করতে পারে।"
+
+#. Settings - Code-editor
+msgid "Settings - Code-editor"
+msgstr "সেটিংস - কোড-সম্পাদক"
+
+#. code editor
+msgid "File Manager has a code editor with multiple themes. You can select any theme for code editor. It will display when you edit any file. Also you can allow fullscreen mode of code editor."
+msgstr "ফাইল ম্যানেজারের একাধিক থিম সঙ্গে একটি কোড সম্পাদক আছে। আপনি কোড সম্পাদক জন্য কোন থিম নির্বাচন করতে পারেন। যখন আপনি কোনও ফাইল সম্পাদনা করবেন তখন এটি প্রদর্শিত হবে। এছাড়াও আপনি কোড সম্পাদক পূর্ণস্ক্রীন মোড অনুমতি দিতে পারেন।"
+
+#. Code-editor View
+msgid "Code-editor View"
+msgstr "কোড-এডিটর দেখুন"
+
+#. Settings - User Restrictions
+msgid "Settings - User Restrictions"
+msgstr "সেটিংস - ব্যবহারকারীর সীমাবদ্ধতা"
+
+#. Admin - file - folders
+msgid "Admin can restrict actions of any user. Also hide files and folders and can set different - different folders paths for different users."
+msgstr "অ্যাডমিন যেকোন ব্যবহারকারীর কার্যক্রম সীমাবদ্ধ করতে পারে। এছাড়াও ফাইল এবং ফোল্ডার লুকান এবং বিভিন্ন সেট করতে পারেন - বিভিন্ন ব্যবহারকারীর জন্য বিভিন্ন ফোল্ডার পাথ"
+
+#. Settings - User Role Restrictions
+msgid "Settings - User Role Restrictions"
+msgstr "সেটিংস - ব্যবহারকারীর ভূমিকা প্রতিবন্ধক"
+
+#. Admin - Restrict
+msgid "Admin can restrict actions of any userrole. Also hide files and folders and can set different - different folders paths for different users roles."
+msgstr "অ্যাডমিন কোনও userrole এর কার্যকলাপকে সীমিত করতে পারে। এছাড়াও ফাইল এবং ফোল্ডার লুকান এবং বিভিন্ন সেট করতে পারেন - বিভিন্ন ব্যবহারকারীর ভূমিকা জন্য বিভিন্ন ফোল্ডার পাথ।"
+
+#. PRO Shortcode
+msgid "File Manager PRO - Shortcode"
+msgstr "ফাইল ম্যানেজার PRO - Shortcode"
+
+#. File Manager - System Properties
+msgid "File Manager - System Properties"
+msgstr "ফাইল ম্যানেজার - সিস্টেম বৈশিষ্ট্যাবলী"
+
+#. PHP version
+msgid "PHP version"
+msgstr "পিএইচপি সংস্করণ"
+
+#. Maximum file upload size (upload_max_filesize)
+msgid "Maximum file upload size (upload_max_filesize)"
+msgstr "সর্বাধিক ফাইল আপলোড আকার (আপলোড_ম্যাক_ফাইলাইজেস)"
+
+#. Post maximum file upload size (post_max_size)
+msgid "Post maximum file upload size (post_max_size)"
+msgstr "সর্বাধিক ফাইল আপলোড আকার পোস্ট করুন (পোস্ট_মাইজ_সাইজ)"
+
+#. Memory Limit (memory_limit)
+msgid "Memory Limit (memory_limit)"
+msgstr "মেমরি সীমা (মেমরিলিমিট)"
+
+#. Timeout (max_execution_time)
+msgid "Timeout (max_execution_time)"
+msgstr "টাইমআউট (max_execution_time)"
+
+#. Browser and OS (HTTP_USER_AGENT)
+msgid "Browser and OS (HTTP_USER_AGENT)"
+msgstr "ব্রাউজার এবং ওএস (HTTP_USER_AGENT)"
+
+#. Contribute
+msgid "Please contribute some donation, to make plugin more stable. You can pay amount of your choice."
+msgstr "প্লাগইন আরো স্থিতিশীল করতে, কিছু অনুদান অবদান করুন। আপনি আপনার পছন্দ পরিমাণ দিতে পারেন।"
+
+#. DB Manager
+msgid "DB Manager"
+msgstr "ডিবি ম্যানেজার"
+
+#. WP File Manager PRO
+msgid "WP File Manager PRO"
+msgstr "WP ফাইল ম্যানেজার PRO"
+
+#. Order Details
+msgid "Order Details"
+msgstr "আদেশ বিবরণী"
+
+#. Popup Text
+msgid "Your File Manager PRO Order Details"
+msgstr "আপনার ফাইল ম্যানেজার PRO আদেশ বিবরণ"
+
+#. Popup Warning Text
+msgid "Warning: Please don't share these details with anyone."
+msgstr "সতর্কতা: দয়া করে কেউ এই বিবরণ ভাগ না।"
+
+#. Settings - File Manager
+msgid "Settings - File Manager"
+msgstr "সেটিংস - ফাইল ম্যানেজার"
+
+#. General
+msgid "General"
+msgstr "সাধারণ"
+
+#. Code Editor
+msgid "Code Editor"
+msgstr "কোড সম্পাদক"
+
+#. User Restrictions
+msgid "User Restrictions"
+msgstr "ব্যবহারকারীর বিধিনিষেধগুলি"
+
+#. User Role Restrictions
+msgid "User Role Restrictions"
+msgstr "ব্যবহারকারীর ভূমিকা বিধিনিষেধ"
+
+#. Select User Roles to access WP File manager
+msgid "Select User Roles to access WP File manager"
+msgstr "WP ফাইল ম্যানেজার অ্যাক্সেস ব্যবহারকারীর ভূমিকা নির্বাচন করুন"
+
+#. Allow user roles to access WP File Manager
+msgid "Allow user roles to access WP File Manager"
+msgstr "ব্যবহারকারীর ভূমিকা WP ফাইল ম্যানেজার অ্যাক্সেস করার অনুমতি দিন"
+
+#. Seperate or Private Folder Access
+msgid "Seperate or Private Folder Access"
+msgstr "পৃথক বা ব্যক্তিগত ফোল্ডার অ্যাক্সেস"
+
+#. ROOT
+msgid "File manager will access this folder path. Else, will access root directory. e.g wp-content/plugins. Note: Will Valid for all user roles."
+msgstr "ফাইল ম্যানেজার এই ফোল্ডার পাথ অ্যাক্সেস করবে অন্যথায়, রুট ডিরেক্টরি অ্যাক্সেস করতে হবে। যেমন wp-content / plugins নোট: সমস্ত ব্যবহারকারী ভূমিকা জন্য বৈধ হবে।"
+
+#. Maximum Upload Size
+msgid "Maximum Upload Size"
+msgstr "সর্বাধিক আপলোড আকার"
+
+#. Allow users to upload file of maximum size
+msgid "Allow users to upload file of maximum size"
+msgstr "ব্যবহারকারীদের সর্বাধিক আকারের ফাইল আপলোড করার অনুমতি দিন"
+
+#. Send Notifications to admin on file upload ?
+msgid "Send Notifications to admin on file upload ?"
+msgstr "ফাইল আপলোড এ অ্যাডমিন থেকে বিজ্ঞপ্তি পাঠাতে?"
+
+#. Check to allow file upload notifications. Mail will sent to admin email.
+msgid "Check to allow file upload notifications. Mail will sent to admin email."
+msgstr "ফাইল আপলোডের বিজ্ঞপ্তিগুলি অনুমোদন করার জন্য চেক করুন মেইল অ্যাডমিন ইমেলে পাঠানো হবে"
+
+#. Note: This feature is using wp_mail(), Make sure wp_mail is working or not.
+msgid "Note: This feature is using wp_mail(), Make sure wp_mail is working or not."
+msgstr "দ্রষ্টব্য: এই বৈশিষ্ট্যটি wp_mail () ব্যবহার করছে, নিশ্চিত করুন wp_mail কাজ করছে বা না।"
+
+#. Send Notifications to admin on file download ?
+msgid "Send Notifications to admin on file download ?"
+msgstr "ফাইল ডাউনলোড অ্যাডমিন থেকে বিজ্ঞপ্তি পাঠান?"
+
+#. Check to allow file download notifications. Mail will sent to admin email.
+msgid "Check to allow file download notifications. Mail will sent to admin email"
+msgstr "ফাইল ডাউনলোডের বিজ্ঞপ্তিগুলি অনুমোদন করার জন্য চেক করুন। মেইল অ্যাডমিন ইমেলে পাঠানো হবে"
+
+#. Send Notifications to admin on file edit ?
+msgid "Send Notifications to admin on file edit ?"
+msgstr "ফাইল সম্পাদনার উপর অ্যাডমিন থেকে বিজ্ঞপ্তি পাঠান?"
+
+#. Check to allow file edit notifications. Mail will sent to admin email.
+msgid "Check to allow file edit notifications. Mail will sent to admin email."
+msgstr "ফাইল সম্পাদনা বিজ্ঞপ্তিগুলি অনুমোদন করার জন্য চেক করুন। মেইল অ্যাডমিন ইমেলে পাঠানো হবে"
+
+#. Select Filemanager Language
+msgid "Select Filemanager Language"
+msgstr "ফাইলমেনজার ভাষা নির্বাচন করুন"
+
+#. You can select any language for filemanager.
+msgid "You can select any language for filemanager."
+msgstr "আপনি ফাইলমেনজারের জন্য কোনও ভাষা নির্বাচন করতে পারেন।"
+
+#. Code editor allow fullscreen?
+msgid "Code editor allow fullscreen?"
+msgstr "কোড সম্পাদক পূর্ণ পর্দার অনুমতি?"
+
+#. Check to allow fullscreen code editor
+msgid "Check to allow fullscreen code editor"
+msgstr "পূর্ণস্ক্রিন কোড সম্পাদককে অনুমতি দিতে চেক করুন"
+
+#. Select theme for Code Editor.
+msgid "Select theme for Code Editor."
+msgstr "কোড সম্পাদক জন্য থিম নির্বাচন করুন।"
+
+#. fullscreen text
+msgid "Check to allow fullscreen code editor. For more information please visit"
+msgstr "পূর্ণস্ক্রিন কোড সম্পাদককে অনুমতি দিতে চেক করুন। আরো তথ্যের জন্য অনুগ্রহ করে পরিদর্শন করুন"
+
+#. Disable or Ban WP File Manager Operations to Users
+msgid "Disable or Ban WP File Manager Operations to Users"
+msgstr "ব্যবহারকারীদের কাছে WP ফাইল ম্যানেজার অপারেশন অক্ষম বা নিষ্ক্রিয় করুন"
+
+#. Select users and disable operation.
+msgid "Select users and disable operation."
+msgstr "ব্যবহারকারীদের নির্বাচন করুন এবং অপারেশন অক্ষম করুন।"
+
+#. Click to Add Rules
+msgid "Click to Add Rules"
+msgstr "নিয়ম যোগ করতে ক্লিক করুন"
+
+#. Add rule for Users
+msgid "Add rule for Users"
+msgstr "ব্যবহারকারীদের জন্য নিয়ম যোগ করুন"
+
+#. If User is
+msgid "If User is"
+msgstr "ব্যবহারকারী যদি"
+
+#. Then
+msgid "Then"
+msgstr "তারপর"
+
+#. Disable Operations
+msgid "Disable Operations"
+msgstr "অপারেশন অক্ষম করুন"
+
+#. Seperate or private folder
+msgid "Seperate or private folder access e.g wp-content/themes etc. Note It will overide \"Private Folder Access\" settings."
+msgstr "পৃথক বা ব্যক্তিগত ফোল্ডার অ্যাক্সেস উদাহরণ wp-content / themes ইত্যাদি। এটি \"ব্যক্তিগত ফোল্ডার অ্যাক্সেস\" সেটিংসকে অতিক্রম করবে।"
+
+#. hide text
+msgid "Enter Folder or Files Paths That You want to Hide e.g wp-content/themes|wp-content/plugins. Note: Multiple separated by Vertical Bar (|)."
+msgstr "ফোল্ডার বা ফাইলগুলি প্রবেশ করান যেগুলি আপনি যেমন উজ্জ্বল করতে চান উটপাখি- wp-content / themes | wp-content / plugins দ্রষ্টব্য: উল্লম্ব বার দ্বারা পৃথক একাধিক (|)।"
+
+#. lock files
+msgid "Enter file extensions which you want to Lock. e.g .php|.png|.css etc"
+msgstr "ফাইল এক্সটেনশান লিখুন যা আপনি লক করতে চান। যেমন .php | .png | .css ইত্যাদি"
+
+#. Disable or Ban WP File Manager Operations to User Roles
+msgid "Disable or Ban WP File Manager Operations to User Roles"
+msgstr "ব্যবহারকারীর ভূমিতে WP ফাইল ম্যানেজার অপারেশন অক্ষম বা নিষ্ক্রিয় করুন"
+
+#. Select user role and disable operation.
+msgid "Select user role and disable operation."
+msgstr "ব্যবহারকারীর ভূমিকা এবং অক্ষম অপারেশন নির্বাচন করুন।"
+
+#. Add rule for User Roles
+msgid "Add rule for User Roles"
+msgstr "ব্যবহারকারীর ভূমিকাগুলির জন্য নিয়ম জুড়ুন"

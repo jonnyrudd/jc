@@ -1,0 +1,301 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WP File Manager\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-09-06 09:29+0000\n"
+"PO-Revision-Date: 2017-09-27 18:05+0530\n"
+"Last-Translator: admin <munishthedeveloper48@gmail.com>\n"
+"Language-Team: Vietnamese\n"
+"Language: vi\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.4\n"
+
+#. Note
+msgid "Note: This is just a demo screenshot. To get settings please buy our pro version."
+msgstr "Lưu ý: Đây chỉ là một ảnh chụp màn hình giới thiệu. Để có được cài đặt, xin vui lòng mua phiên bản chuyên nghiệp của chúng tôi."
+
+#. Name of the plugin
+msgid "WP File Manager"
+msgstr "Quản lý tệp WP"
+
+#. Description of the plugin
+msgid "Manage your WP files."
+msgstr "Quản lý các tệp WP của bạn."
+
+#. Settings
+msgid "Settings"
+msgstr "Cài đặt"
+
+#. System Properties
+msgid "System Properties"
+msgstr "Thuộc tính Hệ thống"
+
+#. Shortcode - PRO
+msgid "Shortcode - PRO"
+msgstr "Mã ngắn - PRO"
+
+#. Extensions
+msgid "Extensions"
+msgstr "Tiện ích mở rộng"
+
+#. Donate
+msgid "Donate"
+msgstr "Tặng"
+
+#. Buy PRO
+msgid "Buy PRO"
+msgstr "Mua PRO"
+
+#. Settings - General
+msgid "Settings - General"
+msgstr "Cài đặt - Tổng quát"
+
+#. admin
+msgid "Here admin can give access to user roles to use filemanager. Admin can set Default Access Folder and also control upload size of filemanager."
+msgstr ""
+"Tại đây, quản trị viên có thể cấp quyền truy cập vào vai trò người dùng để sử dụng trình quản lý tập tin. Admin có thể thiết lập Default Access Folder và kiểm soát kích thước "
+"upload của filemanager."
+
+#. Settings - Code-editor
+msgid "Settings - Code-editor"
+msgstr "Cài đặt - Trình chỉnh sửa mã"
+
+#. code editor
+msgid ""
+"File Manager has a code editor with multiple themes. You can select any theme for code editor. It will display when you edit any file. Also you can allow fullscreen mode of "
+"code editor."
+msgstr ""
+"Trình quản lý tệp có trình chỉnh sửa mã có nhiều chủ đề. Bạn có thể chọn bất kỳ chủ đề nào cho trình soạn thảo mã. Nó sẽ hiển thị khi bạn chỉnh sửa bất kỳ tập tin. Ngoài ra "
+"bạn có thể cho phép chế độ toàn màn hình của trình biên tập mã."
+
+#. Code-editor View
+msgid "Code-editor View"
+msgstr "Chế độ xem trình soạn thảo mã"
+
+#. Settings - User Restrictions
+#, fuzzy
+msgid "Settings - User Restrictions"
+msgstr "Cài đặt - Hạn chế của Người dùng"
+
+#. Admin - file - folders
+msgid "Admin can restrict actions of any user. Also hide files and folders and can set different - different folders paths for different users."
+msgstr ""
+"Quản trị viên có thể hạn chế hành động của bất kỳ người dùng nào. Cũng ẩn các tập tin và thư mục và có thể thiết lập khác nhau - đường dẫn thư mục khác nhau cho người dùng "
+"khác nhau."
+
+#. Settings - User Role Restrictions
+msgid "Settings - User Role Restrictions"
+msgstr "Cài đặt - Giới hạn vai trò người dùng"
+
+#. Admin - Restrict
+msgid "Admin can restrict actions of any userrole. Also hide files and folders and can set different - different folders paths for different users roles."
+msgstr ""
+"Quản trị viên có thể hạn chế hành động của bất kỳ người dùng nào. Cũng ẩn các tập tin và thư mục và có thể thiết lập khác nhau - đường dẫn các thư mục khác nhau cho vai trò "
+"người dùng khác nhau."
+
+#. PRO Shortcode
+msgid "File Manager PRO - Shortcode"
+msgstr "Trình quản lý tệp PRO - Mã vạch"
+
+#. File Manager - System Properties
+msgid "File Manager - System Properties"
+msgstr "Trình quản lý tệp - Thuộc tính hệ thống"
+
+#. PHP version
+msgid "PHP version"
+msgstr "Phiên bản PHP"
+
+#. Maximum file upload size (upload_max_filesize)
+msgid "Maximum file upload size (upload_max_filesize)"
+msgstr "Kích thước tải lên tệp tối đa (upload_max_filesize)"
+
+#. Post maximum file upload size (post_max_size)
+msgid "Post maximum file upload size (post_max_size)"
+msgstr "Đăng lượng tệp tối đa kích thước tải lên (post_max_size)"
+
+#. Memory Limit (memory_limit)
+msgid "Memory Limit (memory_limit)"
+msgstr "Giới hạn bộ nhớ (memory_limit)"
+
+#. Timeout (max_execution_time)
+msgid "Timeout (max_execution_time)"
+msgstr "Thời gian chờ (max_execution_time)"
+
+#. Browser and OS (HTTP_USER_AGENT)
+msgid "Browser and OS (HTTP_USER_AGENT)"
+msgstr "Trình duyệt và Hệ điều hành (HTTP_USER_AGENT)"
+
+#. Contribute
+msgid "Please contribute some donation, to make plugin more stable. You can pay amount of your choice."
+msgstr "Xin đóng góp một số đóng góp, để làm cho plugin ổn định hơn. Bạn có thể trả số tiền bạn chọn."
+
+#. DB Manager
+msgid "DB Manager"
+msgstr "Quản lý DB"
+
+#. WP File Manager PRO
+msgid "WP File Manager PRO"
+msgstr "WP File Manager PRO"
+
+#. Order Details
+msgid "Order Details"
+msgstr "Chi tiết đơn đặt hàng"
+
+#. Popup Text
+msgid "Your File Manager PRO Order Details"
+msgstr "Chi tiết đơn đặt hàng PRO File Manager PRO của bạn"
+
+#. Popup Warning Text
+msgid "Warning: Please don't share these details with anyone."
+msgstr "Cảnh báo: Xin vui lòng không chia sẻ những chi tiết này với bất cứ ai."
+
+#. Settings - File Manager
+msgid "Settings - File Manager"
+msgstr "Cài đặt - Trình quản lý tệp"
+
+#. General
+msgid "General"
+msgstr "Chung"
+
+#. Code Editor
+msgid "Code Editor"
+msgstr "Trình chỉnh sửa Mã"
+
+#. User Restrictions
+msgid "User Restrictions"
+msgstr "Hạn chế người dùng"
+
+#. User Role Restrictions
+msgid "User Role Restrictions"
+msgstr "Hạn chế Vai trò Người dùng"
+
+#. Select User Roles to access WP File manager
+msgid "Select User Roles to access WP File manager"
+msgstr "Chọn Vai trò Người dùng để truy cập vào Quản lý Tập tin WP"
+
+#. Allow user roles to access WP File Manager
+msgid "Allow user roles to access WP File Manager"
+msgstr "Cho phép vai trò người dùng truy cập WP File Manager"
+
+#. Seperate or Private Folder Access
+msgid "Seperate or Private Folder Access"
+msgstr "Truy cập Thư mục riêng hoặc Riêng biệt"
+
+#. ROOT
+msgid "File manager will access this folder path. Else, will access root directory. e.g wp-content/plugins. Note: Will Valid for all user roles."
+msgstr "Quản lý tệp sẽ truy cập vào đường dẫn thư mục này. Else, sẽ truy cập thư mục gốc. ví dụ như wp-content / plugins. Lưu ý: Sẽ Hợp lệ cho tất cả các vai trò của người dùng."
+
+#. Maximum Upload Size
+msgid "Maximum Upload Size"
+msgstr "Kích thước Tải lên Tối đa"
+
+#. Allow users to upload file of maximum size
+msgid "Allow users to upload file of maximum size"
+msgstr "Cho phép người dùng tải lên tệp có kích thước tối đa"
+
+#. Send Notifications to admin on file upload ?
+msgid "Send Notifications to admin on file upload ?"
+msgstr "Gửi Thông báo cho quản trị viên về tải lên tệp tin?"
+
+#. Check to allow file upload notifications. Mail will sent to admin email.
+msgid "Check to allow file upload notifications. Mail will sent to admin email."
+msgstr "Chọn để cho phép thông báo tải lên tệp tin. Thư sẽ được gửi tới email quản trị."
+
+#. Note: This feature is using wp_mail(), Make sure wp_mail is working or not.
+msgid "Note: This feature is using wp_mail(), Make sure wp_mail is working or not."
+msgstr "Lưu ý: Tính năng này đang sử dụng wp_mail (), Hãy chắc chắn wp_mail đang làm việc hay không."
+
+#. Send Notifications to admin on file download ?
+msgid "Send Notifications to admin on file download ?"
+msgstr "Gửi thông báo cho quản trị viên về tải tệp tin?"
+
+#. Check to allow file download notifications. Mail will sent to admin email.
+msgid "Check to allow file download notifications. Mail will sent to admin email"
+msgstr "Chọn để cho phép thông báo tải xuống tệp. Thư sẽ được gửi tới email quản trị"
+
+#. Send Notifications to admin on file edit ?
+msgid "Send Notifications to admin on file edit ?"
+msgstr "Gửi Thông báo cho quản trị viên về việc chỉnh sửa tệp?"
+
+#. Check to allow file edit notifications. Mail will sent to admin email.
+msgid "Check to allow file edit notifications. Mail will sent to admin email."
+msgstr "Chọn để cho phép thông báo chỉnh sửa tệp. Thư sẽ được gửi tới email quản trị."
+
+#. Select Filemanager Language
+msgid "Select Filemanager Language"
+msgstr "Chọn ngôn ngữ Filemanager"
+
+#. You can select any language for filemanager.
+msgid "You can select any language for filemanager."
+msgstr "Bạn có thể chọn bất kỳ ngôn ngữ nào cho trình quản lý tập tin."
+
+#. Code editor allow fullscreen?
+msgid "Code editor allow fullscreen?"
+msgstr "Trình chỉnh sửa mã cho phép toàn màn hình?"
+
+#. Check to allow fullscreen code editor
+msgid "Check to allow fullscreen code editor"
+msgstr "Chọn để bật trình chỉnh sửa mã màn hình toàn màn hình"
+
+#. Select theme for Code Editor.
+msgid "Select theme for Code Editor."
+msgstr "Chọn chủ đề cho Trình chỉnh sửa Mã."
+
+#. fullscreen text
+msgid "Check to allow fullscreen code editor. For more information please visit"
+msgstr "Chọn để cho phép biên tập mã toàn màn hình. Để biết thêm thông tin, vui lòng truy cập"
+
+#. Disable or Ban WP File Manager Operations to Users
+msgid "Disable or Ban WP File Manager Operations to Users"
+msgstr "Vô hiệu hoá hoặc Ban Các Hoạt động Quản lý Tập tin WP cho Người dùng"
+
+#. Select users and disable operation.
+msgid "Select users and disable operation."
+msgstr "Chọn người dùng và vô hiệu hóa hoạt động."
+
+#. Click to Add Rules
+msgid "Click to Add Rules"
+msgstr "Nhấp để Thêm Quy tắc"
+
+#. Add rule for Users
+msgid "Add rule for Users"
+msgstr "Thêm quy tắc cho người dùng"
+
+#. If User is
+msgid "If User is"
+msgstr "Nếu Người dùng là"
+
+#. Then
+msgid "Then"
+msgstr "Sau đó"
+
+#. Disable Operations
+msgid "Disable Operations"
+msgstr "Vô hiệu hoạt động"
+
+#. Seperate or private folder
+msgid "Seperate or private folder access e.g wp-content/themes etc. Note It will overide \"Private Folder Access\" settings."
+msgstr "Truy cập thư mục riêng hoặc thư mục riêng ví dụ wp-content / themes, vv Chú ý Nó sẽ vượt quá cài đặt \"Private Folder Access \"."
+
+#. hide text
+msgid "Enter Folder or Files Paths That You want to Hide e.g wp-content/themes|wp-content/plugins. Note: Multiple separated by Vertical Bar (|)."
+msgstr "Nhập thư mục hoặc đường dẫn tập tin mà bạn muốn Ẩn như wp-content / themes | wp-content / plugins. Lưu ý: Nhiều ngăn cách bởi thanh dọc (|)."
+
+#. lock files
+msgid "Enter file extensions which you want to Lock. e.g .php|.png|.css etc"
+msgstr "Nhập phần mở rộng tệp mà bạn muốn Khóa. ví dụ: PHP | .png | .css vv"
+
+#. Disable or Ban WP File Manager Operations to User Roles
+msgid "Disable or Ban WP File Manager Operations to User Roles"
+msgstr "Vô hiệu hoá hoặc cấm Quản lý Tập tin Quản lý Tập tin WP để Vai trò Người dùng"
+
+#. Select user role and disable operation.
+msgid "Select user role and disable operation."
+msgstr "Chọn vai trò người dùng và vô hiệu hóa hoạt động."
+
+#. Add rule for User Roles
+msgid "Add rule for User Roles"
+msgstr "Thêm quy tắc cho Vai trò Người dùng"

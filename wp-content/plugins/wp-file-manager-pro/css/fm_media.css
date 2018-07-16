@@ -1,0 +1,15 @@
+.fm_pro_form{
+	padding:10px;
+}
+#TB_ajaxContent {
+	max-height: 80vh;
+	width: 100% !important;
+	height: inherit !important;
+	padding: 2px 0px 15px 0px !important;
+}
+#TB_ajaxContent .form-table th{
+	padding: 20px 20px 20px !important;
+}
+#TB_ajaxContent .form-table td {
+    line-height: 25px;
+}

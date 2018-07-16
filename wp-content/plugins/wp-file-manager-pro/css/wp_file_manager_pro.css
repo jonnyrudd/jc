@@ -1,0 +1,267 @@
+.setting_pro_wrap{
+}
+.setting_pro_wrap .hide{
+	display: none;
+}
+.setting_pro_wrap h1.title{
+}
+.setting_pro_wrap .set_tab_dv{
+}
+.setting_pro_wrap .set_tab_dv .setting_pro_tab{
+	margin:0;
+	padding:0;
+	background:#0073aa;
+	list-style:none;
+	overflow:auto;
+}
+.setting_pro_wrap .set_tab_dv .setting_pro_tab li{
+	display:inline-block;
+	float:left;
+	width:25%;
+	text-align:center;
+	margin:0;
+	outline:none;
+	transition:all 0.3s ease;
+	-webkit-transition:all 0.3s ease;
+}
+.setting_pro_wrap .set_tab_dv .setting_pro_tab li.current {
+	border-bottom: 4px solid #ffe406;
+	background: #0E5990;
+}
+.setting_pro_wrap .set_tab_dv .setting_pro_tab li:hover{
+	border-bottom: 4px solid #ffe406;
+	background: #0E5990;
+	transition:all 0.3s ease;
+	-webkit-transition:all 0.3s ease;
+}
+.setting_pro_wrap .set_tab_dv .setting_pro_tab li a{
+	color:#fff;
+	padding:20px 10px;
+	display: block;
+	text-decoration:none;
+	font-size:15px;
+	text-transform:uppercase;
+	font-weight:700;
+	font-family:Arial;
+	border-right: 1px solid #0584c2;
+	outline:none;
+}
+.setting_pro_wrap .set_tab_dv .setting_pro_tab li a .icon{
+	display:block;
+}
+.setting_pro_wrap .set_tab_dv .setting_pro_tab li a:focus{
+	box-shadow:none !important;-webkit-box-shadow:none !important;
+}
+.setting_pro_wrap .set_tab_dv .setting_pro_tab li:last-child a{
+	border-right:none;
+}
+.setting_pro_wrap .setting_pro_tab_content{
+	background:#fff;
+	padding:15px;
+	border:1px solid #ddd;
+	border-top:none;
+	display:none;
+}
+.setting_pro_wrap .setting_pro_tab_content .label_heading {
+	font-weight: 700;
+	display: block;
+	margin-top: 0px;
+	margin-bottom: 15px;
+	background: #f1f1f1;
+	padding: 10px;
+	font-family: Arial;
+	font-size: 13px;
+}
+.setting_pro_wrap .setting_pro_tab_content .label_heading .arrow_icon {
+	font-weight: normal;
+	font-size: 24px;
+	float: left;
+	margin-right: 6px;
+	color:#0584c2;
+}
+.setting_pro_wrap .setting_pro_tab_content .frm_grp {
+	border: 1px solid #f1f1f1;
+	border-top: none;
+	margin-bottom: 30px;
+	padding-bottom: 15px;
+}
+.setting_pro_wrap .setting_pro_tab_content .frm_grp .frm_grp_inner{
+	padding:0px 15px;
+}
+.setting_pro_wrap .setting_pro_tab_content .frm_grp textarea, .setting_pro_wrap .setting_pro_tab_content .frm_grp select, .setting_pro_wrap .setting_pro_tab_content .frm_grp input[type="text"], .setting_pro_wrap .setting_pro_tab_content .frm_grp input[type="number"]{
+	width:100%;
+	padding:10px;
+	border:1px solid #ddd;
+	box-shadow:none !important;
+	-webkit-box-shadow:none !important;
+	height: inherit;
+}
+.setting_pro_wrap .setting_pro_tab_content .group_box_wrap {
+	overflow: auto;
+	border: 4px double #ddd;
+	padding: 15px;
+	margin-bottom:30px;
+	border-left:4px solid #ddd;
+}
+.setting_pro_wrap .setting_pro_tab_content .group_box_wrap .group_box_left{
+	float:left;
+	width:85%;
+}
+.setting_pro_wrap .setting_pro_tab_content .group_box_wrap .group_box_right{
+	float:left;
+	width:15%;
+	padding-top: 35%;
+}
+.setting_pro_wrap .setting_pro_tab_content .group_box_wrap .group_box_right .group_box_right_tbl{
+	/*display:table;
+	width:100%;
+	height:100%;*/
+}
+.setting_pro_wrap .setting_pro_tab_content .group_box_wrap .group_box_right .group_box_right_tbl .group_box_right_cel{
+	/*display:table-cell;
+	vertical-align:middle;*/
+	text-align:center;
+}
+.setting_pro_wrap .setting_pro_tab_content .group_box_wrap .group_box_left .user_roles{
+	border:1px solid #ddd;
+	padding:15px;
+	margin-bottom:15px;
+	font-family: Arial;
+	font-size: 13px;
+	font-weight: 700;
+	background: #f1f1f1;
+	border-left: 3px solid #ddd;
+}
+.setting_pro_wrap .setting_pro_tab_content .group_box_wrap .group_box_left .user_roles .lbl_txt{
+	margin-right:10px;
+}
+.setting_pro_wrap .setting_pro_tab_content .group_box_wrap .group_box_left .user_roles .lbl_txt_rt{
+	margin-left:10px;
+}
+.setting_pro_wrap .setting_pro_tab_content .group_box_wrap .group_box_left .user_roles select{
+	width:50%;
+	padding:10px;
+	border:1px solid #ddd;
+	box-shadow:none !important;
+	-webkit-box-shadow:none !important;
+	height: inherit;
+}
+.setting_pro_wrap .setting_pro_tab_content .frm_grp .frm_grp_inner fieldset label {
+	margin-right: 6px;
+	margin-bottom: 15px;
+	display: inline-block;
+}
+.setting_pro_wrap .setting_pro_tab_content .del_btn_pro {
+	border: none;
+	box-shadow: none;
+	color: #fff;
+	font-size: 16px;
+	border-radius: 50%;
+	-webkit-border-radius: 50%;
+	line-height: normal;
+	text-align: center;
+	padding: 0px 15px;
+	background: #d50000;
+	width: 80px;
+	height: 80px;
+	font-weight: 700;
+	box-shadow: 0px 1px 4px #444;
+	-webkit-box-shadow: 0px 1px 4px #444;
+	-webkit-transition:all 0.4s ease;
+}
+.setting_pro_wrap .setting_pro_tab_content .del_btn_pro:hover{
+	opacity:0.7;
+	transition:all 0.4s ease;
+	-webkit-transition:all 0.4s ease;
+}
+.setting_pro_wrap .setting_pro_tab_content h2.title {
+	background: #f1f1f1;
+	margin: 0;
+	padding: 10px;
+	border-left: 3px solid #ddd;
+	font-size: 18px;
+	font-family: Arial;
+}
+.setting_pro_wrap .setting_pro_tab_content .click_rule_dv {
+	margin-bottom: 30px;
+	background: #f1f1f1;
+	padding: 15px 10px;
+	border-left: 3px solid #ddd;
+	font-size: 18px;
+	font-family: Arial;
+}
+.setting_pro_wrap .setting_pro_tab_content .click_rule_dv .txt_title {
+	margin-right: 10px;
+	display: inline-block;
+	padding-top: 7px;
+}
+.setting_pro_wrap .setting_pro_tab_content .pro_btn {
+	background: #0584c2;
+	color: #fff;
+	font-family: Arial;
+	border: none;
+	padding: 5px 20px;
+	height: inherit;
+	font-weight: 700;
+	font-family: Arial;
+}
+.elfinder-button-search input {
+	font-size: 12px;
+	font-weight: 100;
+}
+.elfinder-frontmost .elfinder-quicklook-titlebar{
+}
+.elfinder-frontmost .elfinder-quicklook-titlebar-icon.elfinder-platformWin .ui-icon {
+	margin: 0px 0 0 3px;
+}
+.elfinder-frontmost .elfinder-quicklook-titlebar-icon.elfinder-platformWin .ui-icon.elfinder-icon-minimize {
+	margin-top: -18px;
+margin-right: 25px;
+}
+.elfinder-frontmost .elfinder-quicklook-titlebar-icon.elfinder-platformWin .ui-icon.ui-icon-plusthick{
+	margin-top: -18px;
+margin-right: 25px;
+}
+.ui-draggable-disabled.ui-resizable-disabled .elfinder-quicklook-titlebar-icon.elfinder-platformWin .ui-icon.ui-icon-plusthick{
+	margin-top: -18px;
+margin-right: 25px;
+}
+.ui-draggable-disabled.ui-resizable-disabled .elfinder-quicklook-titlebar-icon{
+	margin-top: 0px;
+}
+.elfinder-frontmost.ui-draggable-disabled.ui-resizable-disabled .elfinder-quicklook-titlebar-icon{
+	margin-top: -8px;
+
+}
+@media only screen and (max-width:767px){
+	.setting_pro_wrap .set_tab_dv .setting_pro_tab li a {
+	font-size: 10px;
+	height: 70px;
+}
+.setting_pro_wrap .setting_pro_tab_content .group_box_wrap .group_box_left {
+	float: none;
+	width: 100%;
+}
+.setting_pro_wrap .setting_pro_tab_content .group_box_wrap .group_box_right {
+	float: none;
+	width: 100%;
+	padding-top: 0%;
+}
+
+
+}
+@media only screen and (max-width:374px){
+	.setting_pro_wrap .set_tab_dv .setting_pro_tab li a {
+	font-size: 8px;
+}
+}
+@media only screen and (min-width:768px) and (max-width:991px){
+.setting_pro_wrap .set_tab_dv .setting_pro_tab li a {
+	font-size: 12px;
+}
+}
+@media only screen and (min-width:992px) and (max-width:1199px){
+.setting_pro_wrap .set_tab_dv .setting_pro_tab li a {
+	font-size: 13px;
+}
+}

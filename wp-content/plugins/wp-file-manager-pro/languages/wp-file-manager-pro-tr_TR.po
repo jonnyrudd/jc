@@ -1,0 +1,290 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WP File Manager\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-09-06 09:29+0000\n"
+"PO-Revision-Date: 2017-09-27 17:33+0530\n"
+"Last-Translator: admin <munishthedeveloper48@gmail.com>\n"
+"Language-Team: \n"
+"Language: tr_TR\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.4\n"
+
+#. Name of the plugin
+msgid "WP File Manager"
+msgstr "WP Dosya Yöneticisi PRO"
+
+#. Description of the plugin
+msgid "Manage your WP files."
+msgstr "WP dosyalarınızı yönetin."
+
+#. Settings
+msgid "Settings"
+msgstr "Ayarlar"
+
+#. System Properties
+msgid "System Properties"
+msgstr "Sistem özellikleri"
+
+#. Shortcode - PRO
+msgid "Shortcode - PRO"
+msgstr "Kısa kod - PRO"
+
+#. Extensions
+msgid "Extensions"
+msgstr "Uzantıları"
+
+#. Donate
+msgid "Donate"
+msgstr "Bağışta bulunmak"
+
+#. Note
+msgid "Note: This is just a demo screenshot. To get settings please buy our pro version."
+msgstr "Not: Bu sadece bir demo ekran görüntüsü. Ayarları almak için lütfen pro sürümümüzü edinin."
+
+#. Buy PRO
+msgid "Buy PRO"
+msgstr "PRO'yu satın al"
+
+#. Settings - General
+msgid "Settings - General"
+msgstr "Ayarlar - Genel"
+
+#. admin
+msgid "Here admin can give access to user roles to use filemanager. Admin can set Default Access Folder and also control upload size of filemanager."
+msgstr "Burada, admin filemanager'ı kullanmak için kullanıcı rollerine erişebilir. Yönetici Varsayılan Erişim Klasörü ayarlayabilir ve aynı zamanda dosya yöneticisinin yükleme boyutunu kontrol edebilir."
+
+#. Settings - Code-editor
+msgid "Settings - Code-editor"
+msgstr "Ayarlar - Kod editörü"
+
+#. code editor
+msgid "File Manager has a code editor with multiple themes. You can select any theme for code editor. It will display when you edit any file. Also you can allow fullscreen mode of code editor."
+msgstr "Dosya Yöneticisi birden çok temaya sahip bir kod düzenleyicisine sahiptir. Kod düzenleyicisi için herhangi bir temayı seçebilirsiniz. Herhangi bir dosyayı düzenlerken görüntülenir. Ayrıca kod düzenleyicisinin tam ekran moduna izin verebilirsiniz."
+
+#. Code-editor View
+msgid "Code-editor View"
+msgstr "Kod editörü Görünümü"
+
+#. Settings - User Restrictions
+msgid "Settings - User Restrictions"
+msgstr "Ayarlar - Kullanıcı Kısıtlamaları"
+
+#. Admin - file - folders
+msgid "Admin can restrict actions of any user. Also hide files and folders and can set different - different folders paths for different users."
+msgstr "Yönetici herhangi bir kullanıcının eylemlerini kısıtlayabilir. Ayrıca dosya ve klasörleri gizleyebilir ve farklı ayarlar yapabilirsiniz - farklı kullanıcılar için farklı klasörler yolları."
+
+#. Settings - User Role Restrictions
+msgid "Settings - User Role Restrictions"
+msgstr "Ayarlar - Kullanıcı Rol Kısıtlamaları"
+
+#. Admin - Restrict
+msgid "Admin can restrict actions of any userrole. Also hide files and folders and can set different - different folders paths for different users roles."
+msgstr "Yönetici herhangi bir userrole eylemini kısıtlayabilir. Ayrıca dosyaları ve klasörleri gizleyebilir ve farklı ayarlar yapabilirsiniz - farklı kullanıcılar rolleri için farklı klasörler yolları."
+
+#. PRO Shortcode
+msgid "File Manager PRO - Shortcode"
+msgstr "Dosya Yöneticisi PRO - Kısa Kod"
+
+#. File Manager - System Properties
+msgid "File Manager - System Properties"
+msgstr "Dosya Yöneticisi - Sistem Özellikleri"
+
+#. PHP version
+msgid "PHP version"
+msgstr "PHP sürümü"
+
+#. Maximum file upload size (upload_max_filesize)
+msgid "Maximum file upload size (upload_max_filesize)"
+msgstr "Maksimum dosya yükleme boyutu (upload_max_filesize)"
+
+#. Post maximum file upload size (post_max_size)
+msgid "Post maximum file upload size (post_max_size)"
+msgstr "En fazla dosya yükleme boyutu sonrası (post_max_size)"
+
+#. Memory Limit (memory_limit)
+msgid "Memory Limit (memory_limit)"
+msgstr "Bellek Sınırı (memory_limit)"
+
+#. Timeout (max_execution_time)
+msgid "Timeout (max_execution_time)"
+msgstr "Zamanaşımı (maks_execution_time)"
+
+#. Browser and OS (HTTP_USER_AGENT)
+msgid "Browser and OS (HTTP_USER_AGENT)"
+msgstr "Tarayıcı ve İşletim Sistemi (HTTP_USER_AGENT)"
+
+#. Contribute
+msgid "Please contribute some donation, to make plugin more stable. You can pay amount of your choice."
+msgstr "Lütfen eklentiyi daha kararlı hale getirmek için biraz bağış yapın. İstediğiniz miktarı ödeyebilirsiniz."
+
+#. DB Manager
+msgid "DB Manager"
+msgstr "DB Yöneticisi"
+
+#. WP File Manager PRO
+msgid "WP File Manager PRO"
+msgstr "WP Dosya Yöneticisi PRO"
+
+#. Order Details
+msgid "Order Details"
+msgstr "sipariş detayları"
+
+#. Popup Text
+msgid "Your File Manager PRO Order Details"
+msgstr "Dosya Yöneticisi PRO Sipariş Ayrıntıları"
+
+#. Popup Warning Text
+msgid "Warning: Please don't share these details with anyone."
+msgstr "Uyarı: Lütfen bu bilgileri kimseyle paylaşmayın."
+
+#. Settings - File Manager
+msgid "Settings - File Manager"
+msgstr "Ayarlar - Dosya Yöneticisi"
+
+#. General
+msgid "General"
+msgstr "Genel"
+
+#. Code Editor
+msgid "Code Editor"
+msgstr "Kod Editörü"
+
+#. User Restrictions
+msgid "User Restrictions"
+msgstr "Kullanıcı Kısıtlamaları"
+
+#. User Role Restrictions
+msgid "User Role Restrictions"
+msgstr "Kullanıcı Rol Kısıtlamaları"
+
+#. Select User Roles to access WP File manager
+msgid "Select User Roles to access WP File manager"
+msgstr "WP Dosya yöneticisine erişmek için Kullanıcı Rolleri'ni seçin"
+
+#. Allow user roles to access WP File Manager
+msgid "Allow user roles to access WP File Manager"
+msgstr "Kullanıcı rollerinin WP Dosya Yöneticisine erişmesine izin ver"
+
+#. Seperate or Private Folder Access
+msgid "Seperate or Private Folder Access"
+msgstr "Ayrı veya Özel Klasör Erişimi"
+
+#. ROOT
+msgid "File manager will access this folder path. Else, will access root directory. e.g wp-content/plugins. Note: Will Valid for all user roles."
+msgstr "Dosya yöneticisi bu klasör yoluna erişecek. Başka, kök dizine erişecek. örn. wp-content / eklentileri. Not: Tüm kullanıcı rolleri için geçerlidir."
+
+#. Maximum Upload Size
+msgid "Maximum Upload Size"
+msgstr "Maksimum Yükleme Boyutu"
+
+#. Allow users to upload file of maximum size
+msgid "Allow users to upload file of maximum size"
+msgstr "Kullanıcıların maksimum boyutta dosya yüklemesine izin ver"
+
+#. Send Notifications to admin on file upload ?
+msgid "Send Notifications to admin on file upload ?"
+msgstr "Dosya yüklenirken Bildirimleri yönetici'ye gönderilsin mi?"
+
+#. Check to allow file upload notifications. Mail will sent to admin email.
+msgid "Check to allow file upload notifications. Mail will sent to admin email."
+msgstr "Dosya yükleme bildirimlerine izin vermek için işaretleyin. Mail yönetici e-postasına gönderilecektir."
+
+#. Note: This feature is using wp_mail(), Make sure wp_mail is working or not.
+msgid "Note: This feature is using wp_mail(), Make sure wp_mail is working or not."
+msgstr "Not: Bu özellik wp_mail () kullanıyor, wp_mail'in çalışıp çalışmadığından emin olun."
+
+#. Send Notifications to admin on file download ?
+msgid "Send Notifications to admin on file download ?"
+msgstr "Dosyayı indirmek için admin'e Bildirimler gönderilsin mi?"
+
+#. Check to allow file download notifications. Mail will sent to admin email.
+msgid "Check to allow file download notifications. Mail will sent to admin email"
+msgstr "Dosya indirme bildirimlerine izin vermek için işaretleyin. Posta yönetici e-postasına gönderilecek"
+
+#. Send Notifications to admin on file edit ?
+msgid "Send Notifications to admin on file edit ?"
+msgstr "Dosya üzerinde admin'e Bildirim gönder düzenle?"
+
+#. Check to allow file edit notifications. Mail will sent to admin email.
+msgid "Check to allow file edit notifications. Mail will sent to admin email."
+msgstr "Dosya düzenleme bildirimlerine izin vermek için işaretleyin. Mail yönetici e-postasına gönderilecektir."
+
+#. Select Filemanager Language
+msgid "Select Filemanager Language"
+msgstr "Dosya Yöneticisi Dili Seç"
+
+#. You can select any language for filemanager.
+msgid "You can select any language for filemanager."
+msgstr "Dosya yöneticisi için herhangi bir dili seçebilirsiniz."
+
+#. Code editor allow fullscreen?
+msgid "Code editor allow fullscreen?"
+msgstr "Kod editörü tam ekrana izin verir mi?"
+
+#. Check to allow fullscreen code editor
+msgid "Check to allow fullscreen code editor"
+msgstr "Tam ekran kod düzenleyicisine izin vermek için işaretleyin"
+
+#. Select theme for Code Editor.
+msgid "Select theme for Code Editor."
+msgstr "Kod Düzenleyici için tema seçin."
+
+#. fullscreen text
+msgid "Check to allow fullscreen code editor. For more information please visit"
+msgstr "Tam ekran kod düzenleyicisine izin vermek için işaretleyin. Daha fazla bilgi için lütfen ziyaret edin"
+
+#. Disable or Ban WP File Manager Operations to Users
+msgid "Disable or Ban WP File Manager Operations to Users"
+msgstr "WP Dosya Yöneticisi İşlemlerini Kullanıcılara Engelle veya Yasakla"
+
+#. Select users and disable operation.
+msgid "Select users and disable operation."
+msgstr "Kullanıcıları seçin ve işlemi devre dışı bırakın."
+
+#. Click to Add Rules
+msgid "Click to Add Rules"
+msgstr "Kuralları Eklemek İçin Tıklayın"
+
+#. Add rule for Users
+msgid "Add rule for Users"
+msgstr "Kullanıcılar için kural ekle"
+
+#. If User is
+msgid "If User is"
+msgstr "Kullanıcı varsa"
+
+#. Then
+msgid "Then"
+msgstr "Sonra"
+
+#. Disable Operations
+msgid "Disable Operations"
+msgstr "İşlemleri Devre Dışı Bırak"
+
+#. Seperate or private folder
+msgid "Seperate or private folder access e.g wp-content/themes etc. Note It will overide \"Private Folder Access\" settings."
+msgstr "Ayrı veya özel klasör erişimi, örneğin wp-content / themes vs. Not \"Özel Klasör Erişimi\" ayarlarını geçersiz kılacaktır."
+
+#. hide text
+msgid "Enter Folder or Files Paths That You want to Hide e.g wp-content/themes|wp-content/plugins. Note: Multiple separated by Vertical Bar (|)."
+msgstr "Gizlemek İstediğiniz Klasör veya Dosyalar Yollarını girin (ör. Wp-content / themes | wp-content / plugins). Not: Birden fazla Dikey Çubuk (|) ile ayrılmış."
+
+#. lock files
+msgid "Enter file extensions which you want to Lock. e.g .php|.png|.css etc"
+msgstr "Kilitlemek istediğiniz dosya uzantılarını girin. örneğin .php | .png | .css vb"
+
+#. Disable or Ban WP File Manager Operations to User Roles
+msgid "Disable or Ban WP File Manager Operations to User Roles"
+msgstr "WP Dosya Yöneticisi İşlemlerini Kullanıcı Rollerine Devre Dışı Bırakma veya Yasaklama"
+
+#. Select user role and disable operation.
+msgid "Select user role and disable operation."
+msgstr "Kullanıcı rolünü seçin ve işlemi devre dışı bırakın."
+
+#. Add rule for User Roles
+msgid "Add rule for User Roles"
+msgstr "Kullanıcı Rolleri için kural ekle"

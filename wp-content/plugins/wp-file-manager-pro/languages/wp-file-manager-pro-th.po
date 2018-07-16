@@ -1,0 +1,292 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WP File Manager\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-09-06 09:29+0000\n"
+"PO-Revision-Date: 2017-09-27 17:28+0530\n"
+"Last-Translator: admin <munishthedeveloper48@gmail.com>\n"
+"Language-Team: \n"
+"Language: th\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.4\n"
+
+#. Name of the plugin
+#, fuzzy
+msgid "WP File Manager"
+msgstr "ตัวจัดการไฟล์ WP"
+
+#. Description of the plugin
+msgid "Manage your WP files."
+msgstr "จัดการไฟล์ WP ของคุณ"
+
+#. Settings
+msgid "Settings"
+msgstr "การตั้งค่า"
+
+#. System Properties
+msgid "System Properties"
+msgstr "คุณสมบัติของระบบ"
+
+#. Shortcode - PRO
+msgid "Shortcode - PRO"
+msgstr "รหัสย่อ - PRO"
+
+#. Extensions
+msgid "Extensions"
+msgstr "ส่วนขยาย"
+
+#. Donate
+msgid "Donate"
+msgstr "บริจาค"
+
+#. Note
+msgid "Note: This is just a demo screenshot. To get settings please buy our pro version."
+msgstr "หมายเหตุ: นี่เป็นเพียงภาพหน้าจอสาธิตเท่านั้น หากต้องการตั้งค่าโปรดซื้อเวอร์ชัน Pro ของเรา"
+
+#. Buy PRO
+msgid "Buy PRO"
+msgstr "ซื้อ PRO"
+
+#. Settings - General
+msgid "Settings - General"
+msgstr "การตั้งค่า - ทั่วไป"
+
+#. admin
+msgid "Here admin can give access to user roles to use filemanager. Admin can set Default Access Folder and also control upload size of filemanager."
+msgstr "ที่นี่ผู้ดูแลระบบสามารถให้สิทธิ์การเข้าถึงบทบาทผู้ใช้เพื่อใช้ filemanager ผู้ดูแลระบบสามารถตั้งค่าโฟลเดอร์การเข้าถึงข้อมูลเริ่มต้นและควบคุมขนาดการอัพโหลดไฟล์ได้"
+
+#. Settings - Code-editor
+msgid "Settings - Code-editor"
+msgstr "การตั้งค่า - Code-editor"
+
+#. code editor
+msgid "File Manager has a code editor with multiple themes. You can select any theme for code editor. It will display when you edit any file. Also you can allow fullscreen mode of code editor."
+msgstr "ตัวจัดการไฟล์มีตัวแก้ไขโค้ดที่มีหลายธีม คุณสามารถเลือกธีมสำหรับโปรแกรมแก้ไขโค้ดได้ จะปรากฏขึ้นเมื่อคุณแก้ไขไฟล์ใด ๆ นอกจากนี้คุณสามารถอนุญาตให้ใช้โหมดเต็มหน้าจอของตัวแก้ไขโค้ด"
+
+#. Code-editor View
+msgid "Code-editor View"
+msgstr "มุมมองตัวแก้ไขโค้ด"
+
+#. Settings - User Restrictions
+msgid "Settings - User Restrictions"
+msgstr "การตั้งค่า - ข้อ จำกัด ของผู้ใช้"
+
+#. Admin - file - folders
+msgid "Admin can restrict actions of any user. Also hide files and folders and can set different - different folders paths for different users."
+msgstr "ผู้ดูแลระบบสามารถ จำกัด การดำเนินการของผู้ใช้รายใดก็ได้ ซ่อนไฟล์และโฟลเดอร์และสามารถตั้งค่าเส้นทางโฟลเดอร์ที่แตกต่างกันไปสำหรับผู้ใช้ที่แตกต่างกัน"
+
+#. Settings - User Role Restrictions
+msgid "Settings - User Role Restrictions"
+msgstr "การตั้งค่า - ข้อ จำกัด บทบาทของผู้ใช้"
+
+#. Admin - Restrict
+msgid "Admin can restrict actions of any userrole. Also hide files and folders and can set different - different folders paths for different users roles."
+msgstr "ผู้ดูแลระบบสามารถ จำกัด การดำเนินการของ userrol ใดก็ได้ ซ่อนไฟล์และโฟลเดอร์และสามารถตั้งค่าเส้นทางโฟลเดอร์ที่ต่างกันสำหรับบทบาทผู้ใช้ที่แตกต่างกัน"
+
+#. PRO Shortcode
+msgid "File Manager PRO - Shortcode"
+msgstr "ตัวจัดการไฟล์ PRO - รหัสย่อ"
+
+#. File Manager - System Properties
+msgid "File Manager - System Properties"
+msgstr "ตัวจัดการไฟล์ - คุณสมบัติของระบบ"
+
+#. PHP version
+msgid "PHP version"
+msgstr "เวอร์ชัน PHP"
+
+#. Maximum file upload size (upload_max_filesize)
+msgid "Maximum file upload size (upload_max_filesize)"
+msgstr "ขนาดการอัปโหลดไฟล์สูงสุด (upload_max_filesize)"
+
+#. Post maximum file upload size (post_max_size)
+msgid "Post maximum file upload size (post_max_size)"
+msgstr "ขนาดไฟล์อัพโหลดสูงสุด (post_max_size)"
+
+#. Memory Limit (memory_limit)
+msgid "Memory Limit (memory_limit)"
+msgstr "หน่วยความจำ จำกัด (memory_limit)"
+
+#. Timeout (max_execution_time)
+msgid "Timeout (max_execution_time)"
+msgstr "หมดเวลา (max_execution_time)"
+
+#. Browser and OS (HTTP_USER_AGENT)
+msgid "Browser and OS (HTTP_USER_AGENT)"
+msgstr "เบราว์เซอร์และระบบปฏิบัติการ (HTTP_USER_AGENT)"
+
+#. Contribute
+msgid "Please contribute some donation, to make plugin more stable. You can pay amount of your choice."
+msgstr "โปรดบริจาคเงินเพื่อทำให้ปลั๊กอินมีเสถียรภาพมากขึ้น คุณสามารถจ่ายเงินตามที่คุณต้องการได้"
+
+#. DB Manager
+msgid "DB Manager"
+msgstr "ผู้จัดการฐานข้อมูล"
+
+#. WP File Manager PRO
+msgid "WP File Manager PRO"
+msgstr "WP File Manager PRO"
+
+#. Order Details
+msgid "Order Details"
+msgstr "รายละเอียดการสั่งซื้อ"
+
+#. Popup Text
+msgid "Your File Manager PRO Order Details"
+msgstr "รายละเอียดคำสั่งซื้อ PRO Manager ของ File Manager"
+
+#. Popup Warning Text
+msgid "Warning: Please don't share these details with anyone."
+msgstr "คำเตือน: โปรดอย่าแชร์รายละเอียดกับทุกคน"
+
+#. Settings - File Manager
+msgid "Settings - File Manager"
+msgstr "การตั้งค่า - ตัวจัดการไฟล์"
+
+#. General
+msgid "General"
+msgstr "ทั่วไป"
+
+#. Code Editor
+msgid "Code Editor"
+msgstr "ตัวแก้ไขรหัส"
+
+#. User Restrictions
+msgid "User Restrictions"
+msgstr "ข้อ จำกัด ของผู้ใช้"
+
+#. User Role Restrictions
+msgid "User Role Restrictions"
+msgstr "ข้อ จำกัด บทบาทของผู้ใช้"
+
+#. Select User Roles to access WP File manager
+msgid "Select User Roles to access WP File manager"
+msgstr "เลือกบทบาทผู้ใช้เพื่อเข้าถึงตัวจัดการไฟล์ WP"
+
+#. Allow user roles to access WP File Manager
+msgid "Allow user roles to access WP File Manager"
+msgstr "อนุญาตให้ผู้ใช้สามารถเข้าถึง WP File Manager ได้"
+
+#. Seperate or Private Folder Access
+msgid "Seperate or Private Folder Access"
+msgstr "การเข้าถึงโฟลเดอร์แยกหรือโฟลเดอร์ส่วนตัว"
+
+#. ROOT
+msgid "File manager will access this folder path. Else, will access root directory. e.g wp-content/plugins. Note: Will Valid for all user roles."
+msgstr "ตัวจัดการไฟล์จะเข้าถึงเส้นทางโฟลเดอร์นี้ Else จะเข้าถึงไดเรกทอรีราก เช่น wp-content / plugins หมายเหตุ: จะใช้ได้กับบทบาทผู้ใช้ทั้งหมด"
+
+#. Maximum Upload Size
+msgid "Maximum Upload Size"
+msgstr "ขนาดการอัปโหลดสูงสุด"
+
+#. Allow users to upload file of maximum size
+msgid "Allow users to upload file of maximum size"
+msgstr "อนุญาตให้ผู้ใช้อัปโหลดไฟล์ขนาดสูงสุด"
+
+#. Send Notifications to admin on file upload ?
+msgid "Send Notifications to admin on file upload ?"
+msgstr "ส่งการแจ้งเตือนไปยังผู้ดูแลระบบเมื่ออัปโหลดไฟล์หรือไม่?"
+
+#. Check to allow file upload notifications. Mail will sent to admin email.
+msgid "Check to allow file upload notifications. Mail will sent to admin email."
+msgstr "เลือกเพื่ออนุญาตให้มีการแจ้งเตือนการอัปโหลดไฟล์ อีเมลจะถูกส่งไปยังอีเมลของผู้ดูแลระบบ"
+
+#. Note: This feature is using wp_mail(), Make sure wp_mail is working or not.
+msgid "Note: This feature is using wp_mail(), Make sure wp_mail is working or not."
+msgstr "หมายเหตุ: คุณลักษณะนี้ใช้ wp_mail () ตรวจสอบให้แน่ใจว่า wp_mail กำลังทำงานอยู่หรือไม่"
+
+#. Send Notifications to admin on file download ?
+msgid "Send Notifications to admin on file download ?"
+msgstr "ส่งการแจ้งเตือนไปยังผู้ดูแลระบบเมื่อดาวน์โหลดไฟล์หรือไม่?"
+
+#. Check to allow file download notifications. Mail will sent to admin email.
+msgid "Check to allow file download notifications. Mail will sent to admin email"
+msgstr "เลือกเพื่ออนุญาตการดาวน์โหลดไฟล์ อีเมลจะถูกส่งไปยังอีเมลของผู้ดูแลระบบ"
+
+#. Send Notifications to admin on file edit ?
+msgid "Send Notifications to admin on file edit ?"
+msgstr "ส่งการแจ้งเตือนไปยังผู้ดูแลระบบในการแก้ไขไฟล์หรือไม่?"
+
+#. Check to allow file edit notifications. Mail will sent to admin email.
+msgid "Check to allow file edit notifications. Mail will sent to admin email."
+msgstr "เลือกเพื่อให้สามารถแก้ไขการแจ้งเตือนได้ อีเมลจะถูกส่งไปยังอีเมลของผู้ดูแลระบบ"
+
+#. Select Filemanager Language
+msgid "Select Filemanager Language"
+msgstr "เลือก Filemanager Language"
+
+#. You can select any language for filemanager.
+msgid "You can select any language for filemanager."
+msgstr "คุณสามารถเลือกภาษาใดก็ได้สำหรับ filemanager"
+
+#. Code editor allow fullscreen?
+msgid "Code editor allow fullscreen?"
+msgstr "ตัวแก้ไขรหัสช่วยให้หน้าจอเต็ม?"
+
+#. Check to allow fullscreen code editor
+msgid "Check to allow fullscreen code editor"
+msgstr "เลือกเพื่ออนุญาตโปรแกรมแก้ไขรหัสแบบเต็มหน้าจอ"
+
+#. Select theme for Code Editor.
+msgid "Select theme for Code Editor."
+msgstr "เลือกธีมสำหรับตัวแก้ไขโค้ด"
+
+#. fullscreen text
+msgid "Check to allow fullscreen code editor. For more information please visit"
+msgstr "เลือกเพื่ออนุญาตโปรแกรมแก้ไขรหัสแบบเต็มหน้าจอ สำหรับข้อมูลเพิ่มเติมกรุณาเยี่ยมชม"
+
+#. Disable or Ban WP File Manager Operations to Users
+msgid "Disable or Ban WP File Manager Operations to Users"
+msgstr "ปิดการใช้งานหรือควบคุมการทำงานของตัวจัดการไฟล์ WP สำหรับผู้ใช้"
+
+#. Select users and disable operation.
+msgid "Select users and disable operation."
+msgstr "เลือกผู้ใช้และปิดการใช้งาน"
+
+#. Click to Add Rules
+msgid "Click to Add Rules"
+msgstr "คลิกเพื่อเพิ่มกฎ"
+
+#. Add rule for Users
+msgid "Add rule for Users"
+msgstr "เพิ่มกฎสำหรับผู้ใช้"
+
+#. If User is
+msgid "If User is"
+msgstr "ถ้าผู้ใช้เป็น"
+
+#. Then
+msgid "Then"
+msgstr "แล้วก็"
+
+#. Disable Operations
+#, fuzzy
+msgid "Disable Operations"
+msgstr "ปิดการใช้งาน"
+
+#. Seperate or private folder
+msgid "Seperate or private folder access e.g wp-content/themes etc. Note It will overide \"Private Folder Access\" settings."
+msgstr "การเข้าถึงโฟลเดอร์ย่อยหรือส่วนตัวเช่น wp-content / themes เป็นต้นหมายเหตุการตั้งค่า \"Private Folder Access \" จะเกิน"
+
+#. hide text
+msgid "Enter Folder or Files Paths That You want to Hide e.g wp-content/themes|wp-content/plugins. Note: Multiple separated by Vertical Bar (|)."
+msgstr "ป้อนโฟลเดอร์หรือเส้นทางของไฟล์ที่คุณต้องการซ่อนเช่น wp-content / themes | wp-content / plugins หมายเหตุ: หลายคั่นด้วยแถบแนวตั้ง (|)"
+
+#. lock files
+msgid "Enter file extensions which you want to Lock. e.g .php|.png|.css etc"
+msgstr "ใส่นามสกุลของไฟล์ที่คุณต้องการล็อค เช่น. ppt | .png | .css ฯลฯ"
+
+#. Disable or Ban WP File Manager Operations to User Roles
+msgid "Disable or Ban WP File Manager Operations to User Roles"
+msgstr "ปิดหรือปิดการทำงานของตัวจัดการไฟล์ WP สำหรับบทบาทผู้ใช้"
+
+#. Select user role and disable operation.
+msgid "Select user role and disable operation."
+msgstr "เลือกบทบาทผู้ใช้และปิดการใช้งาน"
+
+#. Add rule for User Roles
+msgid "Add rule for User Roles"
+msgstr "เพิ่มกฎสำหรับบทบาทผู้ใช้"

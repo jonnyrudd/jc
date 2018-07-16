@@ -1,0 +1,291 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WP File Manager\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-09-06 09:29+0000\n"
+"PO-Revision-Date: 2017-09-27 15:18+0530\n"
+"Last-Translator: admin <kajal.gill@mysenseinc.in>\n"
+"Language-Team: \n"
+"Language: hr\n"
+"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10 >= 2 && n%10<=4 &&(n%100<10||n%100 >= 20)? 1 : 2;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.4\n"
+
+#. Name of the plugin
+#, fuzzy
+msgid "WP File Manager"
+msgstr "WP upravitelj datoteka"
+
+#. Description of the plugin
+msgid "Manage your WP files."
+msgstr "Upravljanje WP datotekama."
+
+#. Settings
+msgid "Settings"
+msgstr "postavke"
+
+#. System Properties
+msgid "System Properties"
+msgstr "Svojstva sustava"
+
+#. Shortcode - PRO
+msgid "Shortcode - PRO"
+msgstr "Kratki kôd - PRO"
+
+#. Extensions
+msgid "Extensions"
+msgstr "Proširenja"
+
+#. Donate
+msgid "Donate"
+msgstr "darovati"
+
+#. Note
+msgid "Note: This is just a demo screenshot. To get settings please buy our pro version."
+msgstr "Napomena: Ovo je samo snimka zaslona demo. Da biste dobili postavke, molimo kupite našu verziju."
+
+#. Buy PRO
+msgid "Buy PRO"
+msgstr "Kupi PRO"
+
+#. Settings - General
+msgid "Settings - General"
+msgstr "Postavke - Općenito"
+
+#. admin
+msgid "Here admin can give access to user roles to use filemanager. Admin can set Default Access Folder and also control upload size of filemanager."
+msgstr "Ovdje administrator može dati pristup ulogama korisnika za upotrebu filemanager-a. Administrator može postaviti zadanu mapu pristupa i također kontrolirati veličinu prijenosa datoteke."
+
+#. Settings - Code-editor
+msgid "Settings - Code-editor"
+msgstr "Postavke - uređivač koda"
+
+#. code editor
+msgid "File Manager has a code editor with multiple themes. You can select any theme for code editor. It will display when you edit any file. Also you can allow fullscreen mode of code editor."
+msgstr "Upravitelj datoteka ima uređivač koda s više tema. Možete odabrati bilo koju temu za uređivanje koda. Prikazat će se prilikom uređivanja bilo koje datoteke. Također možete dopustiti način rada cijelog zaslona kodnog uređivača."
+
+#. Code-editor View
+msgid "Code-editor View"
+msgstr "Vodič za uređivanje koda"
+
+#. Settings - User Restrictions
+msgid "Settings - User Restrictions"
+msgstr "Postavke - Ograničenja korisnika"
+
+#. Admin - file - folders
+msgid "Admin can restrict actions of any user. Also hide files and folders and can set different - different folders paths for different users."
+msgstr "Administrator može ograničiti radnje svakog korisnika. Također sakriti datoteke i mape i može postaviti različite - različite mape staze za različite korisnike."
+
+#. Settings - User Role Restrictions
+msgid "Settings - User Role Restrictions"
+msgstr "Postavke - Ograničenja korisničkog uloga"
+
+#. Admin - Restrict
+msgid "Admin can restrict actions of any userrole. Also hide files and folders and can set different - different folders paths for different users roles."
+msgstr "Administrator može ograničiti radnje bilo kojeg korisnika. Također sakriti datoteke i mape i može postaviti različite - različite mape staze za različite korisničke uloge."
+
+#. PRO Shortcode
+msgid "File Manager PRO - Shortcode"
+msgstr "File Manager PRO - kratki kôd"
+
+#. File Manager - System Properties
+msgid "File Manager - System Properties"
+msgstr "Upravitelj datoteka - Svojstva sustava"
+
+#. PHP version
+msgid "PHP version"
+msgstr "PHP verzija"
+
+#. Maximum file upload size (upload_max_filesize)
+msgid "Maximum file upload size (upload_max_filesize)"
+msgstr "Maksimalna veličina prijenosa datoteke (upload_max_filesize)"
+
+#. Post maximum file upload size (post_max_size)
+msgid "Post maximum file upload size (post_max_size)"
+msgstr "Objavi maksimalnu veličinu prijenosa datoteke (post_max_size)"
+
+#. Memory Limit (memory_limit)
+msgid "Memory Limit (memory_limit)"
+msgstr "Ograničenje memorije (memory_limit)"
+
+#. Timeout (max_execution_time)
+msgid "Timeout (max_execution_time)"
+msgstr "Vrijeme (max_execution_time)"
+
+#. Browser and OS (HTTP_USER_AGENT)
+msgid "Browser and OS (HTTP_USER_AGENT)"
+msgstr "Preglednik i OS (HTTP_USER_AGENT)"
+
+#. Contribute
+msgid "Please contribute some donation, to make plugin more stable. You can pay amount of your choice."
+msgstr "Priložite neku donaciju kako biste dodatak stabilniji. Možete platiti iznos po vašem izboru."
+
+#. DB Manager
+msgid "DB Manager"
+msgstr "DB Manager"
+
+#. WP File Manager PRO
+msgid "WP File Manager PRO"
+msgstr "WP upravitelj datoteka PRO"
+
+#. Order Details
+msgid "Order Details"
+msgstr "Detalji narudžbe"
+
+#. Popup Text
+msgid "Your File Manager PRO Order Details"
+msgstr "Detalji o narudžbi vašeg upravitelja datoteka PRO"
+
+#. Popup Warning Text
+msgid "Warning: Please don't share these details with anyone."
+msgstr "Upozorenje: nemojte dijeliti te podatke s drugima."
+
+#. Settings - File Manager
+msgid "Settings - File Manager"
+msgstr "Postavke - Upravitelj datoteka"
+
+#. General
+msgid "General"
+msgstr "General"
+
+#. Code Editor
+msgid "Code Editor"
+msgstr "Uređivač koda"
+
+#. User Restrictions
+msgid "User Restrictions"
+msgstr "Korisnička ograničenja"
+
+#. User Role Restrictions
+msgid "User Role Restrictions"
+msgstr "Ograničenja uloge korisnika"
+
+#. Select User Roles to access WP File manager
+msgid "Select User Roles to access WP File manager"
+msgstr "Odaberite Korisničke uloge da biste pristupili WP upravitelju datoteka"
+
+#. Allow user roles to access WP File Manager
+msgid "Allow user roles to access WP File Manager"
+msgstr "Laat gebruikersrolle toe om toegang tot WP File Manager te verkry"
+
+#. Seperate or Private Folder Access
+msgid "Seperate or Private Folder Access"
+msgstr "Aparte of privaat gids toegang"
+
+#. ROOT
+msgid "File manager will access this folder path. Else, will access root directory. e.g wp-content/plugins. Note: Will Valid for all user roles."
+msgstr "Lêerbestuurder sal toegang tot hierdie gidspad hê. Anders, sal toegang tot die root gids. bv. WP-inhoud / plugins. Nota: Geldig vir alle gebruikersrolle."
+
+#. Maximum Upload Size
+msgid "Maximum Upload Size"
+msgstr "Maksimum upload grootte"
+
+#. Allow users to upload file of maximum size
+msgid "Allow users to upload file of maximum size"
+msgstr "Laat gebruikers toe om 'n lêer met maksimum grootte op te laai"
+
+#. Send Notifications to admin on file upload ?
+msgid "Send Notifications to admin on file upload ?"
+msgstr "Stuur kennisgewings aan admin op lêeroplaai?"
+
+#. Check to allow file upload notifications. Mail will sent to admin email.
+msgid "Check to allow file upload notifications. Mail will sent to admin email."
+msgstr "Gaan om lêeroplaaikennisgewings toe te laat. Pos sal gestuur word na administrateur e-pos."
+
+#. Note: This feature is using wp_mail(), Make sure wp_mail is working or not.
+msgid "Note: This feature is using wp_mail(), Make sure wp_mail is working or not."
+msgstr "Nota: Hierdie funksie gebruik wp_mail (), maak seker dat wp_mail werk of nie."
+
+#. Send Notifications to admin on file download ?
+msgid "Send Notifications to admin on file download ?"
+msgstr "Stuur kennisgewings aan admin op lêer aflaai?"
+
+#. Check to allow file download notifications. Mail will sent to admin email.
+msgid "Check to allow file download notifications. Mail will sent to admin email"
+msgstr "Gaan om lêer aflaai kennisgewings toe te laat. Pos sal gestuur word na administrateur e-pos"
+
+#. Send Notifications to admin on file edit ?
+msgid "Send Notifications to admin on file edit ?"
+msgstr "Stuur kennisgewings aan admin op lêer wysig?"
+
+#. Check to allow file edit notifications. Mail will sent to admin email.
+msgid "Check to allow file edit notifications. Mail will sent to admin email."
+msgstr "Gaan asseblief kennisgewings van lêerwysigings toe. Pos sal gestuur word na administrateur e-pos."
+
+#. Select Filemanager Language
+msgid "Select Filemanager Language"
+msgstr "Kies Filemanager Taal"
+
+#. You can select any language for filemanager.
+msgid "You can select any language for filemanager."
+msgstr "U kan enige taal vir lêerbestuurder kies."
+
+#. Code editor allow fullscreen?
+msgid "Code editor allow fullscreen?"
+msgstr "Kode redakteur toelaat volle skerm?"
+
+#. Check to allow fullscreen code editor
+msgid "Check to allow fullscreen code editor"
+msgstr "Kontroleer om die volle skerm kode redakteur toe te laat"
+
+#. Select theme for Code Editor.
+msgid "Select theme for Code Editor."
+msgstr "Kies tema vir Kode-redakteur."
+
+#. fullscreen text
+msgid "Check to allow fullscreen code editor. For more information please visit"
+msgstr "Kontroleer om die volle skerm kode redakteur toe te laat. Vir meer inligting besoek gerus"
+
+#. Disable or Ban WP File Manager Operations to Users
+msgid "Disable or Ban WP File Manager Operations to Users"
+msgstr "Deaktiveer of verbied WP-lêerbestuurderbedrywighede aan gebruikers"
+
+#. Select users and disable operation.
+msgid "Select users and disable operation."
+msgstr "Kies gebruikers en deaktiveer die operasie."
+
+#. Click to Add Rules
+msgid "Click to Add Rules"
+msgstr "Klik om reëls by te voeg"
+
+#. Add rule for Users
+msgid "Add rule for Users"
+msgstr "Add rule for Users"
+
+#. If User is
+msgid "If User is"
+msgstr "As gebruiker is"
+
+#. Then
+msgid "Then"
+msgstr "dan"
+
+#. Disable Operations
+msgid "Disable Operations"
+msgstr "Deaktiveer bedrywighede"
+
+#. Seperate or private folder
+msgid "Seperate or private folder access e.g wp-content/themes etc. Note It will overide \"Private Folder Access\" settings."
+msgstr "Aparte of private gids toegang, bv. WP-inhoud / temas ens. Nota Dit sal die \\ \"Private Folder Access \" -instellings oorskry."
+
+#. hide text
+msgid "Enter Folder or Files Paths That You want to Hide e.g wp-content/themes|wp-content/plugins. Note: Multiple separated by Vertical Bar (|)."
+msgstr "Voer gids- of lêerpaaie in wat u bv. Wp-inhoud / temas | wp-inhoud / inproppe wil versteek. Nota: Veelvuldige geskei deur Vertikale balk (|)."
+
+#. lock files
+msgid "Enter file extensions which you want to Lock. e.g .php|.png|.css etc"
+msgstr "Voer lêer uitbreidings in wat jy wil sluit. bv. .php | .png | .css ens"
+
+#. Disable or Ban WP File Manager Operations to User Roles
+msgid "Disable or Ban WP File Manager Operations to User Roles"
+msgstr "Deaktiveer of verbied WP-lêerbestuurderbedrywighede aan gebruikersrolle"
+
+#. Select user role and disable operation.
+msgid "Select user role and disable operation."
+msgstr "Kies gebruikersrol en aktiveer die operasie uit."
+
+#. Add rule for User Roles
+msgid "Add rule for User Roles"
+msgstr "Voeg reël vir gebruikersrolle by"

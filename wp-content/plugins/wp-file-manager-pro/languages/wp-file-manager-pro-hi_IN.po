@@ -1,0 +1,291 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WP File Manager\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-09-06 09:29+0000\n"
+"PO-Revision-Date: 2017-09-27 13:21+0530\n"
+"Last-Translator: admin <munishthedeveloper48@gmail.com>\n"
+"Language-Team: \n"
+"Language: hi_IN\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.4\n"
+
+#. Name of the plugin
+msgid "WP File Manager"
+msgstr "WP फ़ाइल प्रबंधक"
+
+#. Description of the plugin
+msgid "Manage your WP files."
+msgstr "अपने WP फ़ाइलों को प्रबंधित करें"
+
+#. Settings
+msgid "Settings"
+msgstr "सेटिंग्स"
+
+#. System Properties
+msgid "System Properties"
+msgstr "प्रणाली के गुण"
+
+#. Shortcode - PRO
+msgid "Shortcode - PRO"
+msgstr "लघुकोड - प्रो"
+
+#. Extensions
+msgid "Extensions"
+msgstr "एक्सटेंशन"
+
+#. Donate
+msgid "Donate"
+msgstr "दान"
+
+#. Note
+msgid "Note: This is just a demo screenshot. To get settings please buy our pro version."
+msgstr "नोट: यह सिर्फ एक डेमो स्क्रीनशॉट है सेटिंग्स प्राप्त करने के लिए हमारे प्रो संस्करण खरीदते हैं।"
+
+#. Buy PRO
+msgid "Buy PRO"
+msgstr "Buy PRO"
+
+#. Settings - General
+msgid "Settings - General"
+msgstr "सेटिंग - सामान्य"
+
+#. admin
+msgid "Here admin can give access to user roles to use filemanager. Admin can set Default Access Folder and also control upload size of filemanager."
+msgstr "यहां व्यवस्थापक फ़ाइलमैनगर का उपयोग करने के लिए उपयोगकर्ता भूमिकाओं तक पहुंच प्रदान कर सकता है। व्यवस्थापक डिफ़ॉल्ट एक्सेस फ़ोल्डर सेट कर सकता है और फ़ाइलमैनेर के अपलोड आकार को नियंत्रित भी कर सकता है।"
+
+#. Settings - Code-editor
+msgid "Settings - Code-editor"
+msgstr "सेटिंग्स - कोड-संपादक"
+
+#. code editor
+msgid "File Manager has a code editor with multiple themes. You can select any theme for code editor. It will display when you edit any file. Also you can allow fullscreen mode of code editor."
+msgstr "फ़ाइल प्रबंधक के कई थीम के साथ एक कोड संपादक है आप कोड संपादक के लिए कोई भी विषय चुन सकते हैं। जब आप कोई फ़ाइल संपादित करेंगे तो यह प्रदर्शित होगा इसके अलावा आप कोड संपादक के पूर्ण स्क्रीन मोड की अनुमति दे सकते हैं।"
+
+#. Code-editor View
+msgid "Code-editor View"
+msgstr "कोड-संपादक देखें"
+
+#. Settings - User Restrictions
+msgid "Settings - User Restrictions"
+msgstr "सेटिंग - उपयोगकर्ता प्रतिबंध"
+
+#. Admin - file - folders
+msgid "Admin can restrict actions of any user. Also hide files and folders and can set different - different folders paths for different users."
+msgstr "व्यवस्थापक किसी उपयोगकर्ता के कार्यों को प्रतिबंधित कर सकता है। इसके अलावा फाइलें और फ़ोल्डर्स छुपाएं और अलग-अलग उपयोगकर्ताओं के लिए अलग-अलग फ़ोल्डर्स पथ सेट कर सकते हैं।"
+
+#. Settings - User Role Restrictions
+msgid "Settings - User Role Restrictions"
+msgstr "सेटिंग - उपयोगकर्ता भूमिका प्रतिबंध"
+
+#. Admin - Restrict
+msgid "Admin can restrict actions of any userrole. Also hide files and folders and can set different - different folders paths for different users roles."
+msgstr "व्यवस्थापक किसी भी userrole के कार्यों को प्रतिबंधित कर सकता है। इसके अलावा फाइलें और फ़ोल्डर्स छुपाएं और अलग-अलग उपयोगकर्ता भूमिकाओं के लिए अलग-अलग फ़ोल्डर्स पथ सेट कर सकते हैं।"
+
+#. PRO Shortcode
+msgid "File Manager PRO - Shortcode"
+msgstr "File Manager PRO - Shortcode"
+
+#. File Manager - System Properties
+msgid "File Manager - System Properties"
+msgstr "फ़ाइल प्रबंधक - सिस्टम गुण"
+
+#. PHP version
+msgid "PHP version"
+msgstr "PHP संस्करण"
+
+#. Maximum file upload size (upload_max_filesize)
+msgid "Maximum file upload size (upload_max_filesize)"
+msgstr "अधिकतम फ़ाइल अपलोड आकार (अपलोड_मैक्स_फाइलैज़)"
+
+#. Post maximum file upload size (post_max_size)
+msgid "Post maximum file upload size (post_max_size)"
+msgstr "अधिकतम फ़ाइल अपलोड आकार पोस्ट करें (पोस्ट_मैक्स_आकार)"
+
+#. Memory Limit (memory_limit)
+msgid "Memory Limit (memory_limit)"
+msgstr "मेमोरी सीमा (स्मृति_लिमिट)"
+
+#. Timeout (max_execution_time)
+msgid "Timeout (max_execution_time)"
+msgstr "टाइमआउट (max_execution_time)"
+
+#. Browser and OS (HTTP_USER_AGENT)
+msgid "Browser and OS (HTTP_USER_AGENT)"
+msgstr "ब्राउज़र और ओएस (HTTP_USER_AGENT)"
+
+#. Contribute
+msgid "Please contribute some donation, to make plugin more stable. You can pay amount of your choice."
+msgstr "प्लगइन को अधिक स्थिर बनाने के लिए कृपया कुछ दान में योगदान करें आप अपनी पसंद की राशि का भुगतान कर सकते हैं"
+
+#. DB Manager
+msgid "DB Manager"
+msgstr "डीबी प्रबंधक"
+
+#. WP File Manager PRO
+msgid "WP File Manager PRO"
+msgstr "WP फ़ाइल प्रबंधक प्रो"
+
+#. Order Details
+msgid "Order Details"
+msgstr "ऑर्डर का विवरण"
+
+#. Popup Text
+msgid "Your File Manager PRO Order Details"
+msgstr "आपका फ़ाइल प्रबंधक प्रो ऑर्डर विवरण"
+
+#. Popup Warning Text
+msgid "Warning: Please don't share these details with anyone."
+msgstr "चेतावनी: कृपया इन विवरणों को किसी के साथ साझा न करें।"
+
+#. Settings - File Manager
+msgid "Settings - File Manager"
+msgstr "सेटिंग - फ़ाइल प्रबंधक"
+
+#. General
+msgid "General"
+msgstr "सामान्य"
+
+#. Code Editor
+msgid "Code Editor"
+msgstr "कोड संपादक"
+
+#. User Restrictions
+msgid "User Restrictions"
+msgstr "उपयोगकर्ता प्रतिबंध"
+
+#. User Role Restrictions
+msgid "User Role Restrictions"
+msgstr "उपयोगकर्ता भूमिका प्रतिबंध"
+
+#. Select User Roles to access WP File manager
+msgid "Select User Roles to access WP File manager"
+msgstr "WP फ़ाइल प्रबंधक का उपयोग करने के लिए उपयोगकर्ता भूमिकाएं चुनें"
+
+#. Allow user roles to access WP File Manager
+msgid "Allow user roles to access WP File Manager"
+msgstr "उपयोगकर्ता भूमिकाओं को WP फ़ाइल प्रबंधक तक पहुंचने दें"
+
+#. Seperate or Private Folder Access
+msgid "Seperate or Private Folder Access"
+msgstr "अलग या निजी फ़ोल्डर पहुंच"
+
+#. ROOT
+msgid "File manager will access this folder path. Else, will access root directory. e.g wp-content/plugins. Note: Will Valid for all user roles."
+msgstr "फ़ाइल प्रबंधक इस फ़ोल्डर पथ में प्रवेश करेगा। अन्यथा, रूट निर्देशिका तक पहुंच जाएगा। जैसे wp-content / plugins नोट: सभी उपयोगकर्ता भूमिकाओं के लिए मान्य होगा"
+
+#. Maximum Upload Size
+msgid "Maximum Upload Size"
+msgstr "अधिकतम आकार अपलोड करें"
+
+#. Allow users to upload file of maximum size
+msgid "Allow users to upload file of maximum size"
+msgstr "उपयोगकर्ताओं को अधिकतम आकार के साथ एक फ़ाइल अपलोड करने की अनुमति दें"
+
+#. Send Notifications to admin on file upload ?
+msgid "Send Notifications to admin on file upload ?"
+msgstr "फ़ाइल अपलोड पर व्यवस्थापक को नोटिफिकेशन भेजें?"
+
+#. Check to allow file upload notifications. Mail will sent to admin email.
+msgid "Check to allow file upload notifications. Mail will sent to admin email."
+msgstr "फ़ाइल अपलोड सूचनाओं को अनुमति देने के लिए जांचें मेल को व्यवस्थापक ईमेल पर भेजा जाएगा"
+
+#. Note: This feature is using wp_mail(), Make sure wp_mail is working or not.
+msgid "Note: This feature is using wp_mail(), Make sure wp_mail is working or not."
+msgstr "नोट: यह सुविधा wp_mail () का उपयोग कर रही है, सुनिश्चित करें कि wp_mail काम कर रहा है या नहीं।"
+
+#. Send Notifications to admin on file download ?
+msgid "Send Notifications to admin on file download ?"
+msgstr "फ़ाइल डाउनलोड पर व्यवस्थापक को नोटिफिकेशन भेजें?"
+
+#. Check to allow file download notifications. Mail will sent to admin email.
+msgid "Check to allow file download notifications. Mail will sent to admin email"
+msgstr "फ़ाइल डाउनलोड सूचनाओं को अनुमति देने के लिए जांचें मेल को व्यवस्थापक ईमेल पर भेजा जाएगा"
+
+#. Send Notifications to admin on file edit ?
+msgid "Send Notifications to admin on file edit ?"
+msgstr "फ़ाइल को संपादित करने के लिए व्यवस्थापक को नोटिफिकेशन भेजें?"
+
+#. Check to allow file edit notifications. Mail will sent to admin email.
+msgid "Check to allow file edit notifications. Mail will sent to admin email."
+msgstr "फ़ाइल संपादन सूचनाओं को अनुमति देने के लिए जांचें मेल को व्यवस्थापक ईमेल पर भेजा जाएगा"
+
+#. Select Filemanager Language
+msgid "Select Filemanager Language"
+msgstr "फाईलमैनेजर भाषा चुनें"
+
+#. You can select any language for filemanager.
+msgid "You can select any language for filemanager."
+msgstr "आप फ़ाइलमैनेजर के लिए कोई भी भाषा चुन सकते हैं।"
+
+#. Code editor allow fullscreen?
+msgid "Code editor allow fullscreen?"
+msgstr "कोड संपादक पूर्णस्क्रीन की अनुमति देते हैं?"
+
+#. Check to allow fullscreen code editor
+msgid "Check to allow fullscreen code editor"
+msgstr "फ़ुलस्क्रीन कोड संपादक को अनुमति देने के लिए चेक करें"
+
+#. Select theme for Code Editor.
+msgid "Select theme for Code Editor."
+msgstr "कोड संपादक के लिए थीम का चयन करें"
+
+#. fullscreen text
+msgid "Check to allow fullscreen code editor. For more information please visit"
+msgstr "फ़ुलस्क्रीन कोड संपादक को अनुमति देने के लिए चेक करें और अधिक जानकारी के लिए कृपया विजिट करें"
+
+#. Disable or Ban WP File Manager Operations to Users
+msgid "Disable or Ban WP File Manager Operations to Users"
+msgstr "उपयोगकर्ताओं को WP फ़ाइल प्रबंधक संचालन अक्षम करें या प्रतिबंधित करें"
+
+#. Select users and disable operation.
+msgid "Select users and disable operation."
+msgstr "उपयोगकर्ता चुनें और ऑपरेशन अक्षम करें"
+
+#. Click to Add Rules
+msgid "Click to Add Rules"
+msgstr "नियम जोड़ने के लिए क्लिक करें"
+
+#. Add rule for Users
+msgid "Add rule for Users"
+msgstr "उपयोगकर्ताओं के लिए नियम जोड़ें"
+
+#. If User is
+msgid "If User is"
+msgstr "यदि उपयोगकर्ता है"
+
+#. Then
+msgid "Then"
+msgstr "फिर"
+
+#. Disable Operations
+msgid "Disable Operations"
+msgstr "ऑपरेशन अक्षम करें"
+
+#. Seperate or private folder
+#, fuzzy
+msgid "Seperate or private folder access e.g wp-content/themes etc. Note It will overide \"Private Folder Access\" settings."
+msgstr "अलग या निजी फोल्डर एक्सेस उदा । Wp-content / themes आदि नोट: यह  \\ \"निजी फ़ोल्डर पहुंच \" सेटिंग्स को ओवर कर देगा।"
+
+#. hide text
+msgid "Enter Folder or Files Paths That You want to Hide e.g wp-content/themes|wp-content/plugins. Note: Multiple separated by Vertical Bar (|)."
+msgstr "फ़ोल्डर या फ़ाइलें पाथ दर्ज करें जिन्हें आप छिपाना चाहते हैं जैसे wp-content / themes | wp-content / plugins नोट: वर्टिकल बार से अलग एकाधिक (|)"
+
+#. lock files
+msgid "Enter file extensions which you want to Lock. e.g .php|.png|.css etc"
+msgstr "फ़ाइल एक्सटेंशन दर्ज करें जिसे आप लॉक करना चाहते हैं जैसे .php | .png | .css आदि"
+
+#. Disable or Ban WP File Manager Operations to User Roles
+msgid "Disable or Ban WP File Manager Operations to User Roles"
+msgstr "उपयोगकर्ता भूमिकाओं में WP फ़ाइल प्रबंधक संचालन अक्षम करें या प्रतिबंधित करें"
+
+#. Select user role and disable operation.
+msgid "Select user role and disable operation."
+msgstr "उपयोगकर्ता भूमिका चुनें और ऑपरेशन अक्षम करें"
+
+#. Add rule for User Roles
+msgid "Add rule for User Roles"
+msgstr "उपयोगकर्ता भूमिकाओं के लिए नियम जोड़ें"

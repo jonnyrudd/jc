@@ -1,0 +1,290 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WP File Manager\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-09-06 09:29+0000\n"
+"PO-Revision-Date: 2017-09-27 10:43+0530\n"
+"Last-Translator: admin <kajal.gill@mysenseinc.in>\n"
+"Language-Team: \n"
+"Language: ceb\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.4\n"
+
+#. Name of the plugin
+msgid "WP File Manager"
+msgstr "WP File Manager"
+
+#. Description of the plugin
+msgid "Manage your WP files."
+msgstr "Pagdumala sa imong mga file sa WP."
+
+#. Settings
+msgid "Settings"
+msgstr "Mga Setting"
+
+#. System Properties
+msgid "System Properties"
+msgstr "Sistema sa Kinaiyahan"
+
+#. Shortcode - PRO
+msgid "Shortcode - PRO"
+msgstr "Shortcode - PRO "
+
+#. Extensions
+msgid "Extensions"
+msgstr "Mga extension"
+
+#. Donate
+msgid "Donate"
+msgstr "Donate"
+
+#. Note
+msgid "Note: This is just a demo screenshot. To get settings please buy our pro version."
+msgstr "Mubo nga sulat: Kini usa lamang ka screenshot sa demo. Aron makuha ang mga setting palihug palita ang among pro nga bersyon."
+
+#. Buy PRO
+msgid "Buy PRO"
+msgstr "Pagpalit PRO"
+
+#. Settings - General
+msgid "Settings - General"
+msgstr "Mga Setting - Heneral"
+
+#. admin
+msgid "Here admin can give access to user roles to use filemanager. Admin can set Default Access Folder and also control upload size of filemanager."
+msgstr "Ang admin dinhi makahatag sa access sa mga papel sa user aron magamit ang filemanager. Ang Admin mahimo magtakda sa Default Access Folder ug usab kontrolon ang upload nga sukod sa filemanager."
+
+#. Settings - Code-editor
+msgid "Settings - Code-editor"
+msgstr "Mga Setting - Code-editor"
+
+#. code editor
+msgid "File Manager has a code editor with multiple themes. You can select any theme for code editor. It will display when you edit any file. Also you can allow fullscreen mode of code editor."
+msgstr "Ang File Manager adunay editor sa code nga dunay daghang mga tema. Makapili ka sa bisan unsang tema alang sa editor sa code. Ipakita kini sa dihang mag-edit ka sa bisan unsang file. Mahimo usab nimo tugotan ang fullscreen mode sa code editor."
+
+#. Code-editor View
+msgid "Code-editor View"
+msgstr "View sa Code-editor"
+
+#. Settings - User Restrictions
+msgid "Settings - User Restrictions"
+msgstr "Mga Setting - Mga Pagpanghilawas sa Gumagamit"
+
+#. Admin - file - folders
+msgid "Admin can restrict actions of any user. Also hide files and folders and can set different - different folders paths for different users."
+msgstr "Ang Admin mahimong makapugong sa mga lihok sa bisan kinsa nga tiggamit. Usba usab ang mga file ug mga folder ug maka-set sa lain-laing mga lain-laing mga folder sa mga dalan alang sa lain-laing mga tiggamit."
+
+#. Settings - User Role Restrictions
+msgid "Settings - User Role Restrictions"
+msgstr "Mga Setting - Mga Gikinahanglan nga Mga Paghukom sa Tanan"
+
+#. Admin - Restrict
+msgid "Admin can restrict actions of any userrole. Also hide files and folders and can set different - different folders paths for different users roles."
+msgstr "Ang Admin mahimong makapugong sa mga lihok sa bisan unsang userrole. Usba usab ang mga file ug mga folder ug maka-set sa lain-laing mga lain-laing mga folder sa mga dalan alang sa nagkalain-laing papel sa tiggamit."
+
+#. PRO Shortcode
+msgid "File Manager PRO - Shortcode"
+msgstr "File Manager PRO - Shortcode"
+
+#. File Manager - System Properties
+msgid "File Manager - System Properties"
+msgstr "File Manager - System Properties"
+
+#. PHP version
+msgid "PHP version"
+msgstr "PHP version"
+
+#. Maximum file upload size (upload_max_filesize)
+msgid "Maximum file upload size (upload_max_filesize)"
+msgstr "Ang kinadak-ang gidak-on sa pag-upload sa file (upload_max_filesize)"
+
+#. Post maximum file upload size (post_max_size)
+msgid "Post maximum file upload size (post_max_size)"
+msgstr "Pag-upload sa gidak-on sa gidak-on sa upload (post_max_size)"
+
+#. Memory Limit (memory_limit)
+msgid "Memory Limit (memory_limit)"
+msgstr "Limitahan sa Memoryal (memory_limit)"
+
+#. Timeout (max_execution_time)
+msgid "Timeout (max_execution_time)"
+msgstr "Timeout (max_execution_time)"
+
+#. Browser and OS (HTTP_USER_AGENT)
+msgid "Browser and OS (HTTP_USER_AGENT)"
+msgstr "Browser ug OS (HTTP_USER_AGENT)"
+
+#. Contribute
+msgid "Please contribute some donation, to make plugin more stable. You can pay amount of your choice."
+msgstr "Palihug pagtampo og pipila nga donasyon, aron mahimo ang plugin nga mas lig-on. Makabayad ka sa kantidad nga imong pilion."
+
+#. DB Manager
+msgid "DB Manager"
+msgstr "DB Manager"
+
+#. WP File Manager PRO
+msgid "WP File Manager PRO"
+msgstr "WP File Manager PRO"
+
+#. Order Details
+msgid "Order Details"
+msgstr "Mga Detalye sa Order"
+
+#. Popup Text
+msgid "Your File Manager PRO Order Details"
+msgstr "Mga detalye sa Imong File Manager PRO"
+
+#. Popup Warning Text
+msgid "Warning: Please don't share these details with anyone."
+msgstr "Pasidaan: Palihug ayaw ipaambit ang mga detalye sa bisan kinsa."
+
+#. Settings - File Manager
+msgid "Settings - File Manager"
+msgstr "Mga Setting - File Manager"
+
+#. General
+msgid "General"
+msgstr "General"
+
+#. Code Editor
+msgid "Code Editor"
+msgstr "Code Editor"
+
+#. User Restrictions
+msgid "User Restrictions"
+msgstr "Mga Paghukom sa Gumagamit"
+
+#. User Role Restrictions
+msgid "User Role Restrictions"
+msgstr "Mga Paghulagway sa Papel sa Gumagamit"
+
+#. Select User Roles to access WP File manager
+msgid "Select User Roles to access WP File manager"
+msgstr "Pilia ang Mga Roles sa Gumagamit aron ma-access ang WP File manager"
+
+#. Allow user roles to access WP File Manager
+msgid "Allow user roles to access WP File Manager"
+msgstr "Tugoti ang mga papel sa user nga maka-access sa WP File Manager"
+
+#. Seperate or Private Folder Access
+msgid "Seperate or Private Folder Access"
+msgstr "Lingin o Private Folder Access"
+
+#. ROOT
+msgid "File manager will access this folder path. Else, will access root directory. e.g wp-content/plugins. Note: Will Valid for all user roles."
+msgstr "Ang manedyer sa file maka-access niini nga dalan sa folder. Sa laing paagi, maka access sa root directory. pananglitan wp-content / plugins. Mubo nga sulat: Mahimo ba nga alang sa tanan nga mga papel sa user."
+
+#. Maximum Upload Size
+msgid "Maximum Upload Size"
+msgstr "Labaw nga Upload Size"
+
+#. Allow users to upload file of maximum size
+msgid "Allow users to upload file of maximum size"
+msgstr "Tugoti ang mga tiggamit sa pag-upload sa file nga maximum nga gidak-on"
+
+#. Send Notifications to admin on file upload ?
+msgid "Send Notifications to admin on file upload ?"
+msgstr "Ipadala ang Mga Notification sa admin sa pag-upload sa file?"
+
+#. Check to allow file upload notifications. Mail will sent to admin email.
+msgid "Check to allow file upload notifications. Mail will sent to admin email."
+msgstr "Susiha aron matugotan ang mga nota sa pag-upload sa file Ang sulat ipadala sa admin email."
+
+#. Note: This feature is using wp_mail(), Make sure wp_mail is working or not.
+msgid "Note: This feature is using wp_mail(), Make sure wp_mail is working or not."
+msgstr "Mubo nga sulat: Kini nga feature naggamit sa wp_mail (), Siguroha nga ang wp_mail nagtrabaho o dili."
+
+#. Send Notifications to admin on file download ?
+msgid "Send Notifications to admin on file download ?"
+msgstr "Ipadala ang Mga Notification sa admin sa pag-download sa file?"
+
+#. Check to allow file download notifications. Mail will sent to admin email.
+msgid "Check to allow file download notifications. Mail will sent to admin email"
+msgstr "Susiha aron matugotan ang mga abiso sa pag-download sa file Ang sulat ipadala sa admin email"
+
+#. Send Notifications to admin on file edit ?
+msgid "Send Notifications to admin on file edit ?"
+msgstr "Ipadala ang mga Notifikasi sa admin sa pag-edit sa file?"
+
+#. Check to allow file edit notifications. Mail will sent to admin email.
+msgid "Check to allow file edit notifications. Mail will sent to admin email."
+msgstr "Susiha aron matugutan ang pag-edit sa mga pahibalo. Ang sulat ipadala sa admin email."
+
+#. Select Filemanager Language
+msgid "Select Filemanager Language"
+msgstr "Pilia ang Filemanager Language"
+
+#. You can select any language for filemanager.
+msgid "You can select any language for filemanager."
+msgstr "Makapili ka og bisan unsang pinulongan alang sa filemanager."
+
+#. Code editor allow fullscreen?
+msgid "Code editor allow fullscreen?"
+msgstr "Gitugot sa editor sa Code ang fullscreen?"
+
+#. Check to allow fullscreen code editor
+msgid "Check to allow fullscreen code editor"
+msgstr "Susiha aron makadawat sa editor sa fullscreen code"
+
+#. Select theme for Code Editor.
+msgid "Select theme for Code Editor."
+msgstr "Pagpili sa tema alang sa Code Editor."
+
+#. fullscreen text
+msgid "Check to allow fullscreen code editor. For more information please visit"
+msgstr "Susiha aron makadawat sa editor sa fullscreen code. Alang sa dugang kasayuran palihog duawon"
+
+#. Disable or Ban WP File Manager Operations to Users
+msgid "Disable or Ban WP File Manager Operations to Users"
+msgstr "Paglikay o Pagdili sa WP File Manager Operations sa mga Gumagamit"
+
+#. Select users and disable operation.
+msgid "Select users and disable operation."
+msgstr "Pagpili sa mga tiggamit ug pag-disable sa operasyon."
+
+#. Click to Add Rules
+msgid "Click to Add Rules"
+msgstr "I-klik aron makadugang sa mga lagda"
+
+#. Add rule for Users
+msgid "Add rule for Users"
+msgstr "Idugang ang lagda alang sa mga tiggamit"
+
+#. If User is
+msgid "If User is"
+msgstr "Kon ang Gumagamit"
+
+#. Then
+msgid "Then"
+msgstr "Dayon"
+
+#. Disable Operations
+msgid "Disable Operations"
+msgstr "Paglikay sa Operations"
+
+#. Seperate or private folder
+msgid "Seperate or private folder access e.g wp-content/themes etc. Note It will overide \"Private Folder Access\" settings."
+msgstr "Lihok o pribado nga access sa palayo sama sa wp-content / tema ug uban pa Note Kini mag-overide sa \\ \"Private Folder Access \" settings."
+
+#. hide text
+msgid "Enter Folder or Files Paths That You want to Hide e.g wp-content/themes|wp-content/plugins. Note: Multiple separated by Vertical Bar (|)."
+msgstr "Pagsulod sa Folder o Mga Puntod nga Mga Paagi nga Gusto Nimong Itago eg wp-content / themes | wp-content / plugins. Mubo nga sulat: Daghang gibulag sa Vertical Bar (|)."
+
+#. lock files
+msgid "Enter file extensions which you want to Lock. e.g .php|.png|.css etc"
+msgstr "Pagsulod sa mga ekstensiyon sa file nga gusto nimong I-Lock. e.g .php | .png | .ssss etc"
+
+#. Disable or Ban WP File Manager Operations to User Roles
+msgid "Disable or Ban WP File Manager Operations to User Roles"
+msgstr "Paglikay o Pagdili sa WP File Manager Operations ngadto sa Mga Tabang sa Gumagamit"
+
+#. Select user role and disable operation.
+msgid "Select user role and disable operation."
+msgstr "Pagpili sa tiggamit sa gumagamit ug pag-disable sa operasyon."
+
+#. Add rule for User Roles
+msgid "Add rule for User Roles"
+msgstr "Idugang ang lagda alang sa Mga Tabang sa Gumagamit"

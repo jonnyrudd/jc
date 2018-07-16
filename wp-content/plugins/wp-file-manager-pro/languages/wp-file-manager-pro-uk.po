@@ -1,0 +1,290 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WP File Manager\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-09-06 09:29+0000\n"
+"PO-Revision-Date: 2017-09-27 12:51+0530\n"
+"Last-Translator: admin <munishthedeveloper48@gmail.com>\n"
+"Language-Team: \n"
+"Language: uk\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10 >= 2 && n%10<=4 &&(n%100<10||n%100 >= 20)? 1 : 2);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.4\n"
+
+#. Name of the plugin
+msgid "WP File Manager"
+msgstr "WP File Manager"
+
+#. Description of the plugin
+msgid "Manage your WP files."
+msgstr "Керування файлами WP."
+
+#. Settings
+msgid "Settings"
+msgstr "Налаштування"
+
+#. System Properties
+msgid "System Properties"
+msgstr "Властивості системи"
+
+#. Shortcode - PRO
+msgid "Shortcode - PRO"
+msgstr "Короткий код - PRO"
+
+#. Extensions
+msgid "Extensions"
+msgstr "Розширення"
+
+#. Donate
+msgid "Donate"
+msgstr "Пожертвувати"
+
+#. Note
+msgid "Note: This is just a demo screenshot. To get settings please buy our pro version."
+msgstr "Примітка. Це лише демонстраційний скріншот. Для отримання налаштувань, будь ласка, купуйте нашу професійну версію."
+
+#. Buy PRO
+msgid "Buy PRO"
+msgstr "Купити PRO"
+
+#. Settings - General
+msgid "Settings - General"
+msgstr "Налаштування - загальні"
+
+#. admin
+msgid "Here admin can give access to user roles to use filemanager. Admin can set Default Access Folder and also control upload size of filemanager."
+msgstr "Тут адміністратор може надати доступ до ролей користувача, щоб використовувати файловий менеджер. Адміністратор може встановити папку доступу за замовчуванням, а також контролювати розмір файлу керування файловим менеджером."
+
+#. Settings - Code-editor
+msgid "Settings - Code-editor"
+msgstr "Налаштування - редактор коду"
+
+#. code editor
+msgid "File Manager has a code editor with multiple themes. You can select any theme for code editor. It will display when you edit any file. Also you can allow fullscreen mode of code editor."
+msgstr "Менеджер файлів має редактор коду з декількома темами. Ви можете вибрати будь-яку тему для редактора коду. Він буде відображатися під час редагування будь-якого файлу. Також ви можете дозволити повноекранний режим редактора коду."
+
+#. Code-editor View
+msgid "Code-editor View"
+msgstr "Код-редактор перегляду"
+
+#. Settings - User Restrictions
+msgid "Settings - User Restrictions"
+msgstr "Налаштування - обмеження користувачів"
+
+#. Admin - file - folders
+msgid "Admin can restrict actions of any user. Also hide files and folders and can set different - different folders paths for different users."
+msgstr "Адміністратор може обмежити дії будь-якого користувача. Також приховуйте файли та папки та встановлюйте різні шляхи для різних папок для різних користувачів."
+
+#. Settings - User Role Restrictions
+msgid "Settings - User Role Restrictions"
+msgstr "Параметри - обмеження ролі користувача"
+
+#. Admin - Restrict
+msgid "Admin can restrict actions of any userrole. Also hide files and folders and can set different - different folders paths for different users roles."
+msgstr "Адміністратор може обмежити дії будь-якого користувачароль. Також приховуйте файли та папки та можете встановити різні - шляхи різних папок для різних ролей користувачів."
+
+#. PRO Shortcode
+msgid "File Manager PRO - Shortcode"
+msgstr "File Manager PRO - Короткий код"
+
+#. File Manager - System Properties
+msgid "File Manager - System Properties"
+msgstr "Менеджер файлів - Властивості системи"
+
+#. PHP version
+msgid "PHP version"
+msgstr "PHP версія"
+
+#. Maximum file upload size (upload_max_filesize)
+msgid "Maximum file upload size (upload_max_filesize)"
+msgstr "Максимальний розмір завантаження файлу (upload_max_filesize)"
+
+#. Post maximum file upload size (post_max_size)
+msgid "Post maximum file upload size (post_max_size)"
+msgstr "Опублікувати розмір розміру максимального розміру файлу (post_max_size)"
+
+#. Memory Limit (memory_limit)
+msgid "Memory Limit (memory_limit)"
+msgstr "Обмеження пам'яті (пам'ять_максимум)"
+
+#. Timeout (max_execution_time)
+msgid "Timeout (max_execution_time)"
+msgstr "Тайм-аут (max_execution_time)"
+
+#. Browser and OS (HTTP_USER_AGENT)
+msgid "Browser and OS (HTTP_USER_AGENT)"
+msgstr "Браузер та ОС (HTTP_USER_AGENT)"
+
+#. Contribute
+msgid "Please contribute some donation, to make plugin more stable. You can pay amount of your choice."
+msgstr "Будь ласка, внесіть деякі пожертви, щоб зробити плагін стабільнішим. Ви можете сплатити суму за вашим вибором."
+
+#. DB Manager
+msgid "DB Manager"
+msgstr "Менеджер БД"
+
+#. WP File Manager PRO
+msgid "WP File Manager PRO"
+msgstr "WP File Manager PRO"
+
+#. Order Details
+msgid "Order Details"
+msgstr "деталі замовлення"
+
+#. Popup Text
+msgid "Your File Manager PRO Order Details"
+msgstr "Файловий менеджер PRO Деталі замовлення"
+
+#. Popup Warning Text
+msgid "Warning: Please don't share these details with anyone."
+msgstr "Попередження. Будь-ласка, не повідомляйте ці дані нікому."
+
+#. Settings - File Manager
+msgid "Settings - File Manager"
+msgstr "Налаштування - Менеджер файлів"
+
+#. General
+msgid "General"
+msgstr "Генерал"
+
+#. Code Editor
+msgid "Code Editor"
+msgstr "Редактор коду"
+
+#. User Restrictions
+msgid "User Restrictions"
+msgstr "Обмеження користувачів"
+
+#. User Role Restrictions
+msgid "User Role Restrictions"
+msgstr "Обмеження ролей користувача"
+
+#. Select User Roles to access WP File manager
+msgid "Select User Roles to access WP File manager"
+msgstr "Виберіть Ролі користувача для доступу до менеджера файлів WP"
+
+#. Allow user roles to access WP File Manager
+msgid "Allow user roles to access WP File Manager"
+msgstr "Дозволити користувачам виконувати доступ до WP File Manager"
+
+#. Seperate or Private Folder Access
+msgid "Seperate or Private Folder Access"
+msgstr "Доступ до окремої або приватної папки"
+
+#. ROOT
+msgid "File manager will access this folder path. Else, will access root directory. e.g wp-content/plugins. Note: Will Valid for all user roles."
+msgstr "Менеджер файлів отримає доступ до цієї шляху до папки. Інше, буде доступ до кореневого каталогу. наприклад, wp-content / plugins. Примітка: Буде дійсним для всіх ролей користувача."
+
+#. Maximum Upload Size
+msgid "Maximum Upload Size"
+msgstr "Максимальний розмір завантаження"
+
+#. Allow users to upload file of maximum size
+msgid "Allow users to upload file of maximum size"
+msgstr "Дозволити користувачам завантажувати файл із максимальним розміром"
+
+#. Send Notifications to admin on file upload ?
+msgid "Send Notifications to admin on file upload ?"
+msgstr "Надіслати сповіщення адміністратору на завантаження файлу?"
+
+#. Check to allow file upload notifications. Mail will sent to admin email.
+msgid "Check to allow file upload notifications. Mail will sent to admin email."
+msgstr "Перевірте, щоб дозволити завантаження сповіщень. Пошту буде надіслано електронною поштою адміністратора."
+
+#. Note: This feature is using wp_mail(), Make sure wp_mail is working or not.
+msgid "Note: This feature is using wp_mail(), Make sure wp_mail is working or not."
+msgstr "Примітка. Ця функція використовує wp_mail (), переконайтеся, що wp_mail працює чи ні."
+
+#. Send Notifications to admin on file download ?
+msgid "Send Notifications to admin on file download ?"
+msgstr "Надіслати сповіщення адміністратору на завантаження файлів?"
+
+#. Check to allow file download notifications. Mail will sent to admin email.
+msgid "Check to allow file download notifications. Mail will sent to admin email"
+msgstr "Перевірте, щоб дозволити завантаження файлів сповіщень. Пошту буде надіслано електронною поштою адміністратора"
+
+#. Send Notifications to admin on file edit ?
+msgid "Send Notifications to admin on file edit ?"
+msgstr "Надіслати повідомлення адміністратору на редагування файлу?"
+
+#. Check to allow file edit notifications. Mail will sent to admin email.
+msgid "Check to allow file edit notifications. Mail will sent to admin email."
+msgstr "Перевірте, щоб дозволити редагування сповіщень файлів. Пошту буде надіслано електронною поштою адміністратора."
+
+#. Select Filemanager Language
+msgid "Select Filemanager Language"
+msgstr "Виберіть мову Filemanager"
+
+#. You can select any language for filemanager.
+msgid "You can select any language for filemanager."
+msgstr "Ви можете вибрати будь-яку мову для файлового менеджера."
+
+#. Code editor allow fullscreen?
+msgid "Code editor allow fullscreen?"
+msgstr "Редактор кодів дозволяє повноекранний режим?"
+
+#. Check to allow fullscreen code editor
+msgid "Check to allow fullscreen code editor"
+msgstr "Перевірте, щоб дозволити редактор повноекранного коду"
+
+#. Select theme for Code Editor.
+msgid "Select theme for Code Editor."
+msgstr "Виберіть тему для редактора коду."
+
+#. fullscreen text
+msgid "Check to allow fullscreen code editor. For more information please visit"
+msgstr "Перевірте, щоб дозволити редактор повноекранного коду. Для отримання додаткової інформації відвідайте"
+
+#. Disable or Ban WP File Manager Operations to Users
+msgid "Disable or Ban WP File Manager Operations to Users"
+msgstr "Вимкнути або заборонити WP File Manager для користувачів"
+
+#. Select users and disable operation.
+msgid "Select users and disable operation."
+msgstr "Виберіть користувачів та вимкніть операцію."
+
+#. Click to Add Rules
+msgid "Click to Add Rules"
+msgstr "Натисніть, щоб додати правила"
+
+#. Add rule for Users
+msgid "Add rule for Users"
+msgstr "Додати правило для користувачів"
+
+#. If User is
+msgid "If User is"
+msgstr "Якщо є користувач"
+
+#. Then
+msgid "Then"
+msgstr "Потім"
+
+#. Disable Operations
+msgid "Disable Operations"
+msgstr "Вимкнути операції"
+
+#. Seperate or private folder
+msgid "Seperate or private folder access e.g wp-content/themes etc. Note It will overide \"Private Folder Access\" settings."
+msgstr "Доступ до окремої або приватної папки, наприклад, wp-вміст / теми та ін. Примітка. Це перевищує параметри \\ \"Приватна папка доступу \"."
+
+#. hide text
+msgid "Enter Folder or Files Paths That You want to Hide e.g wp-content/themes|wp-content/plugins. Note: Multiple separated by Vertical Bar (|)."
+msgstr "Введіть папки або шляхи файлів, які потрібно сховати, наприклад, wp-content / themes | wp-content / plugins. Примітка: кілька розділених вертикальним рядком (|)."
+
+#. lock files
+msgid "Enter file extensions which you want to Lock. e.g .php|.png|.css etc"
+msgstr "Введіть розширення файлів, які потрібно заблокувати. наприклад, .php | .png | .css тощо"
+
+#. Disable or Ban WP File Manager Operations to User Roles
+msgid "Disable or Ban WP File Manager Operations to User Roles"
+msgstr "Вимкнути або заборонити роботу WP File Manager у ролях користувача"
+
+#. Select user role and disable operation.
+msgid "Select user role and disable operation."
+msgstr "Виберіть роль користувача та вимкніть операцію."
+
+#. Add rule for User Roles
+msgid "Add rule for User Roles"
+msgstr "Додайте правило для ролей користувача"
