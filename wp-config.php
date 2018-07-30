@@ -95,3 +95,4 @@ if ( !defined('ABSPATH') )
 
 /** Sets up WordPress vars and included files. */
 require_once(ABSPATH . 'wp-settings.php');
+define("OTGS_DISABLE_AUTO_UPDATES", true);

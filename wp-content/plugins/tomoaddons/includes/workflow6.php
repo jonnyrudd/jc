@@ -220,9 +220,11 @@ $obk = isset($_GET['obk']) ? $_GET['obk'] : '';
 							'PI号码',
 							'报关单价',
 							'报关金额',
+							/*
 							'汇率',
 							'利润额',
 							'利润率',
+							*/
 							'状态码',
 							'关联文件',
 							'ETD'
@@ -450,6 +452,7 @@ jQuery(document).ready(function() {
 						label: '报关金额',
 						type: 'double'
 					},
+					/*
 					{
 						id: 'xrate',
 						label: '汇率',
@@ -465,6 +468,7 @@ jQuery(document).ready(function() {
 						label: '利润率',
 						type: 'double'
 					},
+					*/
 					{
 						id: 'statusCode',
 						label: '状态码',

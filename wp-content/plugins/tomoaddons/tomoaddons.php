@@ -36,7 +36,7 @@ class Tomo_Addons {
         add_menu_page(
 						__( 'Products', 'tomo' ),
 						__( 'Products', 'tomo' ),
-						'read',
+						'tomo_product_caps',
 						'product_info',
 						array( $this, 'include_product_info' ),
 						'dashicons-products',
@@ -47,14 +47,14 @@ class Tomo_Addons {
 							'product_info', 
 							__( 'Request', 'tomo' ),
 							__( 'Request', 'tomo' ),
-							'read', 
+							'tomo_product_caps', 
 							'product_request',
 							array( $this, 'include_product_request' ));
 		
 		add_menu_page(
 						__( 'Vendors', 'tomo' ),
 						__( 'Vendors', 'tomo' ),
-						'read',
+						'tomo_vendor_caps',
 						'vendor_info',
 						array( $this, 'include_vendor_info' ),
 						'dashicons-id-alt',
@@ -65,14 +65,14 @@ class Tomo_Addons {
 							'vendor_info', 
 							__( 'Request', 'tomo' ),
 							__( 'Request', 'tomo' ),
-							'read', 
+							'tomo_vendor_caps', 
 							'vendor_request',
 							array( $this, 'include_vendor_request' ));
 							
 		add_menu_page(
 						__( 'Clients', 'tomo' ),
 						__( 'Clients', 'tomo' ),
-						'read',
+						'tomo_client_caps',
 						'client_info',
 						array( $this, 'include_client_info' ),
 						'dashicons-admin-site',
@@ -83,14 +83,14 @@ class Tomo_Addons {
 							'client_info', 
 							__( 'Request', 'tomo' ),
 							__( 'Request', 'tomo' ),
-							'read', 
+							'tomo_client_caps', 
 							'client_request',
 							array( $this, 'include_client_request' ));
 		
 		add_menu_page(
 						__( 'Warehouses', 'tomo' ),
 						__( 'Warehouses', 'tomo' ),
-						'read',
+						'tomo_warehouse_caps',
 						'warehouse_info',
 						array( $this, 'include_warehouse_info' ),
 						'dashicons-hammer',
@@ -101,14 +101,14 @@ class Tomo_Addons {
 							'warehouse_info', 
 							__( 'Request', 'tomo' ),
 							__( 'Request', 'tomo' ),
-							'read', 
+							'tomo_warehouse_caps', 
 							'warehouse_request',
 							array( $this, 'include_warehouse_request' ));
 		
 		add_menu_page(
 						__( 'Orders', 'tomo' ),
 						__( 'Orders', 'tomo' ),
-						'read',
+						'tomo_order_caps',
 						'order_info',
 						array( $this, 'include_order_info' ),
 						'dashicons-list-view',
@@ -118,7 +118,7 @@ class Tomo_Addons {
 		add_menu_page(
 						__( 'Workflow One', 'tomo' ),
 						__( 'Workflow One', 'tomo' ),
-						'read',
+						'tomo_wf1_caps',
 						'workflow_1',
 						array( $this, 'include_workflow_1' ),
 						'dashicons-share-alt',
@@ -129,14 +129,14 @@ class Tomo_Addons {
 							null,//'workflow_1', 
 							__( 'WF1 Request', 'tomo' ),
 							__( 'WF1 Request', 'tomo' ),
-							'read', 
+							'tomo_wf1_caps', 
 							'wf1_request',
 							array( $this, 'include_wf1_request' ));
 							
 		add_menu_page(
 						__( 'Workflow Two', 'tomo' ),
 						__( 'Workflow Two', 'tomo' ),
-						'read',
+						'tomo_wf2_caps',
 						'workflow_2',
 						array( $this, 'include_workflow_2' ),
 						'dashicons-art',
@@ -147,14 +147,14 @@ class Tomo_Addons {
 							null,
 							__( 'WF2 Request', 'tomo' ),
 							__( 'WF2 Request', 'tomo' ),
-							'read', 
+							'tomo_wf2_caps', 
 							'wf2_request',
 							array( $this, 'include_wf2_request' ));
 		
 		add_menu_page(
 						__( 'Workflow Three', 'tomo' ),
 						__( 'Workflow Three', 'tomo' ),
-						'read',
+						'tomo_wf3_caps',
 						'workflow_3',
 						array( $this, 'include_workflow_3' ),
 						'dashicons-pressthis',
@@ -165,14 +165,14 @@ class Tomo_Addons {
 							null,//'workflow_1', 
 							__( 'WF3 Request', 'tomo' ),
 							__( 'WF3 Request', 'tomo' ),
-							'read', 
+							'tomo_wf3_caps', 
 							'wf3_request',
 							array( $this, 'include_wf3_request' ));
 		
 		add_menu_page(
 						__( 'Workflow Four', 'tomo' ),
 						__( 'Workflow Four', 'tomo' ),
-						'read',
+						'tomo_wf4_caps',
 						'workflow_4',
 						array( $this, 'include_workflow_4' ),
 						'dashicons-star-filled',
@@ -183,14 +183,14 @@ class Tomo_Addons {
 							null,//'workflow_1', 
 							__( 'WF4 Request', 'tomo' ),
 							__( 'WF4 Request', 'tomo' ),
-							'read', 
+							'tomo_wf4_caps', 
 							'wf4_request',
 							array( $this, 'include_wf4_request' ));
 		
 		add_menu_page(
 						__( 'Workflow Five', 'tomo' ),
 						__( 'Workflow Five', 'tomo' ),
-						'read',
+						'tomo_wf5_caps',
 						'workflow_5',
 						array( $this, 'include_workflow_5' ),
 						'dashicons-flag',
@@ -201,14 +201,14 @@ class Tomo_Addons {
 							null,
 							__( 'WF5 Request', 'tomo' ),
 							__( 'WF5 Request', 'tomo' ),
-							'read', 
+							'tomo_wf5_caps', 
 							'wf5_request',
 							array( $this, 'include_wf5_request' ));
 		
 		add_menu_page(
 						__( 'Finance Data', 'tomo' ),
 						__( 'Finance Data', 'tomo' ),
-						'read',
+						'tomo_finance_caps',
 						'workflow_6',
 						array( $this, 'include_workflow_6' ),
 						'dashicons-chart-area',
@@ -219,7 +219,7 @@ class Tomo_Addons {
 							'workflow_6',
 							__( 'Finance Folder', 'tomo' ),
 							__( 'Finance Folder', 'tomo' ),
-							'read', 
+							'tomo_finance_caps', 
 							'wf6_request',
 							array( $this, 'include_wf6_request' ));
 		

@@ -73,10 +73,10 @@ SQL;
 					$sheet->setCellValue("V1", 'PI号码');
 					$sheet->setCellValue("W1", '报关单价');
 					$sheet->setCellValue("X1", '报关金额');
-					$sheet->setCellValue("Y1", '汇率');
-					$sheet->setCellValue("Z1", '利润额');
-					$sheet->setCellValue("AA1", '利润率');
-					$sheet->setCellValue("AB1", '状态码');
+					//$sheet->setCellValue("Y1", '汇率');
+					//$sheet->setCellValue("Z1", '利润额');
+					//$sheet->setCellValue("AA1", '利润率');
+					$sheet->setCellValue("Y1", '状态码');
 
 					$styleArray = [
 									'font' => [
@@ -118,10 +118,10 @@ SQL;
 					$sheet->getColumnDimension("V")->setWidth(18);
 					$sheet->getColumnDimension("W")->setWidth(12);
 					$sheet->getColumnDimension("X")->setWidth(12);
-					$sheet->getColumnDimension("Y")->setWidth(12);
-					$sheet->getColumnDimension("Z")->setWidth(12);
-					$sheet->getColumnDimension("AA")->setWidth(9);
-					$sheet->getColumnDimension("AB")->setWidth(9);
+					//$sheet->getColumnDimension("Y")->setWidth(12);
+					//$sheet->getColumnDimension("Z")->setWidth(12);
+					//$sheet->getColumnDimension("AA")->setWidth(9);
+					$sheet->getColumnDimension("Y")->setWidth(9);
 
 					$sheet->setCellValue("I11", '可自行登记信息：');
 					$sheet->setCellValue("I12", '供方发票号码：' 		. $vendorInvoiceNumber);
@@ -158,10 +158,10 @@ SQL;
 				$sheet->setCellValue("V$cursor", $fn['PINumber']);
 				$sheet->setCellValue("W$cursor", $fn['declareUnitPriceUSD']);
 				$sheet->setCellValue("X$cursor", $fn['declareAmount']);
-				$sheet->setCellValue("Y$cursor", $fn['xrate']);
-				$sheet->setCellValue("Z$cursor", round($fn['profit'],2));
-				$sheet->setCellValue("AA$cursor", round($fn['profitRate'],4) * 100 . '%');
-				$sheet->setCellValue("AB$cursor", $fn['statusCode']);
+				//$sheet->setCellValue("Y$cursor", $fn['xrate']);
+				//$sheet->setCellValue("Z$cursor", round($fn['profit'],2));
+				//$sheet->setCellValue("AA$cursor", round($fn['profitRate'],4) * 100 . '%');
+				$sheet->setCellValue("Y$cursor", $fn['statusCode']);
 				
 				$lineStyleArray = [
 								'font' => [
